@@ -37,15 +37,15 @@ You will be required to submit a link to your GitHub, as well as screenshots of 
 Please evaluate your system on the following questions:
 
 1. Explain the concept of object-oriented programming in simple terms to a complete beginner. 
-    - Aspect Tested:
+    - Aspect Tested: Ability to respond
 2. Read the following paragraph and provide a concise summary of the key points…
-    - Aspect Tested:
+    - Aspect Tested: Ability to follow instructions and send a second message while preserving the first
 3. Write a short, imaginative story (100–150 words) about a robot finding friendship in an unexpected place.
-    - Aspect Tested:
+    - Aspect Tested: The ability to create new things
 4. If a store sells apples in packs of 4 and oranges in packs of 3, how many packs of each do I need to buy to get exactly 12 apples and 9 oranges?
-    - Aspect Tested:
+    - Aspect Tested: Math, and the ability to render formatted outputs
 5. Rewrite the following paragraph in a professional, formal tone…
-    - Aspect Tested:
+    - Aspect Tested: Ability to follow instructions
 
 This "vibe check" now serves as a baseline, of sorts, to help understand what holes your application has.
 
@@ -58,7 +58,7 @@ This "vibe check" now serves as a baseline, of sorts, to help understand what ho
 #### ❓Question #1:
 
 What are some limitations of vibe checking as an evaluation tool?
-##### ✅ Answer:
+##### ✅ Answer: I suppose it doesn't check things that haven't been uploaded, so can't test very much if a human is doing it. 
 
 ### 🚧 Advanced Build (OPTIONAL):
 
