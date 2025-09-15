@@ -39,8 +39,8 @@ class TextFileLoader:
 class CharacterTextSplitter:
     def __init__(
         self,
-        chunk_size: int = 1000,
-        chunk_overlap: int = 200,
+        chunk_size: int = 2000,
+        chunk_overlap: int = 1000,
     ):
         assert (
             chunk_size > chunk_overlap
@@ -60,6 +60,56 @@ class CharacterTextSplitter:
         for text in texts:
             chunks.extend(self.split(text))
         return chunks
+
+
+class MultiSizeTextSplitter:
+    """Splitter that creates chunks of multiple sizes from the same text."""
+
+    def __init__(self, chunk_configs: List[tuple] = None):
+        """
+        Args:
+            chunk_configs: List of (chunk_size, chunk_overlap) tuples
+                          Default: [(1000, 500), (500, 250)]
+        """
+        if chunk_configs is None:
+            chunk_configs = [
+                # (2000, 1000),
+                (1000, 500),
+                (500, 250),
+            ]
+
+        self.splitters = []
+        for chunk_size, chunk_overlap in chunk_configs:
+            self.splitters.append(CharacterTextSplitter(chunk_size, chunk_overlap))
+
+    def split(self, text: str) -> List[str]:
+        """Return all chunks from all splitter configurations."""
+        all_chunks = []
+        for splitter in self.splitters:
+            all_chunks.extend(splitter.split(text))
+        return all_chunks
+
+    def split_texts(self, texts: List[str]) -> List[str]:
+        """Return all chunks from all splitter configurations for multiple texts."""
+        all_chunks = []
+        for text in texts:
+            all_chunks.extend(self.split(text))
+        return all_chunks
+
+    def split_by_size(self, text: str) -> dict:
+        """Return chunks organized by size configuration."""
+        chunks_by_size = {}
+        for i, splitter in enumerate(self.splitters):
+            size_key = f"{splitter.chunk_size}_{splitter.chunk_overlap}"
+            chunks_by_size[size_key] = splitter.split(text)
+        return chunks_by_size
+
+
+class SmallCharacterTextSplitter(CharacterTextSplitter):
+    """Convenience class for smaller text chunks (500 chars with 250 overlap)."""
+
+    def __init__(self):
+        super().__init__(chunk_size=500, chunk_overlap=250)
 
 
 if __name__ == "__main__":

@@ -18,7 +18,7 @@ class ChatOpenAI:
 
         client = OpenAI()
         response = client.chat.completions.create(
-            model=self.model_name, messages=messages, **kwargs
+            model=self.model_name, reasoning_effort="high",messages=messages, **kwargs
         )
 
         if text_only:

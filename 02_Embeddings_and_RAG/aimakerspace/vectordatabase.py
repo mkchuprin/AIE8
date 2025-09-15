@@ -1,3 +1,6 @@
+import os
+os.sys.path.append("/Users/michaelchuprin/Codes/Personal/AIE8/02_Embeddings_and_RAG/")
+
 import numpy as np
 from collections import defaultdict
 from typing import List, Tuple, Callable
@@ -49,6 +52,7 @@ class VectorDatabase:
 
     async def abuild_from_list(self, list_of_text: List[str]) -> "VectorDatabase":
         embeddings = await self.embedding_model.async_get_embeddings(list_of_text)
+        
         for text, embedding in zip(list_of_text, embeddings):
             self.insert(text, np.array(embedding))
         return self
