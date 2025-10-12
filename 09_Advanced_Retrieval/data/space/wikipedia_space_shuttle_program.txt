@@ -1,0 +1,545 @@
+
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+
+Contents hide
+(Top)
+Background
+Conception and development
+Program history
+Accomplishments
+Budget
+Accidents
+
+STS-51-L (Challenger, 1986)
+STS-107 (Columbia, 2003)
+Retirement
+Preservation
+Crew modules
+Successors
+
+Gallery
+Assets and transition plan
+Criticism
+Support vehicles
+See also
+References
+Further reading
+External links
+Space Shuttle program
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+Space Shuttle program
+
+Program overview
+Country	United States
+Organization	NASA
+Purpose	Crewed orbital flight
+Status	Completed
+Program history
+Cost	US$196 billion (2011)
+Duration	1972–2011[a]
+First flight	August 12, 1977 (ALT-12)
+First crewed flight	April 12, 1981 (STS-1)
+Last flight	July 21, 2011 (STS-135)
+Successes	133
+Failures	2 (STS-51-L, STS-107)
+Partial failures	1 (STS-83)
+Launch sites	
+Kennedy, LC-39A
+Kennedy, LC-39B
+Vehicle information
+Crewed vehicle	Space Shuttle orbiter
+Launch vehicle	Space Shuttle
+Part of a series on the
+United States space program
+
+NASAU.S. Space Force
+Human spaceflight programs
+Robotic spaceflight programs
+NASA Astronaut Corps
+Spaceports
+Space launch vehicles
+National security space
+Civil space
+Commercial space industry
+vte
+The Space Shuttle program was the fourth human spaceflight program carried out by the U.S. National Aeronautics and Space Administration (NASA), which accomplished routine transportation for Earth-to-orbit crew and cargo from 1981 to 2011. Its official program name was Space Transportation System (STS), taken from a 1969 plan for a system of reusable spacecraft where it was the only item funded for development, as a proposed nuclear shuttle in the plan was cancelled in 1972.[1][2] It flew 135 missions and carried 355 astronauts from 16 countries, many on multiple trips.
+
+The Space Shuttle, composed of an orbiter launched with two reusable solid rocket boosters and a disposable external fuel tank, carried up to eight astronauts and up to 50,000 lb (23,000 kg) of payload into low Earth orbit (LEO). When its mission was complete, the orbiter would reenter the Earth's atmosphere and land like a glider at either the Kennedy Space Center or Edwards Air Force Base.
+
+The Shuttle is the only winged crewed spacecraft to have achieved orbit and landing, and the first reusable crewed space vehicle that made multiple flights into orbit.[b] Its missions involved carrying large payloads to various orbits including the International Space Station (ISS), providing crew rotation for the space station, and performing service missions on the Hubble Space Telescope. The orbiter also recovered satellites and other payloads (e.g., from the ISS) from orbit and returned them to Earth, though its use in this capacity was rare. Each vehicle was designed with a projected lifespan of 100 launches, or 10 years' operational life. Original selling points on the shuttles were over 150 launches over a 15-year operational span with a 'launch per month' expected at the peak of the program, but extensive delays in the development of the International Space Station[3] never created such a peak demand for frequent flights.
+
+Background
+Various shuttle concepts had been explored since the late 1960s. The program formally commenced in 1972, becoming the sole focus of NASA's human spaceflight operations after the Apollo, Skylab, and Apollo–Soyuz programs in 1975. The Shuttle was originally conceived of and presented to the public in 1972 as a 'Space Truck' which would, among other things, be used to build a United States space station in low Earth orbit during the 1980s and then be replaced by a new vehicle by the early 1990s. The stalled plans for a U.S. space station evolved into the International Space Station and were formally initiated in 1983 by President Ronald Reagan, but the ISS suffered from long delays, design changes and cost over-runs[3] and forced the service life of the Space Shuttle to be extended several times until 2011 when it was finally retired—serving twice as long as it was originally designed to do. In 2004, according to President George W. Bush's Vision for Space Exploration, use of the Space Shuttle was to be focused almost exclusively on completing assembly of the ISS, which was far behind schedule at that point.
+
+The first experimental orbiter, Enterprise, was a high-altitude glider, launched from the back of a specially modified Boeing 747, only for initial atmospheric landing tests (ALT). Enterprise's first test flight was on February 18, 1977, only five years after the Shuttle program was formally initiated; leading to the launch of the first space-worthy shuttle Columbia on April 12, 1981, on STS-1. The Space Shuttle program finished with its last mission, STS-135 flown by Atlantis, in July 2011, retiring the final Shuttle in the fleet. The Space Shuttle program formally ended on August 31, 2011.[4]
+
+Conception and development
+This section is an excerpt from Space Shuttle design process.[edit]
+
+Early U.S. space shuttle concepts
+Before the Apollo 11 Moon landing in 1969, NASA began studies of Space Shuttle designs as early as October 1968. The early studies were denoted "Phase A", and in June 1970, "Phase B", which were more detailed and specific. The primary intended use of the Phase A Space Shuttle was supporting the future space station, ferrying a minimum crew of four and about 20,000 pounds (9,100 kg) of cargo, and being able to be rapidly turned around for future flights, with larger payloads like space station modules being lifted by the Saturn V.
+
+Two designs emerged as front-runners. One was designed by engineers at the Manned Spaceflight Center, and championed especially by George Mueller. This was a two-stage system with delta-winged spacecraft, and generally complex. An attempt to re-simplify was made in the form of the DC-3, designed by Maxime Faget, who had designed the Mercury capsule among other vehicles. Numerous offerings from a variety of commercial companies were also offered but generally fell by the wayside as each NASA lab pushed for its own version.
+
+All of this was taking place in the midst of other NASA teams proposing a wide variety of post-Apollo missions, a number of which would cost as much as Apollo or more.[citation needed] As each of these projects fought for funding, the NASA budget was at the same time being severely constrained. Three were eventually presented to United States Vice President Spiro Agnew in 1969. The shuttle project rose to the top, largely due to tireless campaigning by its supporters.[citation needed] By 1970 the shuttle had been selected as the one major project for the short-term post-Apollo time frame.
+
+When funding for the program came into question, there were concerns that the project might be canceled. This became especially pressing as it became clear that the Saturn V would no longer be produced, which meant that the payload to orbit needed to be increased in both mass - all the way to 60,600 pounds (27,500 kg) - and size to supplement its heavy-lift capabilities, necessary for planned interplanetary probes and space station modules, which meant a bigger and costlier vehicle was needed during Phase B. Therefore, NASA tried to interest the US Air Force and a variety of other customers in using the shuttle for their missions as well. To lower the development costs of the proposed designs, boosters were added, a throw-away fuel tank was adopted, and many other changes were made that greatly lowered the reusability and greatly added to the vehicle and operational costs.
+Program history
+See also: Space Shuttle, List of Space Shuttle missions, and Timeline of Space Shuttle missions
+
+President Richard Nixon (right) with NASA Administrator James Fletcher in January 1972, three months before Congress approved funding for the Shuttle program
+
+Shuttle approach and landing test crews, 1976
+All Space Shuttle missions were launched from the Kennedy Space Center (KSC) in Florida. Some civilian and military circumpolar space shuttle missions were planned for Vandenberg AFB in California. However, the use of Vandenberg AFB for space shuttle missions was canceled after the Challenger disaster in 1986. The weather criteria used for launch included, but were not limited to: precipitation, temperatures, cloud cover, lightning forecast, wind, and humidity.[5] The Shuttle was not launched under conditions where it could have been struck by lightning.
+
+The first fully functional orbiter was Columbia (designated OV-102), built in Palmdale, California. It was delivered to Kennedy Space Center (KSC) on March 25, 1979, and was first launched on April 12, 1981—the 20th anniversary of Yuri Gagarin's space flight—with a crew of two.
+
+Challenger (OV-099) was delivered to KSC in July 1982, Discovery (OV-103) in November 1983, Atlantis (OV-104) in April 1985 and Endeavour (OV-105) in May 1991. Challenger was originally built and used as a Structural Test Article (STA-099), but was converted to a complete orbiter when this was found to be less expensive than converting Enterprise from its Approach and Landing Test configuration into a spaceworthy vehicle.
+
+On April 24, 1990, Discovery carried the Hubble Space Telescope into space during STS-31.
+
+In the course of 135 missions flown, two orbiters (Columbia and Challenger) suffered catastrophic accidents, with the loss of all crew members, totaling 14 astronauts.
+
+The accidents led to national level inquiries, detailed analysis of why the accidents occurred, and significant pauses where changes were made before the Shuttles returned to flight.[6] After the Challenger disaster in January 1986, there was a delay of 32 months before the next Shuttle launch.[7] A similar delay of 29 months occurred after the Columbia disaster in February 2003.[6]
+
+The longest Shuttle mission was STS-80 lasting 17 days, 15 hours. The final flight of the Space Shuttle program was STS-135 on July 8, 2011.
+
+Since the Shuttle's retirement in 2011, many of its original duties are performed by an assortment of government and private vessels. The European ATV Automated Transfer Vehicle supplied the ISS between 2008 and 2015. Classified military missions are being flown by the US Air Force's uncrewed spaceplane, the X-37B.[8] By 2012, cargo to the International Space Station was already being delivered commercially under NASA's Commercial Resupply Services by SpaceX's partially reusable Dragon spacecraft, followed by Orbital Sciences' Cygnus spacecraft in late 2013. Crew service to the ISS is currently provided by the Russian Soyuz and, since 2020, the SpaceX Dragon 2 crew capsule, launched on the company's reusable Falcon 9 rocket as part of NASA's Commercial Crew Development program.[9] Boeing's Starliner capsule is scheduled to start ISS crew service from 2025. For missions beyond low Earth orbit, NASA is building the Space Launch System and the Orion spacecraft, part of the Artemis program.
+
+
+NASA Administrator address the crowd at the Spacelab arrival ceremony in February 1982. On the podium with him is then-Vice President George Bush, the director general of European Space Agency (ESA), Eric Quistgaard, and director of Kennedy Space Center Richard G. Smith
+
+"President Ronald Reagan chats with NASA astronauts Henry Hartsfield and Ken Mattingly on the runway as first lady Nancy Reagan inspects the nose of Space Shuttle Columbia following its Independence Day landing at Edwards Air Force Base on July 4, 1982."[10]
+
+STS-3 lands in March 1982
+Accomplishments
+
+Galileo floating free in space after release from Space Shuttle Atlantis, 1989
+
+Space Shuttle Endeavour docked with the International Space Station (ISS), 2011
+Space Shuttle missions have included:
+
+Spacelab missions[11] Including:
+Science[11]
+Astronomy[11]
+Crystal growth[11]
+Space physics[11]
+Construction of the International Space Station (ISS)
+Crew rotation and servicing of Mir and the International Space Station (ISS)
+Servicing missions, such as to repair the Hubble Space Telescope (HST) and orbiting satellites
+Human experiments in low Earth orbit (LEO)
+Carried to low Earth orbit (LEO):
+The Hubble Space Telescope (HST)
+Components of the International Space Station (ISS)
+Supplies in Spacehab modules or Multi-Purpose Logistics Modules
+The Long Duration Exposure Facility
+The Upper Atmosphere Research Satellite
+The Compton Gamma Ray Observatory
+The Earth Radiation Budget Satellite
+The Mir Shuttle Docking Node
+Carried satellites with a booster, such as the Payload Assist Module (PAM-D) or the Inertial Upper Stage (IUS), to the point where the booster sends the satellite to:
+A higher Earth orbit; these have included:
+Chandra X-ray Observatory
+The first six TDRS satellites
+Two DSCS-III (Defense Satellite Communications System) communications satellites in one mission
+A Defense Support Program satellite
+An interplanetary mission; these have included:
+Magellan
+Galileo
+Ulysses
+U.S. Shuttle Columbia landing at the end of STS-73, 1995
+U.S. Shuttle Columbia landing at the end of STS-73, 1995
+ 
+Space art for the Spacelab 2 mission, showing some of the various experiments in the payload bay. Spacelab was a major European contribution to the Space Shuttle program
+Space art for the Spacelab 2 mission, showing some of the various experiments in the payload bay. Spacelab was a major European contribution to the Space Shuttle program
+ 
+European astronauts prepare for their Spacelab mission, 1984.
+European astronauts prepare for their Spacelab mission, 1984.
+ 
+SpaceLab hardware included a pressurized lab, but also other equipment allowing the Orbiter to serve as a crewed space observatory (Astro-2 mission, 1995, shown)
+SpaceLab hardware included a pressurized lab, but also other equipment allowing the Orbiter to serve as a crewed space observatory (Astro-2 mission, 1995, shown)
+ 
+Astronauts Thomas D. Akers and Kathryn C. Thornton install corrective optics on the Hubble Space Telescope during STS-61.
+Astronauts Thomas D. Akers and Kathryn C. Thornton install corrective optics on the Hubble Space Telescope during STS-61.
+Budget
+
+Space Shuttle Atlantis takes flight on the STS-27 mission on December 2, 1988. The Shuttle took about 8.5 minutes to accelerate to a speed of over 27,000 km/h (17000 mph) and achieve orbit.
+
+A drag chute is deployed by Endeavour as it completes a mission of almost 17 days in space on Runway 22 at Edwards Air Force Base in southern California. Landing occurred at 1:46 pm (EST), March 18, 1995.
+Early during development of the Space Shuttle, NASA had estimated that the program would cost $7.45 billion ($43 billion in 2011 dollars, adjusting for inflation) in development/non-recurring costs, and $9.3M ($54M in 2011 dollars) per flight.[12] Early estimates for the cost to deliver payload to low-Earth orbit were as low as $118 per pound ($260/kg) of payload ($635/lb or $1,400/kg in 2011 dollars), based on marginal or incremental launch costs, and assuming a 65,000 pound (30 000 kg) payload capacity and 50 launches per year.[13][14] A more realistic projection of 12 flights per year for the 15-year service life combined with the initial development costs would have resulted in a total cost projection for the program of roughly $54 billion (in 2011 dollars).
+
+The total cost of the actual 30-year service life of the Shuttle program through 2011, adjusted for inflation, was $196 billion.[15] In 2010, the incremental cost per flight of the Space Shuttle was $409 million, or $14,186 per kilogram ($6,435 per pound) to low Earth orbit (LEO). In contrast, the comparable Proton launch vehicle cost was $141 million, or $6,721 per kilogram ($3,049 per pound) to LEO and the Soyuz 2.1 was $55 million, or $6,665 per kilogram ($3,023 per pound), despite these launch vehicles not being reusable.[16]
+
+NASA's budget for 2005 allocated 30%, or $5 billion, to space shuttle operations;[17] this was decreased in 2006 to a request of $4.3 billion.[18] Non-launch costs account for a significant part of the program budget: for example, during fiscal years 2004 to 2006, NASA spent around $13 billion on the Space Shuttle program,[19] even though the fleet was grounded in the aftermath of the Columbia disaster and there were a total of three launches during this period of time. In fiscal year 2009, NASA budget allocated $2.98 billion for 5 launches to the program, including $490 million for "program integration", $1.03 billion for "flight and ground operations", and $1.46 billion for "flight hardware" (which includes maintenance of orbiters, engines, and the external tank between flights.)
+
+Per-launch costs can be measured by dividing the total cost over the life of the program (including buildings, facilities, training, salaries, etc.) by the number of launches. With 135 missions, and the total cost of US$192 billion (in 2010 dollars), this gives approximately $1.5 billion per launch over the life of the Shuttle program.[20]
+
+Per-launch Shuttle costs are sometimes misrepresented by quoting a figure of US$272,000 per kilogram. This number does not reflect historical NASA accounting, but instead comes from a 2017 NASA Kennedy Space Center “what-if Shuttle” projection that modeled the vehicle as if it had continued flying only two ISS logistics flights per year, each capped at 10,000 kg of cargo, and then divided total program costs across that reduced mass.[21] To reach that figure, the model assumed inflated refurbishment costs, treated astronaut transport as “free”, underestimated Shuttle cargo capacity (actual MPLM flights averaged 13,841 kg and could reach 16,000–20,000 kg when middeck and additional payloads were included)[22] and imposed an artificially low launch rate. In practice, Shuttle ISS flights routinely carried larger payloads, flew at higher cadence, and provided additional capabilities such as transporting up to seven crew, returning 10–14 tonnes of downmass, and conducting station assembly and servicing missions.[23][24]
+
+According to NASA’s own documentation, the total life-of-program cost was US$192 billion in 2010 dollars, equivalent to US$261 billion in 2025 dollars when adjusted using the NASA New Start Inflation Index.[25] Spread over 135 missions, this yields about US$1.93 billion per flight (2025$). However, this lifetime average is skewed by early low-cadence years and long post-accident stand-downs. During the ISS assembly and logistics era, Shuttle flew 6–7 missions per year, giving an effective amortized cost closer to US$1.6 billion per flight (2025$). At actual ISS payload levels of ≈13,800–16,000 kg, this corresponds to ~US$100,000–116,000 per kilogram, not US$272,000/kg.
+
+If astronaut transport is also included, the Shuttle’s economics improve further: each flight routinely carried seven crew in addition to cargo. After Shuttle retirement, NASA purchased Soyuz seats at US$70–90 million each,[26] implying that the crew transport portion of a Shuttle mission alone was worth US$490–630 million per flight. Subtracting this offset from the ISS-era average (~US$1.6 billion/flight) yields a net cargo cost of ~US$800–1,100 million per flight. At 13,800–16,000 kg of cargo, this equates to ~US$50,000–70,000 per kilogram, underscoring that the oft-quoted US$272,000/kg figure was a projection under restrictive assumptions rather than a reflection of Shuttle’s actual operating record.
+
+Independent NASA analyses confirm that Shuttle’s effective cargo costs were not unusually high compared to later commercial services. In the same 2017 study that projected a “what-if Shuttle” scenario at US$272,000/kg, Zapata also reported average costs for Commercial Resupply Services (CRS) vehicles of ~US$209,000/kg for Cygnus and ~US$89,000/kg for Dragon.[27] Using NASA’s own documented Shuttle cargo loads and ISS-era cadence, the Shuttle’s real costs work out to US$50,000–70,000/kg when cargo and crew transport are properly valued—meaning the Shuttle was competitive with, and in many cases cheaper than, the commercial systems that replaced it.
+
+NASA used a management philosophy known as success-oriented management during the Space Shuttle program which historian Alex Roland described in the aftermath of the Columbia disaster as "hoping for the best".[28] Success-oriented management has since been studied by several analysts in the area.[29][30][31]
+
+Accidents
+In the course of 135 missions flown, two orbiters were destroyed, with loss of crew totalling 14 astronauts:
+
+Challenger – lost 73 seconds after liftoff, STS-51-L, January 28, 1986
+Columbia – lost approximately 16 minutes before its expected landing, STS-107, February 1, 2003
+There was also one abort-to-orbit and some fatal accidents on the ground during launch preparations.
+
+STS-51-L (Challenger, 1986)
+Main article: Space Shuttle Challenger disaster
+
+In 1986, Challenger disintegrated one minute and 13 seconds after liftoff.
+Close-up video footage of Challenger during its final launch on January 28, 1986, clearly shows that the problems began due to an O-ring failure on the right solid rocket booster (SRB). The hot plume of gas leaking from the failed joint caused the collapse of the external tank, which then resulted in the orbiter's disintegration due to high aerodynamic stress. The accident resulted in the loss of all seven astronauts on board. Endeavour (OV-105) was built to replace Challenger (using structural spare parts originally intended for the other orbiters) and delivered in May 1991; it was first launched a year later.
+
+After the loss of Challenger, NASA grounded the Space Shuttle program for over two years, making numerous safety changes recommended by the Rogers Commission Report, which included a redesign of the SRB joint that failed in the Challenger accident. Other safety changes included a new escape system for use when the orbiter was in controlled flight, improved landing gear tires and brakes, and the reintroduction of pressure suits for Shuttle astronauts (these had been discontinued after STS-4; astronauts wore only coveralls and oxygen helmets from that point on until the Challenger accident). The Shuttle program continued in September 1988 with the launch of Discovery on STS-26.
+
+The accidents did not just affect the technical design of the orbiter, but also NASA.[7] Quoting some recommendations made by the post-Challenger Rogers commission:[7]
+
+Recommendation I – The faulty Solid Rocket Motor joint and seal must be changed. This could be a new design eliminating the joint or a redesign of the current joint and seal. ... the Administrator of NASA should request the National Research Council to form an independent Solid Rocket Motor design oversight committee to implement the Commission's design recommendations and oversee the design effort.
+Recommendation II – The Shuttle Program Structure should be reviewed. ... NASA should encourage the transition of qualified astronauts into agency management Positions.
+Recommendation III – NASA and the primary shuttle contractors should review all Criticality 1, 1R, 2, and 2R items and hazard analyses.
+Recommendation IV – NASA should establish an Office of Safety, Reliability and Quality Assurance to be headed by an Associate Administrator, reporting directly to the NASA Administrator.
+Recommendation VI – NASA must take actions to improve landing safety. The tire, brake and nosewheel system must be improved.
+Recommendation VII – Make all efforts to provide a crew escape system for use during controlled gliding flight.
+Recommendation VIII – The nation's reliance on the shuttle as its principal space launch capability created a relentless pressure on NASA to increase the flight rate ... NASA must establish a flight rate that is consistent with its resources.
+
+STS-107 (Columbia, 2003)
+Main article: Space Shuttle Columbia disaster
+Duration: 7 minutes and 51 seconds.7:51Subtitles available.CC
+Video of Columbia's final moments, filmed by the crew.
+
+Space Shuttle Discovery as it approaches the International Space Station during STS-114 on July 28, 2005. This was the Shuttle's "return to flight" mission after the Columbia disaster
+The Shuttle program operated accident-free for seventeen years and 88 missions after the Challenger disaster, until Columbia broke up on reentry, killing all seven crew members, on February 1, 2003. The ultimate cause of the accident was a piece of foam separating from the external tank moments after liftoff and striking the leading edge of the orbiter's left wing, puncturing one of the reinforced carbon-carbon (RCC) panels that covered the wing edge and protected it during reentry. As Columbia reentered the atmosphere at the end of an otherwise normal mission, hot gas penetrated the wing and destroyed it from the inside out, causing the orbiter to lose control and disintegrate.
+
+After the Columbia disaster, the International Space Station operated on a skeleton crew of two for more than two years and was serviced primarily by Russian spacecraft. While the "Return to Flight" mission STS-114 in 2005 was successful, a similar piece of foam from a different portion of the tank was shed. Although the debris did not strike Discovery, the program was grounded once again for this reason.
+
+The second "Return to Flight" mission, STS-121 launched on July 4, 2006, at 14:37 (EDT). Two previous launches were scrubbed because of lingering thunderstorms and high winds around the launch pad, and the launch took place despite objections from its chief engineer and safety head. A five-inch (13 cm) crack in the foam insulation of the external tank gave cause for concern; however, the Mission Management Team gave the go for launch.[32] This mission increased the ISS crew to three. Discovery touched down successfully on July 17, 2006, at 09:14 (EDT) on Runway 15 at Kennedy Space Center.
+
+Following the success of STS-121, all subsequent missions were completed without major foam problems, and the construction of the ISS was completed (during the STS-118 mission in August 2007, the orbiter was again struck by a foam fragment on liftoff, but this damage was minimal compared to the damage sustained by Columbia).
+
+The Columbia Accident Investigation Board, in its report, noted the reduced risk to the crew when a Shuttle flew to the International Space Station (ISS), as the station could be used as a safe haven for the crew awaiting rescue in the event that damage to the orbiter on ascent made it unsafe for reentry. The board recommended that for the remaining flights, the Shuttle always orbit with the station. Prior to STS-114, NASA Administrator Sean O'Keefe declared that all future flights of the Space Shuttle would go to the ISS, precluding the possibility of executing the final Hubble Space Telescope servicing mission which had been scheduled before the Columbia accident, despite the fact that millions of dollars worth of upgrade equipment for Hubble were ready and waiting in NASA warehouses. Many dissenters, including astronauts [who?], asked NASA management to reconsider allowing the mission, but initially the director stood firm. On October 31, 2006, NASA announced approval of the launch of Atlantis for the fifth and final shuttle servicing mission to the Hubble Space Telescope, scheduled for August 28, 2008. However SM4/STS-125 eventually launched in May 2009.
+
+One impact of Columbia was that future crewed launch vehicles, namely the Ares I, had a special emphasis on crew safety compared to other considerations.[33]
+
+Retirement
+This section is an excerpt from Space Shuttle § Retirement.[edit]
+Atlantis being towed back with some workers in the front after its final landing
+Atlantis after its final landing, marking the end of the Space Shuttle Program
+The Space Shuttle retirement was announced in January 2004.[34]: III-347  President George W. Bush announced his Vision for Space Exploration, which called for the retirement of the Space Shuttle once it completed construction of the ISS.[35][36] To ensure the ISS was properly assembled, the contributing partners determined the need for 16 remaining assembly missions in March 2006.[34]: III-349  One additional Hubble Space Telescope servicing mission was approved in October 2006.[34]: III-352  Originally, STS-134 was to be the final Space Shuttle mission. However, the Columbia disaster resulted in additional orbiters being prepared for launch on need in the event of a rescue mission. As Atlantis was prepared for the final launch-on-need mission, the decision was made in September 2010 that it would fly as STS-135 with a four-person crew that could remain at the ISS in the event of an emergency.[34]: III-355  STS-135 launched on July 8, 2011, and landed at the KSC on July 21, 2011, at 5:57 a.m. EDT (09:57 UTC).[34]: III-398  From then until the launch of Crew Dragon Demo-2 on May 30, 2020, the US launched its astronauts aboard Russian Soyuz spacecraft.[37]
+
+Following each orbiter's final flight, it was processed to make it safe for display. The OMS and RCS systems used presented the primary dangers due to their toxic hypergolic propellant, and most of their components were permanently removed to prevent any dangerous outgassing.[34]: III-443  Atlantis is on display at the Kennedy Space Center Visitor Complex in Florida,[34]: III-456  Discovery is on display at the Steven F. Udvar-Hazy Center in Virginia,[34]: III-451  Endeavour is on display at the California Science Center in Los Angeles,[34]: III-457  and Enterprise is displayed at the Intrepid Museum in New York.[34]: III-464  Components from the orbiters were transferred to the US Air Force, ISS program, and Russian and Canadian governments. The engines were removed to be used on the Space Launch System, and spare RS-25 nozzles were attached for display purposes.[34]: III-445 
+
+For many Artemis program missions, the Space Launch System's two solid rocket boosters' engines and casings and four main engines and the Orion spacecraft's main engine will all be previously flown Space Shuttle main engines, solid rocket boosters, and Orbital Maneuvering System engines. They are refurbished legacy engines from the Space Shuttle program, some of which even date back to the early 1980s. For example, Artemis I had components that flew on 83 of the 135 Space Shuttle missions. From Artemis I to Artemis IV recycled Shuttle main engines will be used before manufacturing new engines. From Artemis I to Artemis III recycled Shuttle solid rocket boosters' engines and steel casings are to be used before building new ones. From Artemis I to Artemis VI the Orion main engine will use six previously flown Space Shuttle OMS engines.[38][39][40]
+Preservation
+
+Space Shuttle Discovery at the Udvar Hazy museum
+Out of the five fully functional shuttle orbiters built, three remain. Enterprise, which was used for atmospheric test flights but not for orbital flight, had many parts taken out for use on the other orbiters. It was later visually restored and was on display at the National Air and Space Museum's Steven F. Udvar-Hazy Center until April 19, 2012. Enterprise was moved to New York City in April 2012 to be displayed at the Intrepid Museum, whose Space Shuttle Pavilion opened on July 19, 2012. Discovery replaced Enterprise at the National Air and Space Museum's Steven F. Udvar-Hazy Center. Atlantis formed part of the Space Shuttle Exhibit at the Kennedy Space Center visitor complex and has been on display there since June 29, 2013, following its refurbishment.[41]
+
+On October 14, 2012, Endeavour completed an unprecedented 12 mi (19 km) drive on city streets from Los Angeles International Airport to the California Science Center, where it has been on display in a temporary hangar since late 2012. The transport from the airport took two days and required major street closures, the removal of over 400 city trees, and extensive work to raise power lines, level the street, and temporarily remove street signs, lamp posts, and other obstacles. Hundreds of volunteers, and fire and police personnel, helped with the transport. Large crowds of spectators waited on the streets to see the shuttle as it passed through the city. Endeavour, along with the last flight-qualified external tank (ET-94), is currently on display at the Science Center's Samuel Oschin Pavilion (in a horizontal orientation) until the completion of the Samuel Oschin Air and Space Center (a planned addition to the California Science Center). Once moved, it will be permanently displayed in launch configuration, complete with genuine solid rocket boosters and external tank.[42][43]
+
+Crew modules
+External image
+image icon Rockwell 74 Passenger Module
+© Rockwell— host
+
+Spacehab module during STS-107
+
+Ten people inside Spacelab Module in the Shuttle bay in June 1995, celebrating the docking of the Space Shuttle and Mir.
+One area of Space Shuttle applications is an expanded crew.[44] Crews of up to eight have been flown in the Orbiter, but it could have held at least a crew of ten.[44] Various proposals for filling the payload bay with additional passengers were also made as early as 1979.[45] One proposal by Rockwell provided seating for 74 passengers in the Orbiter payload bay, with support for three days in Earth orbit.[45] With a smaller 64 seat orbiter, costs for the late 1980s would be around US$1.5 million per seat per launch.[46] The Rockwell passenger module had two decks, four seats across on top and two on the bottom, including a 25-inch (63.5 cm) wide aisle and extra storage space.[46]
+
+Another design was Space Habitation Design Associates 1983 proposal for 72 passengers in the Space Shuttle Payload bay.[46] Passengers were located in 6 sections, each with windows and its own loading ramp at launch, and with seats in different configurations for launch and landing.[46] Another proposal was based on the Spacelab habitation modules, which provided 32 seats in the payload bay in addition to those in the cockpit area.[46]
+
+There were some efforts to analyze commercial operation of STS.[47] Using the NASA figure for average cost to launch a Space Shuttle as of 2011 at about $450 million per mission,[48] a cost per seat for a 74[49] seat module envisioned by Rockwell came to less than $6 million, not including the regular crew. Some passenger modules used hardware similar to existing equipment, such as the tunnel,[49] which was also needed for Spacehab and Spacelab
+
+Further information: List of Space Shuttle crews
+Successors
+During the three decades of operation, various follow-on and replacements for the STS Space Shuttle were partially developed but not finished.[50]
+
+Examples of possible future space vehicles to supplement or supplant STS:[50]
+
+Advanced Crewed Earth-to-Orbit Vehicle
+Shuttle II, Johnson Space Center concept for a follow-on, with 2 boosters and 2 tanks mounted on its wings.[51]
+National Aero-Space Plane (NASP)
+Rockwell X-30 (not funded)
+VentureStar, SSTO spacelane concept using an aerospike engine.
+Lockheed Martin X-33 (cancelled 2001)
+Ares I (ended with Constellation cancellation)
+Orbital Space Plane Program
+One effort in the direction of space transportation was the Reusable Launch Vehicle (RLV) program, initiated in 1994 by NASA.[52] This led to work on the X-33 and X-34 vehicles.[52] NASA spent about US$1 billion on developing the X-33 hoping for it be in operation by 2005.[52] Another program around the turn of the millennium was the Space Launch Initiative, which was a next generation launch initiative.[53]
+
+The Space Launch Initiative program was started in 2001, and in late 2002 it was evolved into two programs, the Orbital Space Plane Program and the Next Generation Launch Technology program.[53] OSP was oriented towards provided access to the International Space Station.[53]
+
+Other vehicles that would have taken over some of the Shuttles responsibilities were the HL-20 Personnel Launch System or the NASA X-38 of the Crew Return Vehicle program, which were primarily for getting people down from ISS. The X-38 was cancelled in 2002,[54] and the HL-20 was cancelled in 1993.[55] Several other programs in this existed such as the Station Crew Return Alternative Module (SCRAM) and Assured Crew Return Vehicle (ACRV)[56]
+
+According to the 2004 Vision for Space Exploration, the next human NASA program was to be Constellation program with its Ares I and Ares V launch vehicles and the Orion spacecraft; however, the Constellation program was never fully funded, and in early 2010 the Obama administration asked Congress to instead endorse a plan with heavy reliance on the private sector for delivering cargo and crew to LEO.
+
+The Commercial Orbital Transportation Services (COTS) program began in 2006 with the purpose of creating commercially operated uncrewed cargo vehicles to service the ISS.[57] The first of these vehicles, SpaceX Dragon 1, became operational in 2012, and the second, Orbital Sciences's Cygnus did so in 2014.[58]
+
+The Commercial Crew Development (CCDev) program was initiated in 2010 with the purpose of creating commercially operated crewed spacecraft capable of delivering at least four crew members to the ISS, staying docked for 180 days and then returning them back to Earth.[59] These spacecraft, like SpaceX's Dragon 2 and Boeing CST-100 Starliner were expected to become operational around 2020.[60] On the Crew Dragon Demo-2 mission, SpaceX's Dragon 2 sent astronauts to the ISS, restoring America's human launch capability. The first operational SpaceX mission launched on November 15, 2020, at 7:27:17 p.m. ET, carrying four astronauts to the ISS.
+
+Although the Constellation program was canceled, it has been replaced with a very similar Artemis program. The Orion spacecraft has been left virtually unchanged from its previous design. The planned Ares V rocket has been replaced with the smaller Space Launch System (SLS), which is planned to launch both Orion and other necessary hardware.[61] Exploration Flight Test-1 (EFT-1), an uncrewed test flight of the Orion spacecraft, launched on December 5, 2014, on a Delta IV Heavy rocket.[62]
+
+Artemis 1 is the first flight of the SLS and was launched as a test of the completed Orion and SLS system.[63] During the mission, an uncrewed Orion capsule spent 10 days in a 57,000-kilometer (31,000-nautical-mile) distant retrograde orbit around the Moon before returning to Earth.[64] Artemis 2, the first crewed mission of the program, will launch four astronauts in 2024[65] on a free-return flyby of the Moon at a distance of 8,520 kilometers (4,600 nautical miles).[66][67] After Artemis 2, the Power and Propulsion Element of the Lunar Gateway and three components of an expendable lunar lander are planned to be delivered on multiple launches from commercial launch service providers.[68] Artemis 3 is planned to launch in 2025 aboard a SLS Block 1 rocket and will use the minimalist Gateway and expendable lander to achieve the first crewed lunar landing of the program. The flight is planned to touch down on the lunar south pole region, with two astronauts staying there for about one week.[68][69][70][71][72]
+
+For many Artemis missions, the Space Launch System's two solid rocket boosters' engines and casings and four main engines and the Orion spacecraft's main engine will all be previously flown Space Shuttle main engines, solid rocket boosters, and Orbital Maneuvering System engines. They are refurbished legacy engines from the Space Shuttle program, some of which even date back to the early 1980s. For example, Artemis I had components that flew on 83 of the 135 Space Shuttle missions. From Artemis I to Artemis IV recycled Shuttle main engines will be used before manufacturing new engines. From Artemis I to Artemis III recycled Shuttle solid rocket boosters' engines and steel casings will be used before manufacturing new ones. From Artemis I to Artemis VI the Orion main engine will use six previously flown Space Shuttle OMS engines.[73][74][75]
+
+Gallery
+Linear aerospike engine for the cancelled X-33
+Linear aerospike engine for the cancelled X-33
+ 
+The Dragon spacecraft, one of the Space Shuttle's several successors, is seen here on its way to deliver cargo to the ISS
+The Dragon spacecraft, one of the Space Shuttle's several successors, is seen here on its way to deliver cargo to the ISS
+ 
+NASA's Orion Spacecraft for the Artemis 1 mission seen in Plum Brook On December 1, 2019
+NASA's Orion Spacecraft for the Artemis 1 mission seen in Plum Brook On December 1, 2019
+ 
+The Core Stage for the Space Launch System rocket for Artemis I
+The Core Stage for the Space Launch System rocket for Artemis I
+ 
+The Space Launch System Core Stage rolling out of the Michoud Facility for shipping to Stennis
+The Space Launch System Core Stage rolling out of the Michoud Facility for shipping to Stennis
+ 
+The Boeing CST-100 Starliner spacecraft in the process of docking to the International Space Station
+The Boeing CST-100 Starliner spacecraft in the process of docking to the International Space Station
+ 
+The SpaceX Crew Dragon in the process of docking to the International Space Station
+The SpaceX Crew Dragon in the process of docking to the International Space Station
+Assets and transition plan
+
+Atlantis about 30 minutes after final touchdown
+The Space Shuttle program occupied over 654 facilities, used over 1.2 million line items of equipment, and employed over 5,000 people. The total value of equipment was over $12 billion. Shuttle-related facilities represented over a quarter of NASA's inventory. There were over 1,200 active suppliers to the program throughout the United States. NASA's transition plan had the program operating through 2010 with a transition and retirement phase lasting through 2015. During this time, the Ares I and Orion as well as the Altair Lunar Lander were to be under development,[76] although these programs have since been canceled.
+
+In the 2010s, two major programs for human spaceflight are Commercial Crew Program and the Artemis program. Kennedy Space Center Launch Complex 39A is, for example, used to launch Falcon Heavy and Falcon 9.
+
+Criticism
+Main article: Criticism of the Space Shuttle program
+This section is an excerpt from Space Shuttle § Criticism.[edit]
+The partial reusability of the Space Shuttle was one of the primary design requirements during its initial development.[77]: 164  The technical decisions that dictated the orbiter's return and re-use reduced the per-launch payload capabilities. The original intention was to compensate for this lower payload by lowering the per-launch costs and a high launch frequency. However, the actual costs of a Space Shuttle launch were higher than initially predicted, and the Space Shuttle did not fly the intended 24 missions per year as initially predicted by NASA.[78][34]: III–489–490 
+
+The Space Shuttle was originally intended as a launch vehicle to deploy satellites, which it was primarily used for on the missions prior to the Challenger disaster. NASA's pricing, which was below cost, was lower than expendable launch vehicles; the intention was that the high volume of Space Shuttle missions would compensate for early financial losses. The improvement of expendable launch vehicles and the transition away from commercial payloads on the Space Shuttle resulted in expendable launch vehicles becoming the primary deployment option for satellites.[34]: III–109–112  A key customer for the Space Shuttle was the National Reconnaissance Office (NRO) responsible for spy satellites. The existence of NRO's connection was classified through 1993, and secret considerations of NRO payload requirements led to lack of transparency in the program. The proposed Shuttle-Centaur program, cancelled in the wake of the Challenger disaster, would have pushed the spacecraft beyond its operational capacity.[79]
+
+The fatal Challenger and Columbia disasters demonstrated the safety risks of the Space Shuttle that could result in the loss of the crew. The spaceplane design of the orbiter limited the abort options, as the abort scenarios required the controlled flight of the orbiter to a runway or to allow the crew to egress individually, rather than the abort escape options on the Apollo and Soyuz space capsules.[80] Early safety analyses advertised by NASA engineers and management predicted the chance of a catastrophic failure resulting in the death of the crew as ranging from 1 in 100 launches to as rare as 1 in 100,000.[81][82] Following the loss of two Space Shuttle missions, the risks for the initial missions were reevaluated, and the chance of a catastrophic loss of the vehicle and crew was found to be as high as 1 in 9.[83] NASA management was criticized afterwards for accepting increased risk to the crew in exchange for higher mission rates. Both the Challenger and Columbia reports explained that NASA culture had failed to keep the crew safe by not objectively evaluating the potential risks of the missions.[82][84]: 195–203 
+Support vehicles
+Many other vehicles were used in support of the Space Shuttle program, mainly terrestrial transportation vehicles.
+
+The crawler-transporter carried the mobile launcher platform and the Space Shuttle from the Vehicle Assembly Building (VAB) to Launch Complex 39, originally built for Project Apollo.
+The Shuttle Carrier Aircraft (SCA) were two modified Boeing 747s. Either could fly an orbiter from alternative landing sites back to the Kennedy Space Center.[85]: I–377, 382  These aircraft were retired to the Joe Davies Heritage Airpark at the Armstrong Flight Research Center and Space Center Houston.
+A 36-wheeled transport trailer, the Orbiter Transfer System, originally built for the U.S. Air Force's launch facility at Vandenberg Air Force Base in California (since then converted for Delta IV rockets) would transport the orbiter from the landing facility to the launch pad, which allowed both "stacking" and launch without utilizing a separate VAB-style building and crawler-transporter roadway. Prior to the closing of the Vandenberg facility, orbiters were transported from the OPF to the VAB on their undercarriages, only to be raised when the orbiter was being lifted for attachment to the SRB/ET stack. The trailer allowed the transportation of the orbiter from the OPF to either the SCA "Mate-Demate" stand or the VAB without placing any additional stress on the undercarriage.
+The Crew Transport Vehicle (CTV), a modified airport jet bridge, was used to assist astronauts to egress from the orbiter after landing. Upon entering the CTV, astronauts could take off their launch and reentry suits then proceed to chairs and beds for medical checks before being transported back to the crew quarters in the Operations and Checkout Building. Originally built for Project Apollo.
+The Astrovan was used to transport astronauts from the crew quarters in the Operations and Checkout Building to the launch pad on launch day. It was also used to transport astronauts back again from the Crew Transport Vehicle at the Shuttle Landing Facility.
+The three locomotives serving the NASA Railroad, used to transport segments of the Space Shuttle Solid Rocket Boosters, were determined to be no longer needed for day-to-day operation at the Kennedy Space Center. In April 2015, locomotive No. 1 was sent to Natchitoches Parish Port and No. 3 sent to the Madison Railroad. Locomotive No. 2 was sent to the Gold Coast Railroad Museum in 2014.[86]
+
+Crawler-transporter No.2 ("Franz") in a December 2004 road test after track shoe replacement
+
+Atlantis being prepared to be mated to the Shuttle Carrier Aircraft using the Mate-Demate Device following STS-44.
+
+MV Freedom Star was a NASA recovery ship for the Space Shuttle Solid Rocket Boosters
+See also
+Human spaceflight – Spaceflight with a crew or passengers
+List of human spaceflights
+List of Space Shuttle missions
+List of spaceflight-related accidents and incidents
+Space exploration – Investigation of space, planets, and moons
+Space Shuttle abort modes – NASA Space Shuttle safety procedures
+List of Space Shuttle crews
+Simulation
+Shuttle – 1992 video game
+Orbiter Space Flight Simulator – 2000 video game or Solar System Simulator
+Space Shuttle Mission 2007 – Space Shuttle stand-alone mission simulator for Microsoft Windows
+Physics
+Atmospheric entry – Passage of an object through the gases of an atmosphere from outer space
+Lifting body – Aircraft configuration in which the fuselage produces significant lift
+Other spaceflight programs
+Apollo program – 1961–1972 American crewed lunar exploration program
+Artemis program – NASA-led lunar exploration program
+Buran programme – Soviet research project on spaceplanes
+Constellation program – Cancelled 2005–2010 NASA human spaceflight program
+Similar vehicles
+	Spaceflight portal
+Avatar – Concept for a crewed single-stage reusable spaceplane
+Buran – Soviet winged orbital vehicle
+Chrysler SERV
+Hermes – French crewed spaceplane concept (1975–1992)
+HOPE-X – Japanese experimental spaceplane
+Hopper – 1990s European proposal of a robotic spaceplane
+Kliper – Proposed partly reusable crewed spacecraft concept by RSC Energia
+Martin Marietta Spacemaster – Space Shuttle proposal
+Reusable launch system – Vehicles that can go to space and return
+Single-stage-to-orbit – Launch system that only uses one rocket stage
+Shuttle-derived vehicle – Launch vehicle built from Space Shuttle components
+Skylon – Single-stage-to-orbit spaceplane
+VentureStar – Human-rated re-usable spaceplane concept
+Dream Chaser – Commercial space glider for flying either cargo or a crew to the ISS
+
+References
+Footnotes
+
+ The program was suspended between 1986 and 1988 and between 2003 and 2005 after catastrophic failures.
+ The Soviet shuttle Buran was very similar and was designed to have the same capabilities but made only one uncrewed spaceflight before it was cancelled.
+Citations
+
+ Portree, David S. F. "The Last Days of the Nuclear Shuttle (1971)". Wired.com. Retrieved August 1, 2024.
+ Launius, Roger D. (1969). "Space Task Group Report, 1969". NASA. Archived from the original on January 14, 2016. Retrieved July 31, 2024.
+ "International Space Station Historical Timeline". Center for Advancement of Science in Space. Retrieved November 27, 2022.
+ "Breaking News | Shannon to review options for deep space exploration". Spaceflight Now. August 29, 2011. Retrieved May 17, 2012.
+ "Space Shuttle Weather Launch Commit Criteria and KSC End of Mission Weather Landing Criteria". KSC Release No. 39-99. NASA Kennedy Space Center. Archived from the original on June 26, 2009. Retrieved July 6, 2009.
+ "Columbia's White External Fuel Tanks". Space.com. April 12, 2006.
+ Logsdon, John A. "Return to Flight...Challenger Accident".
+ "Secretive US space plane X-37B lands after record 908 days in orbit". New Scientist. November 14, 2022. Retrieved November 27, 2022.
+ "NASA, Partners Update Commercial Crew Launch Dates". NASA Commercial Crew Program Blog. February 6, 2019.
+ Administrator, NASA (March 6, 2016). "Independence Day at NASA Dryden – 30 Years Ago". NASA.
+ "Spacelab joined diverse scientists and disciplines on 28 Shuttle missions". NASA. March 15, 1999. Retrieved February 11, 2011.
+ Bulletin of the Atomic Scientists. February 1973. p. 39.
+ NASA (2003) Columbia Accident Investigation Board Public Hearing Transcript Archived August 12, 2006, at the Wayback Machine
+ Comptroller General (1972). "Report to the Congress: Cost-Benefit Analylsis Used in Support of the Space Shuttle Program" (PDF). United States General Accounting Office. Archived (PDF) from the original on October 9, 2022. Retrieved November 25, 2008.
+ Borenstein, Seth (July 5, 2011). "Space shuttle's legacy: Soaring in orbit and costs". Phys.org. Associated Press. Retrieved September 30, 2021.
+ Xu, Qin; Hollingsworth, Peter; Smith, Katharine (July 2019). "Launch Cost Analysis and Optimization Based on Analysis of Space System Characteristics". Transactions of the Japan Society for Aeronautical and Space Sciences. 62 (4): 177–178. doi:10.2322/tjsass.62.175. Retrieved January 13, 2024.
+ David, Leonard (February 11, 2005). "Total Tally of Shuttle Fleet Costs Exceed Initial Estimates". Space.com. Retrieved August 6, 2006.
+ Berger, Brian (February 7, 2006). "NASA 2006 Budget Presented: Hubble, Nuclear Initiative Suffer". Space.com. Retrieved August 6, 2006.
+ "NASA Budget Information". January 27, 2015.
+ Pielke, Roger Jr.; Radford Byerly (April 7, 2011). "Shuttle programme lifetime cost". Nature. 472 (7341): 38. Bibcode:2011Natur.472...38P. doi:10.1038/472038d. PMID 21475182.
+ Zapata, Edgar (2017). An Assessment of Cost Improvements in the NASA COTS/CRS Program and Implications for Future NASA Missions (Report). NASA Technical Reports Server. Retrieved September 11, 2025.
+ Wings in Orbit: Scientific and Engineering Legacies of the Space Shuttle, 1971–2010. NASA. 2010. Retrieved September 11, 2025.
+ Space Shuttle Era Facts (PDF) (Report). NASA. 2011. Retrieved September 11, 2025.
+ Wings in Orbit: Scientific and Engineering Legacies of the Space Shuttle, 1971–2010. NASA. 2010. Retrieved September 11, 2025.
+ "NASA New Start Inflation Index FAQs". NASA. October 10, 2022. Retrieved September 11, 2025.
+ "NASA signs deal with Russia for six more Soyuz seats". SpaceNews. March 1, 2017. Retrieved September 11, 2025.
+ Zapata, Edgar (2017). An Assessment of Cost Improvements in the NASA COTS/CRS Program and Implications for Future NASA Missions (Report). NASA Technical Reports Server. pp. 8–10. Retrieved September 11, 2025.
+ "Roland Statement". NASA. Retrieved June 18, 2018.
+ Weinrich, Heinz (2013). Management: A Global, Innovative, and Entrepreneurial Perspective. p. 126.
+ Klikauer, Thomas (2016). Management Education: Fragments of an Emancipatory Theory. p. 220.
+ Keuper, Franz (2013). Finance Bundling and Finance Transformation: Shared Services Next Level. p. i.
+ Chien, Philip (June 26, 2006). "NASA wants shuttle to fly despite safety misgivings". The Washington Times. Archived from the original on March 26, 2023. Retrieved February 8, 2023.
+ Halvorson, Todd (August 12, 2009). "Dumping NASA's New Ares I Rocket Would Cost Billions". Space.com. Archived from the original on December 9, 2022.
+ Jenkins, Dennis R. (2016). Space Shuttle: Developing an Icon – 1972–2013. Specialty Press. ISBN 978-1-58007-249-6.
+ "The Vision for Space Exploration" (PDF). NASA. February 2004. Archived (PDF) from the original on January 11, 2012. Retrieved July 6, 2020.
+ Bush, George W. (January 14, 2004). "President Bush Announces New Vision for Space Exploration Program". NASA. Archived from the original on October 18, 2004. Retrieved July 6, 2020.
+ Chang, Kenneth (May 30, 2020). "SpaceX Lifts NASA Astronauts to Orbit, Launching New Era of Spaceflight". The New York Times. Archived from the original on August 10, 2020. Retrieved July 5, 2020.
+ "NASA's Artemis I mission to launch using space shuttle-used parts". CollectSpace.com. Archived from the original on August 31, 2022. Retrieved March 15, 2025.
+ Harbaugh, Jennifer A. (February 3, 2022). "Fired Up: Engines and Motors Put Artemis Mission in Motion". NASA. Retrieved March 15, 2025.
+ "SLS (Space Launch System) Solid Rocket Booster". NASA. July 25, 2024. Retrieved March 15, 2025.
+ "Space Shuttle Atlantis Exhibit Opens with Support from Souvenirs". June 29, 2013.
+ "Space Shuttle Endeavour homepage". California Science Center. Retrieved November 27, 2022.
+ "California Science Center breaks ground on space shuttle Endeavour's new vertical home". Los Angeles Daily News. June 1, 2022. Retrieved November 27, 2022.
+ "Human Space Flight (HSF) – Space Shuttle". Archived from the original on August 31, 2000.
+ (www.spacefuture.com), Peter Wainwright. "Space Future – The Future of Space Tourism".
+ (www.spacefuture.com), Peter Wainwright. "Space Future – The Space Tourist".
+ "Commercial Orbital Transportation Services" (PDF). NASA. February 2014. Archived (PDF) from the original on June 6, 2014. Retrieved November 20, 2022.
+ NASA (2011). "How much does it cost to launch a Space Shuttle?". NASA. Archived from the original on December 5, 2022. Retrieved June 28, 2011.
+ "Rockwell 74 Passenger Module". Retrieved November 20, 2022.
+ "Politics played a big role in why NASA doesn't already have a new spacecraft to replace the retiring space shuttles. Funding and technical challenges put a stop to any attempts to build the ' Space Shuttle 2.'". Space.com. April 12, 2011.
+ "Shuttle II". Archived from the original on December 28, 2016.
+ "Reusable Launch Vehicle". Archived from the original on February 24, 2013.
+ "NASA's Space Launch Initiative: The Next Generation Launch Technology Program" (PDF). NASA. May 2003. Retrieved November 20, 2022.
+ "X-38 project's cancellation irks NASA, partners". June 9, 2002.
+ "HL-20 – Lifting Body Spaceplane for Personnel Launch System". August 4, 2016.
+ "NASA ACRV". Archived from the original on December 24, 2016.
+ "NASA Selects Crew and Cargo Transportation to Orbit Partners" (Press release). NASA. August 18, 2006. Retrieved November 21, 2006.
+ Bergin, Chris (October 6, 2011). "ISS partners prepare to welcome SpaceX and Orbital in a busy 2012". NASASpaceFlight.com (Not affiliated with NASA). Retrieved December 13, 2011.
+ Berger, Brian (February 1, 2011). "Biggest CCDev Award Goes to Sierra Nevada". Imaginova Corp. Archived from the original on September 9, 2012. Retrieved December 13, 2011.
+ "NASA Commercial Crew Program Mission in Sight for 2018". NASA. January 4, 2018. Retrieved April 14, 2018.
+ "NASA Announces Design for New Deep Space Exploration System". NASA. September 14, 2011. Retrieved April 28, 2012.
+ Bergin, Chris (February 23, 2012). "Acronyms to Ascent – SLS managers create development milestone roadmap". NASA. Retrieved April 29, 2012.
+ Foust, Jeff (November 16, 2022). "SLS launches Artemis 1 mission". Space News. Retrieved November 27, 2022.
+ Jones, Sandra (November 25, 2022). "Artemis I – Flight Day 10: Orion Enters Distant Retrograde Orbit". NASA. Retrieved November 27, 2022.
+ "Report No. IG-20-018: NASA's Management of the Orion Multi-Purpose Crew Vehicle Program" (PDF). OIG. NASA. July 16, 2020. Archived (PDF) from the original on October 9, 2022. Retrieved December 28, 2020.
+ Hambleton, Kathryn (August 27, 2018). "First Flight With Crew Important Step on Long-Term Return to Moon". NASA. Retrieved November 27, 2022.
+ Hambleton, Kathryn (May 23, 2019). "NASA's First Flight With Crew Important Step on Long-term Return to the Moon, Missions to Mars". NASA. Retrieved July 10, 2019.
+ Weitering, Hanneke (May 23, 2019). "NASA Has a Full Plate of Lunar Missions Before Astronauts Can Return to Moon". Space.com. Retrieved November 27, 2022. And before NASA sends astronauts to the moon in 2024, the agency will first have to launch five aspects of the lunar Gateway, all of which will be commercial vehicles that launch separately and join each other in lunar orbit. First, a power and propulsion element will launch in 2022. Then, the crew module will launch (without a crew) in 2023. In 2024, during the months leading up to the crewed landing, NASA will launch the last critical components: a transfer vehicle that will ferry landers from the Gateway to a lower lunar orbit, a descent module that will bring the astronauts to the lunar surface, and an ascent module that will bring them back up to the transfer vehicle, which will then return them to the Gateway.
+ Grush, Loren (May 17, 2019). "NASA administrator on new Moon plan: 'We're doing this in a way that's never been done before'". The Verge. Retrieved November 27, 2022. Now, for Artemis 3 that carries our crew to the Gateway, we need to have the crew have access to a lander. So, that means that at Gateway we're going to have the Power and Propulsion Element, which will be launched commercially, the Utilization Module, which will be launched commercially, and then we'll have a lander there.
+ Grush, Loren (May 17, 2019). "NASA administrator on new Moon plan: 'We're doing this in a way that's never been done before'". The Verge. Retrieved November 27, 2022. The direction that we have right now is that the next man and the first woman will be Americans, and that we will land on the south pole of the Moon in 2024.
+ Chang, Kenneth (May 25, 2019). "For Artemis Mission to Moon, NASA Seeks to Add Billions to Budget". The New York Times. Archived from the original on May 25, 2019. Retrieved May 25, 2019. Under the NASA plan, a mission to land on the moon would take place during the third launch of the Space Launch System. Astronauts, including the first woman to walk on the moon, Mr. Bridenstine said, would first stop at the orbiting lunar outpost. They would then take a lander to the surface near its south pole, where frozen water exists within the craters.
+ "NASA outlines plans for lunar lander development through commercial partnerships". July 21, 2019.
+ http://www.collectspace.com/news/news-082422a-artemis-i-space-shuttle-hardware.html . Retrieved 15 March 2025.
+ https://www.nasa.gov/missions/artemis/orion/fired-up-engines-and-motors-put-artemis-mission-in-motion/ . Retrieved 15 March 2025.
+ https://www.nasa.gov/reference/sls-space-launch-system-solid-rocket-booster/ . Retrieved 15 March 2025.
+ Olson, John; Joel Kearns (August 2008). "NASA Transition Management Plan" (PDF). JICB-001. National Aeronautics and Space Administration. Archived (PDF) from the original on October 9, 2022.
+ Williamson, Ray (1999). "Developing the Space Shuttle" (PDF). Exploring the Unknown: Selected Documents in the History of the U.S. Civil Space Program, Volume IV: Accessing Space. Washington, D.C.: NASA. Archived (PDF) from the original on May 31, 2020. Retrieved April 23, 2019.
+ Griffin, Michael D. (March 14, 2007). "Human Space Exploration: The Next 50 Years". Aviation Week. Archived from the original on August 7, 2020. Retrieved June 15, 2020.
+ Cook, Richard (2007). Challenger Revealed: An Insider's Account of How the Reagan Administration Caused the Greatest Tragedy of the Space Ag. Basic Books. ISBN 978-1560259800.
+ Klesius, Mike (March 31, 2010). "Spaceflight Safety: Shuttle vs. Soyuz vs. Falcon 9". Air & Space. Archived from the original on August 7, 2020. Retrieved June 15, 2020.
+ Bell, Trudy; Esch, Karl (January 28, 2016). "The Challenger Disaster: A Case of Subjective Engineering". IEEE Spectrum. IEEE. Archived from the original on May 29, 2019. Retrieved June 18, 2020.
+ Feynman, Richard (June 6, 1986). "Appendix F – Personal observations on the reliability of the Shuttle". Report of the Presidential Commission on the Space Shuttle Challenger Accident. NASA. Archived from the original on August 7, 2020. Retrieved June 18, 2020.
+ Flatow, Ira; Hamlin, Teri; Canga, Mike (March 4, 2011). "Earlier Space Shuttle Flights Riskier Than Estimated". Talk of the Nation. NPR. Archived from the original on August 8, 2020. Retrieved June 18, 2020.
+ "Columbia Accident Investigation Board" (PDF). NASA. August 2003. Archived from the original (PDF) on November 9, 2004. Retrieved June 18, 2020.
+ Jenkins, Dennis R. (2016). Space Shuttle: Developing an Icon − 1972–2013. Specialty Press. ISBN 978-1-58007-249-6.
+ Dean, James (May 23, 2015). "NASA Railroad rides into sunset". Florida Today. Retrieved November 27, 2022.
+Public Domain This article incorporates public domain material from websites or documents of the National Aeronautics and Space Administration.
+Further reading
+Shuttle Reference manual
+Orbiter Vehicles Archived February 9, 2021, at the Wayback Machine
+Shuttle Program Funding 1992 – 2002
+NASA Space Shuttle News Reference – 1981 (PDF document)
+R. A. Pielke, "Space Shuttle Value open to Interpretation", Aviation Week, issue 26. July 1993, p. 57 (.pdf)
+External links
+
+Wikimedia Commons has media related to Space Shuttle program.
+Official NASA Mission Site
+NASA Johnson Space Center Space Shuttle Site
+Official Space Shuttle Mission Archives
+NASA Space Shuttle Multimedia Gallery & Archives
+Shuttle audio, video, and images – searchable archives from STS-67 (1995) to present
+Kennedy Space Center Media Gallery – searchable video/audio/photo gallery
+Congressional Research Service (CRS) Reports regarding the Space Shuttle
+U.S. Space Flight History: Space Shuttle Program
+Weather criteria for Shuttle launch
+Consolidated Launch Manifest: Space Shuttle Flights and ISS Assembly Sequence
+USENET posting – Unofficial Space FAQ by Jon Leech
+vte
+Space Shuttle program
+vte
+U.S. Space Shuttle missions
+vte
+Space Shuttle and Buran-class orbiters
+vte
+United States human spaceflight programs
+vte
+NASA
+vte
+History of the United States
+Categories: Space Shuttle programNASA programsHuman spaceflight programs1972 establishments in the United States2011 disestablishments in the United States
+This page was last edited on 8 October 2025, at 16:11 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki
