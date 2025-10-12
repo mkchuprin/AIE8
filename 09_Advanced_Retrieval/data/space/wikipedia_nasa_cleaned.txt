@@ -1,0 +1,1103 @@
+
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+
+Contents hide
+(Top)
+History
+
+Active programs
+
+Collaboration
+
+Management
+
+Sustainability
+
+Media presence
+
+Gallery
+See also
+Explanatory notes
+References
+Further reading
+External links
+NASA
+
+Article
+Talk
+Read
+View source
+View history
+
+Tools
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+Page semiprotected
+From Wikipedia, the free encyclopedia
+(Redirected from Nasa)
+For other uses, see NASA (disambiguation).
+National Aeronautics and Space Administration
+A blue sphere with stars, a yellow planet with a white moon a red chevron representing wings, and an orbiting spacecraft surrounded by a white border with "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION U.S.A." in red letters
+NASA seal
+ 
+NASA insignia
+
+Mary W. Jackson NASA Headquarters building in Washington, D.C.
+Agency overview
+Abbreviation	NASA
+Formed	July 29, 1958 67 years ago
+Preceding agency	
+National Advisory Committee for Aeronautics (19151958)1
+Type	Space agency
+Aeronautics research agency
+Jurisdiction	United States Federal Government
+Headquarters	Mary W. Jackson NASA Headquarters
+Washington, D.C.
+385259N 77059W
+Administrator	Sean Duffy (acting)2
+Deputy Administrator	Vacant
+Associate Administrator	Amit Kshatriya
+Chief of Staff	Brian Hughes
+Deputy Associate Administrator	Casey Swails
+Primary spaceports	
+Kennedy Space Center
+Cape Canaveral Space Force Station
+Vandenberg Space Force Base
+Wallops Flight Facility
+Employees	17,960 (2022)3
+Annual budget	Increase US25.4 billion (2023)4
+Website	nasa.gov
+Part of a series on the
+United States space program
+
+NASAU.S. Space Force
+Human spaceflight programs
+Robotic spaceflight programs
+NASA Astronaut Corps
+Spaceports
+Space launch vehicles
+National security space
+Civil space
+Commercial space industry
+vte
+The National Aeronautics and Space Administration (NASA ns) is an independent agency of the US federal government responsible for the United Statess civil space program and for research in aeronautics and space exploration. Headquartered in Washington, D.C., NASA operates ten field centers across the United States and is organized into mission directorates for Science, Space Operations, Exploration Systems Development, Space Technology, Aeronautics Research, and Mission Support. Established in 1958, NASA succeeded the National Advisory Committee for Aeronautics (NACA) to give the American space development effort a distinct civilian orientation, emphasizing peaceful applications in space science. It has since led most of Americas space exploration programs, including Project Mercury, Project Gemini, the 19681972 Apollo program missions, the Skylab space station, and the Space Shuttle.
+
+The agency maintains major ground and communications infrastructure including the Deep Space Network and the Near Space Network. NASAs science division is focused on better understanding Earth through the Earth Observing System advancing heliophysics through the efforts of the Science Mission Directorates Heliophysics Research Program exploring bodies throughout the Solar System with advanced robotic spacecraft such as New Horizons and planetary rovers such as Perseverance and researching astrophysics topics, such as the Big Bang, through the James Webb Space Telescope, the four Great Observatories (including the Hubble Space Telescope), and associated programs. The Launch Services Program oversees launch operations for its uncrewed launches.
+
+NASA supports the International Space Station (ISS) along with the Commercial Crew Program and oversees the development of the Orion spacecraft and the Space Launch System for the lunar Artemis program. It maintains programmatic partnerships with agencies such as ESA, JAXA, CSA, Roscosmos (for ISS operations), NOAA, and the USGS. NASAs missions and media operationssuch as NASA TV, Astronomy Picture of the Day, and the NASA streaming servicehave maintained high public visibility and contributed to spaceflight outreach in the United States and abroad. A subject of numerous major films, NASA has maintained an influence on American popular culture since the Apollo 11 mission in 1969. For FY2022, Congress authorized a 24.041 billion budget, with a civilservice workforce of roughly 18,400 as of 2025, the acting administrator is Sean Duffy.
+
+History
+Creation
+
+A US Air Force Bell X1 test flight
+NASA traces its roots to the National Advisory Committee for Aeronautics (NACA). Despite Dayton, Ohio being the birthplace of aviation, by 1914 the United States recognized that it was far behind Europe in aviation capability. Determined to regain American leadership in aviation, the United States Congress created the Aviation Section of the US Army Signal Corps in 1914 and established NACA in 1915 to foster aeronautical research and development. Over the next forty years, NACA would conduct aeronautical research in support of the US Air Force, US Army, US Navy, and the civil aviation sector. After the end of World War II, NACA became interested in the possibilities of guided missiles and supersonic aircraft, developing and testing the Bell X1 in a joint program with the US Air Force. NACAs interest in space grew out of its rocketry program at the Pilotless Aircraft Research Division.5
+
+Launch of the Army Ballistic Missile Agencys Explorer 1, Americas first satellite
+The Soviet Unions launch of Sputnik 1 ushered in the Space Age and kicked off the Space Race. Despite NACAs early rocketry program, the responsibility for launching the first American satellite fell to the Naval Research Laboratorys Project Vanguard, whose operational issues ensured the Army Ballistic Missile Agency would launch Explorer 1, Americas first satellite, on February 1, 1958.
+
+The Eisenhower Administration decided to split the United Statess military and civil spaceflight programs, which were organized together under the Department of Defenses Advanced Research Projects Agency. NASA was established on July 29, 1958, with the signing of the National Aeronautics and Space Act and it began operations on October 1, 1958.5
+
+As the Americans premier aeronautics agency, NACA formed the core of NASAs new structure by reassigning 8,000 employees and three major research laboratories. NASA also proceeded to absorb the Naval Research Laboratorys Project Vanguard, the Armys Jet Propulsion Laboratory (JPL), and the Army Ballistic Missile Agency under Wernher von Braun. This left NASA firmly as the United Statess civil space lead and the Air Force as the military space lead.5
+
+First orbital and hypersonic flights
+Main article Project Mercury
+
+Launch of Friendship 7, NASAs first orbital flight, February 20, 1962
+Plans for human spaceflight began in the US Armed Forces prior to NASAs creation. The Air Forces Man in Space Soonest project formed in 1956,6 coupled with the Armys Project Adam, served as the foundation for Project Mercury. NASA established the Space Task Group to manage the program,7 which would conduct crewed suborbital flights with the Armys Redstone rockets and orbital flights with the Air Forces Atlas launch vehicles. While NASA intended for its first astronauts to be civilians, President Eisenhower directed that they be selected from the military. The Mercury 7 astronauts included three Air Force pilots, three Navy aviators, and one Marine Corps pilot.5
+
+The NASAAir Force X15 hypersonic aircraft
+On May 5, 1961, Alan Shepard became the first American to enter space, performing a suborbital spaceflight in the Freedom 7.8 This flight occurred less than a month after the Soviet Yuri Gagarin became the first human in space, executing a full orbital spaceflight. NASAs first orbital spaceflight was conducted by John Glenn on February 20, 1962, in the Friendship 7, making three full orbits before reentering. Glenn had to fly parts of his final two orbits manually due to an autopilot malfunction.9 The sixth and final Mercury mission was flown by Gordon Cooper in May 1963, performing 22 orbits over 34 hours in the Faith 7.10 The Mercury Program was wildly recognized as a resounding success, achieving its objectives to orbit a human in space, develop tracking and control systems, and identify other issues associated with human spaceflight.5
+
+While much of NASAs attention turned to space, it did not put aside its aeronautics mission. Early aeronautics research attempted to build upon the X1s supersonic flight to build an aircraft capable of hypersonic flight. The North American X15 was a joint NASAUS Air Force program,11 with the hypersonic test aircraft becoming the first nondedicated spacecraft to cross from the atmosphere to outer space. The X15 also served as a testbed for Apollo program technologies, as well as ramjet and scramjet propulsion.5
+
+Moon landing
+Main articles Project Gemini and Apollo program
+
+Gemini 6 and Gemini 7 conduct an orbital rendezvous
+Escalations in the Cold War between the United States and Soviet Union prompted President John F. Kennedy to charge NASA with landing an American on the Moon and returning him safely to Earth by the end of the 1960s and installed James E. Webb as NASA administrator to achieve this goal.12 On May 25, 1961, President Kennedy openly declared this goal in his "Urgent National Needs" speech to the United States Congress, declaring
+
+I believe this Nation should commit itself to achieving the goal, before this decade is out, of landing a man on the Moon and returning him safely to Earth. No single space project in this period will be more impressive to mankind, or more important for the longrange exploration of space and none will be so difficult or expensive to accomplish.
+
+Kennedy gave his "We choose to go to the Moon" speech the next year, on September 12, 1962 at Rice University, where he addressed the nation hoping to reinforce public support for the Apollo program.13
+
+Despite attacks on the goal of landing astronauts on the Moon from the former president Dwight Eisenhower and 1964 presidential candidate Barry Goldwater, President Kennedy was able to protect NASAs growing budget, of which 50 went directly to human spaceflight and it was later estimated that, at its height, 5 of Americans worked on some aspect of the Apollo program.5
+
+Launch of Apollo 11
+Mirroring the Department of Defenses program management concept using redundant systems in building the first intercontinental ballistic missiles, NASA requested the Air Force assign Major General Samuel C. Phillips to the space agency where he would serve as the director of the Apollo program. Development of the Saturn V rocket was led by Wernher von Braun and his team at the Marshall Space Flight Center, derived from the Army Ballistic Missile Agencys original Saturn I. The Apollo spacecraft was designed and built by North American Aviation, while the Apollo Lunar Module was designed and built by Grumman.5
+
+To develop the spaceflight skills and equipment required for a lunar mission, NASA initiated Project Gemini.14 Using a modified Air Force Titan II launch vehicle, the Gemini capsule could hold two astronauts for flights of over two weeks. Gemini pioneered the use of fuel cells instead of batteries, and conducted the first American spacewalks and rendezvous operations.
+
+Buzz Aldrin salutes the United States flag on the lunar surface
+The Ranger Program was started in the 1950s as a response to Soviet lunar exploration, however most missions ended in failure. The Lunar Orbiter program had greater success, mapping the surface in preparation for Apollo landings, conducting meteoroid detection, and measuring radiation levels. The Surveyor program conducted uncrewed lunar landings and takeoffs, as well as taking surface and regolith observations.5 Despite the setback caused by the Apollo 1 fire, which killed three astronauts, the program proceeded.
+
+Apollo 8 was the first crewed spacecraft to leave low Earth orbit and the first human spaceflight to reach the Moon. The crew orbited the Moon ten times on December 24 and 25, 1968, and then traveled safely back to Earth.151617 The three Apollo 8 astronautsFrank Borman, James Lovell, and William Anderswere the first humans to see the Earth as a globe in space, the first to witness an Earthrise, and the first to see and manually photograph the far side of the Moon.
+
+The first lunar landing was conducted by Apollo 11. Commanded by Neil Armstrong with astronauts Buzz Aldrin and Michael Collins, Apollo 11 was one of the most significant missions in NASAs history, marking the end of the Space Race when the Soviet Union gave up its lunar ambitions. As the first human to step on the surface of the Moon, Neil Armstrong uttered the now famous words
+
+Thats one small step for man, one giant leap for mankind.
+
+NASA would conduct six total lunar landings as part of the Apollo program, with Apollo 17 concluding the program in 1972.5
+
+End of Apollo
+
+Apollo 15 CSM Endeavour in lunar orbit
+Wernher von Braun had advocated for NASA to develop a space station since the agency was created. In 1973, following the end of the Apollo lunar missions, NASA launched its first space station, Skylab, on the final launch of the Saturn V. Skylab reused a significant amount of Apollo and Saturn hardware, with a repurposed Saturn V third stage serving as the primary module for the space station. Damage to Skylab during its launch required spacewalks to be performed by the first crew to make it habitable and operational. Skylab hosted nine missions and was decommissioned in 1974 and deorbited in 1979, two years prior to the first launch of the Space Shuttle and any possibility of boosting its orbit.5
+
+In 1975, the ApolloSoyuz mission was the first ever international spaceflight and a major diplomatic accomplishment between the Cold War rivals, which also marked the last flight of the Apollo capsule.5 Flown in 1975, a US Apollo spacecraft docked with a Soviet Soyuz capsule.
+
+Interplanetary exploration and space science
+
+Image from Mars taken by the Viking 2 lander
+During the 1960s, NASA started its space science and interplanetary probe program. The Mariner program was its flagship program, launching probes to Venus, Mars, and Mercury in the 1960s.1819 The Jet Propulsion Laboratory was the lead NASA center for robotic interplanetary exploration, making significant discoveries about the inner planets. Despite these successes, Congress was unwilling to fund further interplanetary missions and NASA Administrator James Webb suspended all future interplanetary probes to focus resources on the Apollo program.5
+
+Following the conclusion of the Apollo program, NASA resumed launching interplanetary probes and expanded its space science program. The first planet tagged for exploration was Venus, sharing many similar characteristics to Earth. First visited by American Mariner 2 spacecraft,20 Venus was observed to be a hot and inhospitable planet. Followon missions included the Pioneer Venus project in the 1970s and Magellan, which performed radar mapping of Venus surface in the 1980s and 1990s. Future missions were flybys of Venus, on their way to other destinations in the Solar System.5
+
+Mars has long been a planet of intense fascination for NASA, being suspected of potentially having harbored life. Mariner 5 was the first NASA spacecraft to flyby Mars,21 followed by Mariner 6 and Mariner 7. Mariner 9 was the first orbital mission to Mars. Launched in 1975, Viking program consisted of two landings on Mars in 1976. Followon missions would not be launched until 1996, with the Mars Global Surveyor orbiter and Mars Pathfinder, deploying the first Mars rover, Sojourner.22 During the early 2000s, the 2001 Mars Odyssey orbiter reached the planet and in 2004 the Sprit and Opportunity rovers landed on the Red Planet. This was followed in 2005 by the Mars Reconnaissance Orbiter and 2007 Phoenix Mars lander. The 2012 landing of Curiosity discovered that the radiation levels on Mars were equal to those on the International Space Station, greatly increasing the possibility of Human exploration, and observed the key chemical ingredients for life to occur. In 2013, the Mars Atmosphere and Volatile Evolution (MAVEN) mission observed the Martian upper atmosphere and space environment and in 2018, the Interior exploration using Seismic Investigations Geodesy, and Heat Transport (InSight) studied the Martian interior. The 2021 Perseverance rover carried the first extraplanetary aircraft, a helicopter named Ingenuity.5
+
+NASA also launched missions to Mercury in 2004, with the MESSENGER probe demonstrating as the first use of a solar sail.23 NASA also launched probes to the outer Solar System starting in the 1960s. Pioneer 10 was the first probe to the outer planets, flying by Jupiter, while Pioneer 11 provided the first close up view of the planet. Both probes became the first objects to leave the Solar System. The Voyager program launched in 1977, conducting flybys of Jupiter and Saturn, Neptune, and Uranus on a trajectory to leave the Solar System.24 The Galileo spacecraft, deployed from the Space Shuttle flight STS34, was the first spacecraft to orbit Jupiter, discovering evidence of subsurface oceans on the Europa and observed that the moon may hold ice or liquid water.25 A joint NASAEuropean Space AgencyItalian Space Agency mission, CassiniHuygens, was sent to Saturns moon Titan, which, along with Mars and Europa, are the only celestial bodies in the Solar System suspected of being capable of harboring life.26 Cassini discovered three new moons of Saturn and the Huygens probe entered Titans atmosphere. The mission discovered evidence of liquid hydrocarbon lakes on Titan and subsurface water oceans on the moon of Enceladus, which could harbor life. Finally launched in 2006, the New Horizons mission was the first spacecraft to visit Pluto and the Kuiper belt.5
+
+Beyond interplanetary probes, NASA has launched many space telescopes. Launched in the 1960s, the Orbiting Astronomical Observatory were NASAs first orbital telescopes,27 providing ultraviolet, gammaray, xray, and infrared observations. NASA launched the Orbiting Geophysical Observatory in the 1960s and 1970s to look down at Earth and observe its interactions with the Sun. The Uhuru satellite was the first dedicated xray telescope, mapping 85 of the sky and discovering a large number of black holes.5
+
+The Hubble Space Telescope in Low Earth Orbit
+Launched in the 1990s and early 2000s, the Great Observatories program are among NASAs most powerful telescopes. The Hubble Space Telescope was launched in 1990 on STS31 from the Discovery and could view galaxies 15 billion light years away.28 A major defect in the telescopes mirror could have crippled the program, had NASA not used computer enhancement to compensate for the imperfection and launched five Space Shuttle servicing flights to replace the damaged components. The Compton Gamma Ray Observatory was launched from the Atlantis on STS37 in 1991, discovering a possible source of antimatter at the center of the Milky Way and observing that the majority of gammaray bursts occur outside of the Milky Way galaxy. The Chandra Xray Observatory was launched from the Columbia on STS93 in 1999, observing black holes, quasars, supernova, and dark matter. It provided critical observations on the Sagittarius A black hole at the center of the Milky Way galaxy and the separation of dark and regular matter during galactic collisions. Finally, the Spitzer Space Telescope is an infrared telescope launched in 2003 from a Delta II rocket. It is in a trailing orbit around the Sun, following the Earth and discovered the existence of brown dwarf stars.5
+
+Other telescopes, such as the Cosmic Background Explorer and the Wilkinson Microwave Anisotropy Probe, provided evidence to support the Big Bang.29 The James Webb Space Telescope, named after the NASA administrator who lead the Apollo program, is an infrared observatory launched in 2021. The James Webb Space Telescope is a direct successor to the Hubble Space Telescope, intended to observe the formation of the first galaxies.30 Other space telescopes include the Kepler space telescope, launched in 2009 to identify planets orbiting extrasolar stars that may be Terran and possibly harbor life. The first exoplanet that the Kepler space telescope confirmed was Kepler22b, orbiting within the habitable zone of its star.5
+
+NASA also launched a number of different satellites to study Earth, such as Television Infrared Observation Satellite (TIROS) in 1960, which was the first weather satellite.31 NASA and the United States Weather Bureau cooperated on future TIROS and the second generation Nimbus program of weather satellites. It also worked with the Environmental Science Services Administration on a series of weather satellites and the agency launched its experimental Applications Technology Satellites into geosynchronous orbit. NASAs first dedicated Earth observation satellite, Landsat, was launched in 1972. This led to NASA and the National Oceanic and Atmospheric Administration jointly developing the Geostationary Operational Environmental Satellite and discovering Ozone depletion.5
+
+Space Shuttle
+Main article Space Shuttle
+
+Launch of the Space Shuttle Discovery on STS120
+NASA had been pursuing spaceplane development since the 1960s, blending the administrations dual aeronautics and space missions. NASA viewed a spaceplane as part of a larger program, providing routine and economical logistical support to a space station in Earth orbit that would be used as a hub for lunar and Mars missions. A reusable launch vehicle would then have ended the need for expensive and expendable boosters like the Saturn V.5
+
+In 1969, NASA designated the Johnson Space Center as the lead center for the design, development, and manufacturing of the Space Shuttle orbiter, while the Marshall Space Flight Center would lead the development of the launch system. NASAs series of lifting body aircraft, culminating in the joint NASAUS Air Force Martin Marietta X24, directly informed the development of the Space Shuttle and future hypersonic flight aircraft. Official development of the Space Shuttle began in 1972, with Rockwell International contracted to design the orbiter and engines, Martin Marietta for the external fuel tank, and Morton Thiokol for the solid rocket boosters.32 NASA acquired six orbiters the Enterprise, Columbia, Challenger, Discovery, Atlantis, and Endeavour5
+
+The Space Shuttle program also allowed NASA to make major changes to its Astronaut Corps. While almost all previous astronauts were Air Force or Naval test pilots, the Space Shuttle allowed NASA to begin recruiting more nonmilitary scientific and technical experts. A prime example is Sally Ride, who became the first American woman to fly in space on STS7. This new astronaut selection process also allowed NASA to accept exchange astronauts from US allies and partners for the first time.5
+
+The first Space Shuttle flight occurred in 1981, when the Columbia launched on the STS1 mission, designed to serve as a flight test for the new spaceplane.33 NASA intended for the Space Shuttle to replace expendable launch systems like the Air Forces Atlas, Delta, and Titan and the European Space Agencys Ariane. The Space Shuttles Spacelab payload, developed by the European Space Agency, increased the scientific capabilities of shuttle missions over anything NASA was able to previously accomplish.5
+
+Space Shuttle Discovery in Low Earth Orbit on STS120
+NASA launched its first commercial satellites on the STS5 mission and in 1984, the STS41C mission conducted the worlds first onorbit satellite servicing mission when the Challenger captured and repaired the malfunctioning Solar Maximum Mission satellite. It also had the capability to return malfunctioning satellite to Earth, like it did with the Palapa B2 and Westar 6 satellites. Once returned to Earth, the satellites were repaired and relaunched.5
+
+Despite ushering in a new era of spaceflight, where NASA was contracting launch services to commercial companies, the Space Shuttle was criticized for not being as reusable and costeffective as advertised. In 1986, Challenger disaster on the STS51L mission resulted in the loss of the spacecraft and all seven astronauts on launch, grounding the entire space shuttle fleet for 36 months and forced the 44 commercial companies that contracted with NASA to deploy their satellites to return to expendable launch vehicles.34 When the Space Shuttle returned to flight with the STS26 mission, it had undergone significant modifications to improve its reliability and safety.5
+
+An Air Force Space Command Defense Support Program missile warning spacecraft deploys from the Space Shuttle Atlantis on the STS44 mission
+Following the collapse of the Soviet Union, the Russian Federation and United States initiated the ShuttleMir program.35 The first Russian cosmonaut flew on the STS60 mission in 1994 and the Discovery rendezvoused, but did not dock with, the Russian Mir in the STS63 mission. This was followed by Atlantis STS71 mission where it accomplished the initial intended mission for the Space Shuttle, docking with a space station and transferring supplies and personnel. The ShuttleMir program would continue until 1998, when a series of orbital accidents on the space station spelled an end to the program.5
+
+In 2003, a second space shuttle was destroyed when the Columbia was destroyed upon reentry during the STS107 mission, resulting in the loss of the spacecraft and all seven astronauts.36 This accident marked the beginning of the retiring of the Space Shuttle program, with President George W. Bush directing that upon the completion of the International Space Station, the space shuttle be retired. In 2006, the Space Shuttle returned to flight, conducting several mission to service the Hubble Space Telescope, but was retired following the STS135 resupply mission to the International Space Station in 2011.
+
+Space stations
+Main articles Space Station Freedom and International Space Station
+
+Skylab seen on the Skylab 4 mission
+NASA never gave up on the idea of a space station after Skylabs reentry in 1979. The agency began lobbying politicians to support building a larger space station as soon as the Space Shuttle began flying, selling it as an orbital laboratory, repair station, and a jumping off point for lunar and Mars missions. NASA found a strong advocate in President Ronald Reagan, who declared in a 1984 speech
+
+America has always been greatest when we dared to be great. We can reach for greatness again. We can follow our dreams to distant stars, living and working in space for peaceful, economic, and scientific gain. Tonight I am directing NASA to develop a permanently manned space station and to do it within a decade.
+
+In 1985, NASA proposed the Space Station Freedom, which both the agency and President Reagan intended to be an international program.37 While this would add legitimacy to the program, there were concerns within NASA that the international component would dilute its authority within the project, having never been willing to work with domestic or international partners as true equals. There was also a concern with sharing sensitive space technologies with the Europeans, which had the potential to dilute Americas technical lead. Ultimately, an international agreement to develop the Space Station Freedom program would be signed with thirteen countries in 1985, including the European Space Agency member states, Canada, and Japan.5
+
+Despite its status as the first international space program, the Space Station Freedom was controversial, with much of the debate centering on cost. Several redesigns to reduce cost were conducted in the early 1990s, stripping away much of its functions. Despite calls for Congress to terminate the program, it continued, in large part because by 1992 it had created 75,000 jobs across 39 states. By 1993, President Bill Clinton attempted to significantly reduce NASAs budget and directed costs be significantly reduced, aerospace industry jobs were not lost, and the Russians be included.5
+
+The International Space Station seen from the Space Shuttle Atlantis on the STS132 mission
+In 1993, the Clinton Administration announced that the Space Station Freedom would become the International Space Station in an agreement with the Russian Federation.38 This allowed the Russians to maintain their space program through an infusion of American currency to maintain their status as one of the two premier space programs. While the United States built and launched the majority of the International Space Station, Russia, Canada, Japan, and the European Space Agency all contributed components. Despite NASAs insistence that costs would be kept at a budget of 17.4, they kept rising and NASA had to transfer funds from other programs to keep the International Space Station solvent. Ultimately, the total cost of the station was 150 billion, with the United States paying for twothirds.Following the Space Shuttle Columbia disaster in 2003, NASA was forced to rely on Russian Soyuz launches for its astronauts and the 2011 retirement of the Space Shuttle accelerated the stations completion.5
+
+In the 1980s, right after the first flight of the Space Shuttle, NASA started a joint program with the Department of Defense to develop the Rockwell X30 National Aerospace Plane. NASA realized that the Space Shuttle, while a massive technological accomplishment, would not be able to live up to all its promises. Designed to be a singlestagetoorbit spaceplane, the X30 had both civil and military applications. With the end of the Cold War, the X30 was canceled in 1992 before reaching flight status.5
+
+Unleashing commercial space and return to the Moon
+Main articles Commercial Crew Program and Artemis program
+Following the Space Shuttle Columbia disaster in 2003, President Bush started the Constellation program to smoothly replace the Space Shuttle and expand space exploration beyond low Earth orbit.39 Constellation was intended to use a significant amount of former Space Shuttle equipment and return astronauts to the Moon. This program was canceled by the Obama Administration. Former astronauts Neil Armstrong, Gene Cernan, and Jim Lovell sent a letter to President Barack Obama to warn him that if the United States did not get new human spaceflight ability, the US risked become a second or thirdrate space power.5
+
+As early as the Reagan Administration, there had been calls for NASA to expand private sector involvement in space exploration rather than do it all inhouse. In the 1990s, NASA and Lockheed Martin entered into an agreement to develop the Lockheed Martin X33 demonstrator of the VentureStar spaceplane, which was intended to replace the Space Shuttle.40 Due to technical challenges, the spacecraft was cancelled in 2001. Despite this, it was the first time a commercial space company directly expended a significant amount of its resources into spacecraft development. The advent of space tourism also forced NASA to challenge its assumption that only governments would have people in space. The first space tourist was Dennis Tito, an American investment manager and former aerospace engineer who contracted with the Russians to fly to the International Space Station for four days, despite the opposition of NASA to the idea.5
+
+Advocates of this new commercial approach for NASA included former astronaut Buzz Aldrin, who remarked that it would return NASA to its roots as a research and development agency, with commercial entities actually operating the space systems. Having corporations take over orbital operations would also allow NASA to focus all its efforts on deep space exploration and returning humans to the Moon and going to Mars. Embracing this approach, NASAs Commercial Crew Program started by contracting cargo delivery to the International Space Station and flew its first operational contracted mission on SpaceX Crew1. This marked the first time since the retirement of the Space Shuttle that NASA was able to launch its own astronauts on an American spacecraft from the United States, ending a decade of reliance on the Russians.5
+
+In 2019, NASA announced the Artemis program, intending to return to the Moon and establish a permanent human presence.41 This was paired with the Artemis Accords with partner nations to establish rules of behavior and norms of space commercialization on the Moon.42
+
+In 2023, NASA established the Moon to Mars Program office. The office is designed to oversee the various projects, mission architectures and associated timelines relevant to lunar and Mars exploration and science.43
+
+Active programs
+Human spaceflight
+International Space Station (1993present)
+Further information International Space Station
+
+The International Space Station as seen from Space Shuttle Endeavour during STS134
+The International Space Station (ISS) combines NASAs Space Station Freedom project with the Russian Mir2 station, the European Columbus station, and the Japanese Kib laboratory module.44 NASA originally planned in the 1980s to develop Freedom alone, but US budget constraints led to the merger of these projects into a single multinational program in 1993, managed by NASA, the Russian Federal Space Agency (RKA), the Japan Aerospace Exploration Agency (JAXA), the European Space Agency (ESA), and the Canadian Space Agency (CSA).4546 The station consists of pressurized modules, external trusses, solar arrays and other components, which were manufactured in various factories around the world and launched by Russian Proton and Soyuz rockets, and the American Space Shuttle.44 The onorbit assembly began in 1998, the completion of the US Orbital Segment occurred in 2009 and the completion of the Russian Orbital Segment occurred in 2010. The ownership and use of the space station is established in intergovernmental treaties and agreements,47 which divide the station into two areas and allow Russia to retain full ownership of the Russian Orbital Segment (with the exception of Zarya),4849 with the US Orbital Segment allocated between the other international partners.47
+
+Longduration missions to the ISS are referred to as ISS Expeditions. Expedition crew members typically spend approximately six months on the ISS.50 The initial expedition crew size was three, temporarily decreased to two following the Columbia disaster. Between May 2009 and until the retirement of the Space Shuttle, the expedition crew size has been six crew members.51 As of 2024, though the Commercial Programs crew capsules can allow a crew of up to seven, expeditions using them typically consist of a crew of four. The ISS has been continuously occupied for the past 24 years and 342 days, having exceeded the previous record held by Mir and has been visited by astronauts and cosmonauts from 15 different nations.5253
+
+The station can be seen from the Earth with the naked eye and, as of 2025, is the largest artificial satellite in Earth orbit with a mass and volume greater than that of any previous space station.54 The Russian Soyuz and American Dragon and Starliner spacecraft are used to send astronauts to and from the ISS. Several uncrewed cargo spacecraft provide service to the ISS they are the Russian Progress spacecraft which has done so since 2000, the European Automated Transfer Vehicle (ATV) since 2008, the Japanese HII Transfer Vehicle (HTV) since 2009, the (uncrewed) Dragon since 2012, and the American Cygnus spacecraft since 2013.5556 The Space Shuttle, before its retirement, was also used for cargo transfer and would often switch out expedition crew members, although it did not have the capability to remain docked for the duration of their stay. Between the retirement of the Shuttle in 2011 and the commencement of crewed Dragon flights in 2020, American astronauts exclusively used the Soyuz for crew transport to and from the ISS57 The highest number of people occupying the ISS has been thirteen this occurred three times during the late Shuttle ISS assembly missions.58
+
+The ISS program is expected to continue until 2030,59 after which the space station will be retired and destroyed in a controlled deorbit.60
+
+Commercial Resupply Services (2008present)
+Further information Commercial Resupply Services
+
+Dragon
+
+Cygnus
+
+Commercial Resupply Services missions approaching International Space Station
+Commercial Resupply Services (CRS) are a contract solution to deliver cargo and supplies to the International Space Station on a commercial basis by private companies.61 NASA signed its first CRS contracts in 2008 and awarded 1.6 billion to SpaceX for twelve cargo Dragon and 1.9 billion to Orbital Sciencesnote 1 for eight Cygnus flights, covering deliveries until 2016. Both companies evolved or created their launch vehicle products to launch the spacecrafts (SpaceX with The Falcon 9 and Orbital with the Antares).
+
+SpaceX flew its first operational resupply mission (SpaceX CRS1) in 2012.62 Orbital Sciences followed in 2014 (Cygnus CRS Orb1).63 In 2015, NASA extended CRS1 to twenty flights for SpaceX and twelve flights for Orbital ATK.note 16465
+
+A second phase of contracts (known as CRS2) was solicited in 2014 contracts were awarded in January 2016 to Orbital ATKnote 1 Cygnus, Sierra Nevada Corporation Dream Chaser, and SpaceX Dragon 2, for cargo transport flights beginning in 2019 and expected to last through 2024. In March 2022, NASA awarded an additional six CRS2 missions each to both SpaceX and Northrop Grumman (formerly Orbital).66
+
+Northrop Grumman successfully delivered Cygnus NG17 to the ISS in February 2022.67 In July 2022, SpaceX launched its 25th CRS flight (SpaceX CRS25) and successfully delivered its cargo to the ISS.68 The Dream Chaser spacecraft is currently scheduled for its Demo1 launch in the first half of 2024.69
+
+Commercial Crew Program (2011present)
+Further information Commercial Crew Program
+
+The Crew Dragon (left) and Starliner (right) approaching the ISS on their respective missions
+The Commercial Crew Program (CCP) provides commercially operated crew transportation service to and from the International Space Station (ISS) under contract to NASA, conducting crew rotations between the expeditions of the International Space Station program. American space manufacturer SpaceX began providing service in 2020, using the Crew Dragon spacecraft,70 while Boeings Starliner spacecraft provided service in 2024. It was on contract for 6 missions, but after the first mission nearly ended in disaster and left the two astronauts stranded on the ISS for six months, NASA froze its contract with Boeing.71727374 NASA has contracted for six operational missions from Boeing and fourteen from SpaceX, ensuring sufficient support for ISS through 2030.75
+
+The spacecraft are owned and operated by the vendor, and crew transportation is provided to NASA as a commercial service.76 Each mission sends up to four astronauts to the ISS, with an option for a fifth passenger available. Operational flights occur approximately once every six months for missions that last for approximately six months. A spacecraft remains docked to the ISS during its mission, and missions usually overlap by at least a few days. Between the retirement of the Space Shuttle in 2011 and the first operational CCP mission in 2020, NASA relied on the Soyuz program to transport its astronauts to the ISS.
+
+A Crew Dragon spacecraft is launched to space atop a Falcon 9 Block 5 launch vehicle and the capsule returns to Earth via splashdown in the ocean near Florida. The programs first operational mission, SpaceX Crew1, launched on November 16, 2020.77 Boeing Starliner operational flights will now commence with Boeing Starliner1 which will launched atop an Atlas V N22 launch vehicle. Instead of a splashdown, Starliner capsules return on land with airbags at one of four designated sites in the western United States.78
+
+Artemis (2017present)
+Further information Artemis program
+An arrowhead combined with a depiction of a translunar injection trajectory forms an "A", with an "Artemis" wordmark printed underneath
+
+Launch of Artemis I
+Since 2017, NASAs crewed spaceflight program has been the Artemis program, which involves the help of US commercial spaceflight companies and international partners such as ESA, JAXA, and CSA.79 The goal of this program is to land "the first woman and the next man" on the lunar south pole region by 2025. Artemis would be the first step towards the longterm goal of establishing a sustainable presence on the Moon, laying the foundation for companies to build a lunar economy, and eventually sending humans to Mars.
+
+The Orion Crew Exploration Vehicle was held over from the canceled Constellation program for Artemis. Artemis I was the uncrewed initial launch of Space Launch System (SLS) that would also send an Orion spacecraft on a Distant Retrograde Orbit.80
+
+The first tentative steps of returning to crewed lunar missions will be Artemis II, which is to include the Orion crew module, propelled by the SLS, and is expected to launch no later than April 2026.817982 This mission is to be a 10day mission planned to briefly place a crew of four into a Lunar flyby.83 Artemis III aims to conduct the first crewed lunar landing since Apollo 17, and is scheduled for no earlier than mid2027.citation needed
+
+In support of the Artemis missions, NASA has been funding private companies to land robotic probes on the lunar surface in a program known as the Commercial Lunar Payload Services. As of March 2022, NASA has awarded contracts for robotic lunar probes to companies such as Intuitive Machines, Firefly Space Systems, and Astrobotic.84
+
+On April 16, 2021, NASA announced they had selected the SpaceX Lunar Starship as its Human Landing System. The agencys Space Launch System rocket will launch four astronauts aboard the Orion spacecraft for their multiday journey to lunar orbit where they will transfer to SpaceXs Starship for the final leg of their journey to the surface of the Moon.85
+
+In November 2021, it was announced that the goal of landing astronauts on the Moon by 2024 had slipped to no earlier than 2027 due to numerous factors. Artemis I launched on November 16, 2022, and returned to Earth safely on December 11, 2022. As of April 2025, NASA plans to launch Artemis II in April 2026.86 and Artemis III in 2027.87 Additional Artemis missions, Artemis IV, Artemis V, and Artemis VI are planned to launch between 2028 and 2031.88
+
+NASAs next major space initiative is the construction of the Lunar Gateway, a small space station in lunar orbit.89 This space station will be designed primarily for noncontinuous human habitation. The construction of the Gateway is expected to begin in 2027 with the launch of the first two modules the Power and Propulsion Element (PPE) and the Habitation and Logistics Outpost (HALO).90 Operations on the Gateway will begin with the Artemis IV mission, which plans to deliver a crew of four to the Gateway in 2028.
+
+In 2017, NASA was directed by the congressional NASA Transition Authorization Act of 2017 to get humans to Marsorbit (or to the Martian surface) by the 2030s.9192
+
+Commercial LEO Development (2021present)
+Further information Commercial LEO Destinations program
+The Commercial Low Earth Orbit Destinations program is an initiative by NASA to support work on commercial space stations that the agency hopes to have in place by the end of the current decade to replace the "International Space Station". The three selected companies are Blue Origin (et al.) with their Orbital Reef station concept, Nanoracks (et al.) with their Starlab Space Station concept, and Northrop Grumman with a station concept based on the HALOmodule for the Gateway station.93
+
+Robotic exploration
+Further information List of NASA missions and List of uncrewed NASA missions
+Video of many of the uncrewed missions used to explore the outer reaches of space
+NASA has conducted many uncrewed and robotic spaceflight programs throughout its history. More than 1,000 uncrewed missions have been designed to explore the Earth and the Solar System.94
+
+Mission selection process
+NASA executes a mission development framework to plan, select, develop, and operate robotic missions. This framework defines cost, schedule and technical risk parameters to enable competitive selection of missions involving mission candidates that have been developed by principal investigators and their teams from across NASA, the broader US Government research and development stakeholders, and industry. The mission development construct is defined by four umbrella programs.95
+
+Explorer program
+Further information Explorers Program
+The Explorer program derives its origin from the earliest days of the US Space program. In current form, the program consists of three classes of systems Small Explorers (SMEX), Medium Explorers (MIDEX), and UniversityClass Explorers (UNEX) missions. The NASA Explorer program office provides frequent flight opportunities for moderate cost innovative solutions from the heliophysics and astrophysics science areas. The Small Explorer missions are required to limit cost to NASA to below 150M (2022 dollars). Medium class explorer missions have typically involved NASA cost caps of 350M. The Explorer program office is based at NASA Goddard Space Flight Center.96
+
+Discovery program
+Further information Discovery Program
+The NASA Discovery program develops and delivers robotic spacecraft solutions in the planetary science domain. Discovery enables scientists and engineers to assemble a team to deliver a solution against a defined set of objectives and competitively bid that solution against other candidate programs. Cost caps vary but recent mission selection processes were accomplished using a 500M cost cap for NASA. The Planetary Mission Program Office is based at the NASA Marshall Space Flight Center and manages both the Discovery and New Frontiers missions. The office is part of the Science Mission Directorate.97
+
+NASA Administrator Bill Nelson announced on June 2, 2021, that the DAVINCI and VERITAS missions were selected to launch to Venus in the late 2020s, having beat out competing proposals for missions to Jupiters volcanic moon Io and Neptunes large moon Triton that were also selected as Discovery program finalists in early 2020. Each mission has an estimated cost of 500 million, with launches expected between 2028 and 2030. Launch contracts will be awarded later in each missions development.98
+
+New Frontiers program
+Further information New Frontiers program
+The New Frontiers program focuses on specific Solar System exploration goals identified as top priorities by the planetary science community. Primary objectives include Solar System exploration employing medium class spacecraft missions to conduct highsciencereturn investigations. New Frontiers builds on the development approach employed by the Discovery program but provides for higher cost caps and schedule durations than are available with Discovery. Cost caps vary by opportunity recent missions have been awarded based on a defined cap of 1 billion. The higher cost cap and projected longer mission durations result in a lower frequency of new opportunities for the program typically one every several years. OSIRISREx and New Horizons are examples of New Frontiers missions.99
+
+NASA has determined that the next opportunity to propose for the fifth round of New Frontiers missions will occur no later than the fall of 2024. Missions in NASAs New Frontiers Program tackle specific Solar System exploration goals identified as top priorities by the planetary science community. Exploring the Solar System with mediumclass spacecraft missions that conduct highsciencereturn investigations is NASAs strategy to further understand the Solar System.100
+
+Large strategic missions
+Further information Large strategic science missions
+Large strategic missions (formerly called Flagship missions) are strategic missions that are typically developed and managed by large teams that may span several NASA centers. The individual missions become the program as opposed to being part of a larger effort (see Discovery, New Frontiers, etc.). The James Webb Space Telescope is a strategic mission that was developed over a period of more than 20 years. Strategic missions are developed on an adhoc basis as program objectives and priorities are established. Missions like Voyager, had they been developed today, would have been strategic missions. Three of the Great Observatories were strategic missions (the Chandra Xray Observatory, the Compton Gamma Ray Observatory, and the Hubble Space Telescope). Europa Clipper is the next large strategic mission in development by NASA.101
+
+Planetary science missions
+
+Curiosity on the surface of Mars
+NASA continues to play a material role in exploration of the Solar System as it has for decades. Ongoing missions have current science objectives with respect to more than five extraterrestrial bodies within the Solar System Moon (Lunar Reconnaissance Orbiter), Mars (Perseverance rover), Jupiter (Juno), asteroid Bennu (OSIRISREx), and Kuiper Belt Objects (New Horizons). The Juno extended mission will make multiple flybys of the Jovian moon Io in 2023 and 2024 after flybys of Ganymede in 2021 and Europa in 2022. Voyager 1 and Voyager 2 continue to provide science data back to Earth while continuing on their outward journeys into interstellar space.
+
+On November 26, 2011, NASAs Mars Science Laboratory mission was successfully launched for Mars. The Curiosity rover successfully landed on Mars on August 6, 2012, and subsequently began its search for evidence of past or present life on Mars.102103104
+
+In September 2014, NASAs MAVEN spacecraft, which is part of the Mars Scout Program, successfully entered Mars orbit and, as of October 2022, continues its study of the atmosphere of Mars.105106 NASAs ongoing Mars investigations include indepth surveys of Mars by the Perseverance rover.
+
+NASAs Europa Clipper, launched in October 2024, will study the Galilean moon Europa through a series of flybys while in orbit around Jupiter. Dragonfly will send a mobile robotic rotorcraft to Saturns biggest moon, Titan.107 As of May 2021, Dragonfly is scheduled for launch in June 2027.108109
+
+Astrophysics missions
+
+NASA astrophysics spacecraft fleet, credit NASA GSFC, 2022
+The NASA Science Mission Directorate Astrophysics division manages the agencys astrophysics science portfolio. NASA has invested significant resources in the development, delivery, and operations of various forms of space telescopes. These telescopes have provided the means to study the cosmos over a large range of the electromagnetic spectrum.110
+
+The Great Observatories that were launched in the 1980s and 1990s have provided a wealth of observations for study by physicists across the planent. The first of them, the Hubble Space Telescope, was delivered to orbit in 1990 and continues to function, in part due to prior servicing missions performed by the Space Shuttle.111112 The other remaining active great observatories include the Chandra Xray Observatory (CXO), launched by STS93 in July 1999 and is now in a 64hour elliptical orbit studying Xray sources that are not readily viewable from terrestrial observatories.113
+
+Chandra Xray Observatory (rendering), 2015
+The Imaging Xray Polarimetry Explorer (IXPE) is a space observatory designed to improve the understanding of Xray production in objects such as neutron stars and pulsar wind nebulae, as well as stellar and supermassive black holes.114 IXPE launched in December 2021 and is an international collaboration between NASA and the Italian Space Agency (ASI). It is part of the NASA Small Explorers program (SMEX) which designs lowcost spacecraft to study heliophysics and astrophysics.115
+
+The Neil Gehrels Swift Observatory was launched in November 2004 and is a gammaray burst observatory that also monitors the afterglow in Xray, and UVVisible light at the location of a burst.116 The mission was developed in a joint partnership between Goddard Space Flight Center (GSFC) and an international consortium from the United States, United Kingdom, and Italy. Pennsylvania State University operates the mission as part of NASAs Medium Explorer program (MIDEX).117
+
+The Fermi Gammaray Space Telescope (FGST) is another gammaray focused space observatory that was launched to low Earth orbit in June 2008 and is being used to perform gammaray astronomy observations.118 In addition to NASA, the mission involves the United States Department of Energy, and government agencies in France, Germany, Italy, Japan, and Sweden.119
+
+The James Webb Space Telescope (JWST), launched in December 2021 on an Ariane 5 rocket, operates in a halo orbit circling the SunEarth L2 point.120121122 JWSTs high sensitivity in the infrared spectrum and its imaging resolution will allow it to view more distant, faint, or older objects than its predecessors, including Hubble.123
+
+Earth Sciences Program missions (1965present)
+Further information NASA Earth Science
+
+Schematic of NASA Earth Science Division operating satellite missions as of February 2015
+NASA Earth Science is a large, umbrella program comprising a range of terrestrial and spacebased collection systems in order to better understand the Earth system and its response to natural and humancaused changes. Numerous systems have been developed and fielded over several decades to provide improved prediction for weather, climate, and other changes in the natural environment. Several of the current operating spacecraft programs include Aqua,124 Aura,125 Orbiting Carbon Observatory 2 (OCO2),126 Gravity Recovery and Climate Experiment Followon (GRACE FO),127 and Ice, Cloud, and land Elevation Satellite 2 (ICESat2).128
+
+In addition to systems already in orbit, NASA is designing a new set of Earth Observing Systems to study, assess, and generate responses for climate change, natural hazards, forest fires, and realtime agricultural processes.129 The GOEST satellite (designated GOES18 after launch) joined the fleet of US geostationary weather monitoring satellites in March 2022.130
+
+NASA also maintains the Earth Science Data Systems (ESDS) program to oversee the life cycle of NASAs Earth science data from acquisition through processing and distribution. The primary goal of ESDS is to maximize the scientific return from NASAs missions and experiments for research and applied scientists, decision makers, and society at large.131
+
+The Earth Science program is managed by the Earth Science Division of the NASA Science Mission Directorate.
+
+Space operations architecture
+NASA invests in various ground and spacebased infrastructures to support its science and exploration mandate. The agency maintains access to suborbital and orbital space launch capabilities and sustains ground station solutions to support its evolving fleet of spacecraft and remote systems.
+
+Deep Space Network (1963present)
+Further information NASA Deep Space Network
+The NASA Deep Space Network (DSN) serves as the primary ground station solution for NASAs interplanetary spacecraft and select Earthorbiting missions.132 The system employs ground station complexes near Barstow, California, in Spain near Madrid, and in Australia near Canberra. The placement of these ground stations approximately 120 degrees apart around the planet provides the ability for communications to spacecraft throughout the Solar System even as the Earth rotates about its axis on a daily basis. The system is controlled at a 24x7 operations center at JPL in Pasadena, California, which manages recurring communications linkages with up to 40 spacecraft.133 The system is managed by the Jet Propulsion Laboratory.132
+
+Near Space Network (1983present)
+Further information Near Earth Network and Tracking and Data Relay Satellite System
+
+Near Earth Network Ground Stations, 2021
+The Near Space Network (NSN) provides telemetry, commanding, groundbased tracking, data and communications services to a wide range of customers with satellites in low earth orbit (LEO), geosynchronous orbit (GEO), highly elliptical orbits (HEO), and lunar orbits. The NSN accumulates ground station and antenna assets from the NearEarth Network and the Tracking and Data Relay Satellite System (TDRS) which operates in geosynchronous orbit providing continuous realtime coverage for launch vehicles and low earth orbit NASA missions.134
+
+The NSN consists of 19 ground stations worldwide operated by the US Government and by contractors including Kongsberg Satellite Services (KSAT), Swedish Space Corporation (SSC), and South African National Space Agency (SANSA).135 The ground network averages between 120 and 150 spacecraft contacts a day with TDRS engaging with systems on a nearcontinuous basis as needed the system is managed and operated by the Goddard Space Flight Center.136
+
+Sounding Rocket Program (1959present)
+Further information NASA Sounding Rocket Program
+
+NASA sounding rocket launch from the Wallops Flight Facility
+The NASA Sounding Rocket Program (NSRP) is located at the Wallops Flight Facility and provides launch capability, payload development and integration, and field operations support to execute suborbital missions.137 The program has been in operation since 1959 and is managed by the Goddard Space Flight Center using a combined US Government and contractor team.138 The NSRP team conducts approximately 20 missions per year from both Wallops and other launch locations worldwide to allow scientists to collect data "where it occurs". The program supports the strategic vision of the Science Mission Directorate collecting important scientific data for earth science, heliophysics, and astrophysics programs.137
+
+In June 2022, NASA conducted its first rocket launch from a commercial spaceport outside the US. It launched a Black Brant IX from the Arnhem Space Centre in Australia.139
+
+Launch Services Program (1990present)
+Further information NASA Launch Services Program
+
+The NASA Launch Services Program (LSP) is responsible for procurement of launch services for NASA uncrewed missions and oversight of launch integration and launch preparation activity, providing added quality and mission assurance to meet program objectives.140 Since 1990, NASA has purchased expendable launch vehicle launch services directly from commercial providers, whenever possible, for its scientific and applications missions. Expendable launch vehicles can accommodate all types of orbit inclinations and altitudes and are ideal vehicles for launching Earthorbit and interplanetary missions. LSP operates from Kennedy Space Center and falls under the NASA Space Operations Mission Directorate (SOMD).141142
+
+Aeronautics Research
+Further information NASA research and Aeronautics Research Mission Directorate
+The Aeronautics Research Mission Directorate (ARMD) is one of five mission directorates within NASA, the other four being the Exploration Systems Development Mission Directorate, the Space Operations Mission Directorate, the Science Mission Directorate, and the Space Technology Mission Directorate.143 The ARMD is responsible for NASAs aeronautical research, which benefits the commercial, military, and general aviation sectors. ARMD performs its aeronautics research at four NASA facilities Ames Research Center and Armstrong Flight Research Center in California, Glenn Research Center in Ohio, and Langley Research Center in Virginia.144
+
+NASA X57 Maxwell aircraft (2016present)
+Further information NASA X57 Maxwell
+The NASA X57 Maxwell is an experimental aircraft being developed by NASA to demonstrate the technologies required to deliver a highly efficient allelectric aircraft.145 The primary goal of the program is to develop and deliver allelectric technology solutions that can also achieve airworthiness certification with regulators. The program involves development of the system in several phases, or modifications, to incrementally grow the capability and operability of the system. The initial configuration of the aircraft has now completed ground testing as it approaches its first flights. In mid2022, the X57 was scheduled to fly before the end of the year.146 The development team includes staff from the NASA Armstrong, Glenn, and Langley centers along with number of industry partners from the United States and Italy.147
+
+Next Generation Air Transportation System (2007present)
+Further information Next Generation Air Transportation System
+NASA is collaborating with the Federal Aviation Administration and industry stakeholders to modernize the United States National Airspace System (NAS). Efforts began in 2007 with a goal to deliver major modernization components by 2025.148 The modernization effort intends to increase the safety, efficiency, capacity, access, flexibility, predictability, and resilience of the NAS while reducing the environmental impact of aviation.149 The Aviation Systems Division of NASA Ames operates the joint NASAFAA North Texas Research Station. The station supports all phases of NextGen research, from concept development to prototype system field evaluation. This facility has already transitioned advanced NextGen concepts and technologies to use through technology transfers to the FAA.148 NASA contributions also include development of advanced automation concepts and tools that provide air traffic controllers, pilots, and other airspace users with more accurate realtime information about the nations traffic flow, weather, and routing. Ames advanced airspace modeling and simulation tools have been used extensively to model the flow of air traffic flow across the US, and to evaluate new concepts in airspace design, traffic flow management, and optimization.150
+
+Technology research
+For technologies funded or otherwise supported by NASA, see NASA spinoff technologies.
+Nuclear inspace power and propulsion (ongoing)
+NASA has made use of technologies such as the multimission radioisotope thermoelectric generator (MMRTG), which is a type of radioisotope thermoelectric generator used to power spacecraft.151 Shortages of the required plutonium238 have curtailed deep space missions since the turn of the millennium.152 An example of a spacecraft that was not developed because of a shortage of this material was New Horizons 2.152
+
+In July 2021, NASA announced contract awards for development of nuclear thermal propulsion reactors. Three contractors will develop individual designs over 12 months for later evaluation by NASA and the US Department of Energy.153 NASAs space nuclear technologies portfolio are led and funded by its Space Technology Mission Directorate.
+
+In January 2023, NASA announced a partnership with Defense Advanced Research Projects Agency (DARPA) on the Demonstration Rocket for Agile Cislunar Operations (DRACO) program to demonstrate a NTR engine in space, an enabling capability for NASA missions to Mars.154 In July 2023, NASA and DARPA jointly announced the award of 499 million to Lockheed Martin to design and build an experimental NTR rocket to be launched in 2027.155
+
+In July 2025, Acting NASA Administrator Sean Duffy issued a directive to fasttrack plans for placing a nuclear reactor on the Moon to support the agencys Artemis program and maintain U.S. leadership in space exploration. The directive, prompted by concerns that China and Russia may deploy a joint lunar reactor by the mid2030s, emphasizes the need for a 100kilowatt system to power longterm lunar missions. Duffy warned that if another nation establishes a reactor first, it could create "keepout zones" limiting U.S. access.156
+
+Other initiatives
+Socioeconomic Data and Applications Center (SEDAC), founded in 1994, "focuses on archiving and distributing data related to human interactions in the environment. SEDAC synthesizes Earth science and socioeconomic data and information" in Palisades, NY,157 with partner Center for Integrated Earth System Information, Columbia University.158 SEDAC has extensive geospatial data holdings.157159
+
+Free Space Optics. NASA contracted a third party to study the probability of using Free Space Optics (FSO) to communicate with Optical (laser) Stations on the Ground (OGS) called lasercom RF networks for satellite communications.160
+
+Water Extraction from Lunar Soil. On July 29, 2020, NASA requested American universities to propose new technologies for extracting water from the lunar soil and developing power systems. The idea will help the space agency conduct sustainable exploration of the Moon.161
+
+In 2024, NASA was tasked by the US Government to create a Time standard for the Moon. The standard is to be called Coordinated Lunar Time and is expected to be finalized in 2026.162
+
+Human Spaceflight Research (2005present)
+
+SpaceX Crew4 astronaut Samantha Cristoforetti operating the rHEALTH ONE on the ISS to address key health risks for space travel
+NASAs Human Research Program (HRP) is designed to study the effects of space on human health and also to provide countermeasures and technologies for human space exploration.163 The medical effects of space exploration are reasonably limited in low Earth orbit or in travel to the Moon. Travel to Mars is significantly longer and deeper into space, significant medical issues can result. These include bone density loss, radiation exposure, vision changes, circadian rhythm disturbances, heart remodeling, and immune alterations. In order to study and diagnose these illeffects, HRP has been tasked with identifying or developing small portable instrumentation with low mass, volume, and power to monitor the health of astronauts.164 To achieve this aim, on May 13, 2022, NASA and SpaceX Crew4 astronauts successfully tested its rHEALTH ONE universal biomedical analyzer for its ability to identify and analyzer biomarkers, cells, microorganisms, and proteins in a spaceflight environment.165
+
+Planetary Defense (2016present)
+Further information Planetary Defense Coordination Office and Near Earth Objects
+
+NASA established the Planetary Defense Coordination Office (PDCO) in 2016 to catalog and track potentially hazardous nearEarth objects (NEO), such as asteroids and comets and develop potential responses and defenses against these threats.166 The PDCO is chartered to provide timely and accurate information to the government and the public on close approaches by Potentially hazardous objects (PHOs) and any potential for impact. The office functions within the Science Mission Directorate Planetary Science Division.167
+
+The PDCO augmented prior cooperative actions between the United States, the European Union, and other nations which had been scanning the sky for NEOs since 1998 in an effort called Spaceguard.168
+
+Near Earth object detection (1998present)
+From the 1990s NASA has run many NEO detection programs from Earth bases observatories, greatly increasing the number of objects that have been detected. Many asteroids are very dark and those near the Sun are much harder to detect from Earthbased telescopes which observe at night, and thus face away from the Sun. NEOs inside Earth orbit only reflect a part of light also rather than potentially a "full Moon" when they are behind the Earth and fully lit by the Sun.169
+
+In 1998, the United States Congress gave NASA a mandate to detect 90 of nearEarth asteroids over 1 km (0.62 mi) diameter (that threaten global devastation) by 2008.170 This initial mandate was met by 2011.171 In 2005, the original USA Spaceguard mandate was extended by the George E. Brown, Jr. NearEarth Object Survey Act, which calls for NASA to detect 90 of NEOs with diameters of 140 m (460 ft) or greater, by 2020 (compare to the 20meter Chelyabinsk meteor that hit Russia in 2013).172 As of January 2020, it is estimated that less than half of these have been found, but objects of this size hit the Earth only about once in 2,000 years.173
+
+In January 2020, NASA officials estimated it would take 30 years to find all objects meeting the 140 m (460 ft) size criteria, more than twice the timeframe that was built into the 2005 mandate.174 In June 2021, NASA authorized the development of the NEO Surveyor spacecraft to reduce that projected duration to achieve the mandate down to 10 years.175176
+
+Involvement in current robotic missions
+NASA has incorporated planetary defense objectives into several ongoing missions.
+
+In 1999, NASA visited 433 Eros with the NEAR Shoemaker spacecraft which entered its orbit in 2000, closely imaging the asteroid with various instruments at that time.177 NEAR Shoemaker became the first spacecraft to successfully orbit and land on an asteroid, improving our understanding of these bodies and demonstrating our capacity to study them in greater detail.178
+
+OSIRISREx used its suite of instruments to transmit radio tracking signals and capture optical images of Bennu during its study of the asteroid that will help NASA scientists determine its precise position in the solar system and its exact orbital path. As Bennu has the potential for recurring approaches to the EarthMoon system in the next 100200 years, the precision gained from OSIRISREx will enable scientists to better predict the future gravitational interactions between Bennu and our planet and resultant changes in Bennus onward flight path.179180
+
+The WISENEOWISE mission was launched by NASA JPL in 2009 as an infraredwavelength astronomical space telescope. In 2013, NASA repurposed it as the NEOWISE mission to find potentially hazardous nearEarth asteroids and comets its mission has been extended into 2023.181182
+
+NASA and Johns Hopkins Applied Physics Laboratory (JHAPL) jointly developed the first planetary defense purposebuilt satellite, the Double Asteroid Redirection Test (DART) to test possible planetary defense concepts.183 DART was launched in November 2021 by a SpaceX Falcon 9 from California on a trajectory designed to impact the Dimorphos asteroid. Scientists were seeking to determine whether an impact could alter the subsequent path of the asteroid a concept that could be applied to future planetary defense.184 On September 26, 2022, DART hit its target. In the weeks following impact, NASA declared DART a success, confirming it had shortened Dimorphos orbital period around Didymos by about 32 minutes, surpassing the predefined success threshold of 73 seconds.185186
+
+NEO Surveyor, formerly called the NearEarth Object Camera (NEOCam) mission, is a spacebased infrared telescope under development to survey the Solar System for potentially hazardous asteroids.187 The spacecraft is scheduled to launch in 2026.
+
+Study of Unidentified Aerial Phenomena (2022present)
+In June 2022, the head of the NASA Science Mission Directorate, Thomas Zurbuchen, confirmed the start of NASAs UAP independent study team.188 At a speech before the National Academies of Science, Engineering and Medicine, Zurbuchen said the space agency would bring a scientific perspective to efforts already underway by the Pentagon and intelligence agencies to make sense of dozens of such sightings. He said it was "highrisk, highimpact" research that the space agency should not shy away from, even if it is a controversial field of study.189
+
+Collaboration
+NASA Advisory Council
+In response to the Apollo 1 accident, which killed three astronauts in 1967, Congress directed NASA to form an Aerospace Safety Advisory Panel (ASAP) to advise the NASA Administrator on safety issues and hazards in NASAs air and space programs. In the aftermath of the Shuttle Columbia disaster, Congress required that the ASAP submit an annual report to the NASA Administrator and to Congress.190 By 1971, NASA had also established the Space Program Advisory Council and the Research and Technology Advisory Council to provide the administrator with advisory committee support. In 1977, the latter two were combined to form the NASA Advisory Council (NAC).191 The NASA Authorization Act of 2014 reaffirmed the importance of ASAP.
+
+National Oceanic and Atmospheric Administration (NOAA)
+Further information National Oceanic and Atmospheric Administration
+
+NASA and NOAA have cooperated for decades on the development, delivery and operation of polar and geosynchronous weather satellites.192 The relationship typically involves NASA developing the space systems, launch solutions, and ground control technology for the satellites and NOAA operating the systems and delivering weather forecasting products to users. Multiple generations of NOAA Polar orbiting platforms have operated to provide detailed imaging of weather from low altitude.193 Geostationary Operational Environmental Satellites (GOES) provide nearrealtime coverage of the western hemisphere to ensure accurate and timely understanding of developing weather phenomenon.194
+
+United States Space Force
+Further information United States Space Force
+
+The United States Space Force (USSF) is the space service branch of the United States Armed Forces, while the National Aeronautics and Space Administration (NASA) is an independent agency of the United States government responsible for civil spaceflight. NASA and the Space Forces predecessors in the Air Force have a longstanding cooperative relationship, with the Space Force supporting NASA launches out of Kennedy Space Center, Cape Canaveral Space Force Station, and Vandenberg Space Force Base, to include range support and rescue operations from Task Force 45.195 NASA and the Space Force also partner on matters such as defending Earth from asteroids.196 Space Force members can be NASA astronauts, with Colonel Michael S. Hopkins, the commander of SpaceX Crew1, commissioned into the Space Force from the International Space Station on December 18, 2020.197198199 In September 2020, the Space Force and NASA signed a memorandum of understanding formally acknowledging the joint role of both agencies. This new memorandum replaced a similar document signed in 2006 between NASA and Air Force Space Command.200201
+
+US Geological Survey
+Further information United States Geological Survey and Landsat 9
+
+The Landsat program is the longestrunning enterprise for acquisition of satellite imagery of Earth. It is a joint NASA USGS program.202 On July 23, 1972, the Earth Resources Technology Satellite was launched. This was eventually renamed to Landsat 1 in 1975.203 The most recent satellite in the series, Landsat 9, was launched on September 27, 2021.204
+
+The instruments on the Landsat satellites have acquired millions of images. The images, archived in the United States and at Landsat receiving stations around the world, are a unique resource for global change research and applications in agriculture, cartography, geology, forestry, regional planning, surveillance and education, and can be viewed through the US Geological Survey (USGS) "EarthExplorer" website. The collaboration between NASA and USGS involves NASA designing and delivering the space system (satellite) solution, launching the satellite into orbit with the USGS operating the system once in orbit.202 As of October 2022, nine satellites have been built with eight of them successfully operating in orbit.
+
+European Space Agency (ESA)
+Further information European Space Agency
+
+NASA collaborates with the European Space Agency on a wide range of scientific and exploration requirements.205 From participation with the Space Shuttle (the Spacelab missions) to major roles on the Artemis program (the Orion Service Module), ESA and NASA have supported the science and exploration missions of each agency. There are NASA payloads on ESA spacecraft and ESA payloads on NASA spacecraft. The agencies have developed joint missions in areas including heliophysics (e.g. Solar Orbiter)206 and astronomy (Hubble Space Telescope, James Webb Space Telescope).207
+
+Under the Artemis Gateway partnership, ESA will contribute habitation and refueling modules, along with enhanced lunar communications, to the Gateway.208209 NASA and ESA continue to advance cooperation in relation to Earth Science including climate change with agreements to cooperate on various missions including the Sentinel6 series of spacecraft210
+
+Indian Space Research Organisation (ISRO)
+Further information ISRO
+
+In September 2014, NASA and the Indian Space Research Organisation (ISRO) signed a partnership to collaborate on and launch a joint radar mission, the NASAISRO Synthetic Aperature Radar (NISAR) mission. The mission was launched on July 30, 2025.211 NASA has provided the missions Lband synthetic aperture radar, a highrate communication subsystem for science data, GPS receivers, a solidstate recorder and payload data subsystem. ISRO has provided the spacecraft bus, the Sband radar, the launch vehicle and associated launch services.212213
+
+Japan Aerospace Exploration Agency (JAXA)
+Further information JAXA
+
+NASA and the Japan Aerospace Exploration Agency (JAXA) cooperate on a range of space projects. JAXA is a direct participant in the Artemis program, including the Lunar Gateway effort. JAXAs planned contributions to Gateway include IHabs environmental control and life support system, batteries, thermal control, and imagery components, which will be integrated into the module by the European Space Agency (ESA) prior to launch. These capabilities are critical for sustained Gateway operations during crewed and uncrewed time periods.214215
+
+JAXA and NASA have collaborated on numerous satellite programs, especially in areas of Earth science. NASA has contributed to JAXA satellites and vice versa. Japanese instruments are flying on NASAs Terra and Aqua satellites, and NASA sensors have flown on previous Japanese Earthobservation missions. The NASAJAXA Global Precipitation Measurement mission was launched in 2014 and includes both NASA and JAXAsupplied sensors on a NASA satellite launched on a JAXA rocket. The mission provides the frequent, accurate measurements of rainfall over the entire globe for use by scientists and weather forecasters.216
+
+Roscosmos
+Further information Roscosmos
+
+NASA and Roscosmos have cooperated on the development and operation of the International Space Station since September 1993.217 The agencies have used launch systems from both countries to deliver station elements to orbit. Astronauts and Cosmonauts jointly maintain various elements of the station. Both countries provide access to the station via launch systems noting Russias unique role as the sole provider of delivery of crew and cargo upon retirement of the space shuttle in 2011 and prior to commencement of NASA COTS and crew flights. In July 2022, NASA and Roscosmos signed a deal to share space station flights enabling crew from each country to ride on the systems provided by the other.218 Current geopolitical conditions in late 2022 make it unlikely that cooperation will be extended to other programs such as Artemis or lunar exploration.219
+
+Artemis Accords
+Further information Artemis Accords
+The Artemis Accords have been established to define a framework for cooperating in the peaceful exploration and exploitation of the Moon, Mars, asteroids, and comets. The accords were drafted by NASA and the US State Department and are executed as a series of bilateral agreements between the United States and the participating countries.220221 As of June 2023, 22 countries have signed the accords. They are Australia, Bahrain, Brazil, Canada, Colombia, France, India, Israel, Italy, Japan, the Republic of Korea, Luxembourg, Mexico, New Zealand, Poland, Romania, the Kingdom of Saudi Arabia, Singapore, Ukraine, the United Arab Emirates, the United Kingdom, and the United States.222223
+
+China National Space Administration
+Further information Wolf Amendment and China National Space Administration
+The Wolf Amendment was passed by the US Congress into law in 2011 and prevents NASA from engaging in direct, bilateral cooperation with the Chinese government and Chinaaffiliated organizations such as the China National Space Administration without the explicit authorization from Congress and the Federal Bureau of Investigation. The law has been renewed annually since by inclusion in annual appropriations bills.224
+
+Management
+Leadership
+
+Acting Administrator Sean Duffy (2025present)
+The agencys administration is located at NASA Headquarters in Washington, DC, and provides overall guidance and direction.225 Except under exceptional circumstances, NASA civil service employees are required to be US citizens.226 NASAs administrator is nominated by the President of the United States subject to the approval of the US Senate,227 and serves at the Presidents pleasure as a senior space science advisor.
+
+The current interim administrator is transportation secretary Sean Duffy, appointed by President Donald Trump. The administrations original nominee of Jared Isaacman was withdrawn on May 31, 2025.228
+
+Strategic plan
+NASA operates with four FY2022 strategic goals.229
+
+Expand human knowledge through new scientific discoveries
+Extend human presence to the Moon and on towards Mars for sustainable longterm exploration, development, and utilization
+Catalyze economic growth and drive innovation to address national challenges
+Enhance capabilities and operations to catalyze current and future mission success
+Budget
+Further information Budget of NASA
+NASA budget requests are developed by NASA and approved by the administration prior to submission to the US Congress. Authorized budgets are those that have been included in enacted appropriations bills that are approved by both houses of Congress and enacted into law by the US president.230
+
+NASA fiscal year budget requests and authorized budgets are listed below.
+
+Year	Budget Request
+in bil. US	Authorized Budget
+in bil. US	US Government
+Employees
+2018	19.092231	20.736232	17,551233
+2019	19.892232	21.500234	17,551235
+2020	22.613234	22.629236	18,048237
+2021	25.246236	23.271238	18,339239
+2022	24.802238	24.041240	18,400 est
+Organization
+Budget allocations to Mission Directorates
+Science (32.0)
+Exploration Systems (28.0)
+Space Operations (17.0)
+Mission Support (14.0)
+Space Technology (5.00)
+Aeronautics Research (4.00)
+NASA funding and priorities are developed through its six Mission Directorates.
+
+Mission Directorate	Associate
+Administrator	 of Budget238
+Aeronautics Research (ARMD)	Catherine Koerner241	
+4
+Exploration Systems (ESDMD)	Jim Free242	
+28
+Space Operations (SOMD)	Ken Bowersox243	
+17
+Science (SMD)	Nicola Fox244	
+32
+Space Technology (STMD)	Clayton Turner (acting)245	
+5
+Mission Support (MSD)	Robert Gibbs246	
+14
+NASA is located in the United StatesAmesAmesArmstrongArmstrongGlennGlennGoddardGoddardJPLJPLJohnsonJohnsonKennedyKennedyLangleyLangleyMarshallMarshallStennisStennis
+NASA field center locations
+Centerwide activities such as the Chief Engineer and Safety and Mission Assurance organizations are aligned to the headquarters function. The MSD budget estimate includes funds for these HQ functions. The administration operates 10 major field centers with several managing additional subordinate facilities across the country. Each center is led by a director (data below valid as of December 23, 2024).
+
+Field Center	Primary Location	Director
+Ames Research Center	Moffett Field, California	Eugene Tu247
+Armstrong Flight Research Center	Edwards, California	Bradley Flick248
+Glenn Research Center	Cleveland, Ohio	James Kenyon249
+Goddard Space Flight Center	Greenbelt, Maryland	Makenzie Lystrup250
+Jet Propulsion Laboratory	La Caada Flintridge, California	Laurie Leshin251
+Johnson Space Center	Houston, Texas	Vanessa Wyche252
+Kennedy Space Center	Merritt Island, Florida	Janet Petro253
+Langley Research Center	Hampton, Virginia	Dawn Schaible (acting)245
+Marshall Space Flight Center	Huntsville, Alabama	Joseph Pelfrey254
+Stennis Space Center	Hancock County, Mississippi	John Bailey255
+Sustainability
+Environmental impact
+The exhaust gases produced by rocket propulsion systems, both in Earths atmosphere and in space, can adversely affect the Earths environment. Some hypergolic rocket propellants, such as hydrazine, are highly toxic prior to combustion, but decompose into less toxic compounds after burning. Rockets using hydrocarbon fuels, such as kerosene, release carbon dioxide and soot in their exhaust.256 Carbon dioxide emissions are insignificant compared to those from other sources on average, the United States consumed 803 million US gal (3.0 million m3) of liquid fuels per day in 2014, while a single Falcon 9 rocket first stage burns around 25,000 US gallons (95 m3) of kerosene fuel per launch.257258 Even if a Falcon 9 were launched every single day, it would only represent 0.006 of liquid fuel consumption (and carbon dioxide emissions) for that day. Additionally, the exhaust from LOx and LH2 fueled engines, like the SSME, is almost entirely water vapor.259 NASA addressed environmental concerns with its canceled Constellation program in accordance with the National Environmental Policy Act in 2011.260 In contrast, ion engines use harmless noble gases like xenon for propulsion.261262
+
+An example of NASAs environmental efforts is the NASA Sustainability Base. Additionally, the Exploration Sciences Building was awarded the LEED Gold rating in 2010.263 On May 8, 2003, the Environmental Protection Agency recognized NASA as the first federal agency to directly use landfill gas to produce energy at one of its facilitiesthe Goddard Space Flight Center, Greenbelt, Maryland.264
+
+In 2018, NASA along with other companies including Sensor Coating Systems, Pratt Whitney, Monitor Coating and UTRC launched the project CAUTION (CoAtings for Ultra High Temperature detectION). This project aims to enhance the temperature range of the Thermal History Coating up to 1,500 C (2,730 F) and beyond. The final goal of this project is improving the safety of jet engines as well as increasing efficiency and reducing CO2 emissions.265
+
+Climate change
+NASA also researches and publishes on climate change.266 Its statements concur with the global scientific consensus that the climate is warming.267 Bob Walker, who has advised former US President Donald Trump on space issues, has advocated that NASA should focus on space exploration and that its climate study operations should be transferred to other agencies such as NOAA. Former NASA atmospheric scientist J. Marshall Shepherd countered that Earth science study was built into NASAs mission at its creation in the 1958 National Aeronautics and Space Act.268 NASA won the 2020 Webby Peoples Voice Award for Green in the category Web.269
+
+STEM Initiatives
+Further information STEM
+Educational Launch of Nanosatellites (ELaNa). Since 2011, the ELaNa program has provided opportunities for NASA to work with university teams to test emerging technologies and commercialofftheshelf solutions by providing launch opportunities for developed CubeSats using NASA procured launch opportunities.270 By example, two NASAsponsored CubeSats launched in June 2022 on a Virgin Orbit LauncherOne vehicle as the ELaNa 39 mission.271
+
+Cubes in Space. NASA started an annual competition in 2014 named "Cubes in Space".272 It is jointly organized by NASA and the global education company I Doodle Learning, with the objective of teaching school students aged 1118 to design and build scientific experiments to be launched into space on a NASA rocket or balloon. On June 21, 2017, the worlds smallest satellite, KalamSAT, was launched.273
+
+Use of the metric system
+US law requires the International System of Units to be used in all US Government programs, "except where impractical".274
+
+In 1969, Apollo 11 landed on the Moon using a mix of United States customary units and metric units. In the 1980s, NASA started the transition towards the metric system, but was still using both systems in the 1990s.275276 On September 23, 1999, a mixup between NASAs use of SI units and Lockheed Martin Spaces use of US units resulted in the loss of the Mars Climate Orbiter.277
+
+In August 2007, NASA stated that all future missions and explorations of the Moon would be done entirely using the SI system. This was done to improve cooperation with space agencies of other countries that already use the metric system.278 As of 2007, NASA is predominantly working with SI units, but some projects still use US units, and some, including the International Space Station, use a mix of both.279
+
+Media presence
+NASA TV
+Further information NASA TV
+Approaching 40 years of service, the NASA TV channel airs content ranging from live coverage of crewed missions to video coverage of significant milestones for operating robotic spacecraft (e.g. rover landings on Mars) and domestic and international launches.280 The channel is delivered by NASA and is broadcast by satellite and over the Internet. The system initially started to capture archival footage of important space events for NASA managers and engineers and expanded as public interest grew. The Apollo 8 Christmas Eve broadcast while in orbit around the Moon was received by more than a billion people.281 NASAs video transmission of the Apollo 11 Moon landing was awarded a primetime Emmy in commemoration of the 40th anniversary of the landing.282 The channel is a product of the US Government and is widely available across many television and Internet platforms.283
+
+NASAcast
+NASAcast is the official audio and video podcast of the NASA website. Created in late 2005, the podcast service contains the latest audio and video features from the NASA web site, including NASA TVs This Week at NASA and educational materials produced by NASA. Additional NASA podcasts, such as ScienceNASA, are also featured and give subscribers an indepth look at content by subject matter.284
+
+NASA EDGE
+
+NASA EDGE broadcasting live from White Sands Missile Range in 2010
+NASA EDGE is a video podcast which explores different missions, technologies and projects developed by NASA. The program was released by NASA on March 18, 2007, and, as of August 2020, there have been 200 vodcasts produced. It is a public outreach vodcast sponsored by NASAs Exploration Systems Mission Directorate and based out of the Exploration and Space Operations Directorate at Langley Research Center in Hampton, Virginia. The NASA EDGE team takes an insiders look at current projects and technologies from NASA facilities around the United States, and it is depicted through personal interviews, onscene broadcasts, computer animations, and personal interviews with top scientists and engineers at NASA.note 2
+
+The show explores the contributions NASA has made to society as well as the progress of current projects in materials and space exploration. NASA EDGE vodcasts can be downloaded from the NASA website and from iTunes.
+
+In its first year of production, the show was downloaded over 450,000 times. As of February 2010, the average download rate is more than 420,000 per month, with over one million downloads in December 2009 and January 2010.286
+
+NASA and the NASA EDGE have also developed interactive programs designed to complement the vodcast. The Lunar Electric Rover App allows users to drive a simulated Lunar Electric Rover between objectives, and it provides information about and images of the vehicle.287 The NASA EDGE Widget provides a graphical user interface for accessing NASA EDGE vodcasts, image galleries, and the programs Twitter feed, as well as a live NASA news feed.288
+
+Astronomy Picture of the Day
+This section is an excerpt from Astronomy Picture of the Day.edit
+Astronomy Picture of the Day (APOD) is a website provided by NASA and Michigan Technological University (MTU). Each day it features a different image of the universe accompanied by an explanation written by a professional astronomer.289 The photograph does not necessarily correspond to a celestial event on the exact day that it is displayed, and images are sometimes repeated.290 These often relate to current events in astronomy and space exploration. The text has several hyperlinks to more pictures and websites for more information. The images are either visible spectrum photographs, images taken at nonvisible wavelengths and displayed in false color, video footage, animations, artists conceptions, or micrographs that relate to space or cosmology.
+
+Past images are stored in the APOD Archive, with the first image appearing on June 16, 1995.291 This initiative has received support from NASA, the National Science Foundation, and MTU. The images are sometimes authored by people or organizations outside NASA, and therefore APOD images are often copyrighted, unlike many other NASA image galleries.292
+NASA
+Main article NASA
+In July 2023, NASA announced a new streaming service known as NASA. It launched on November 8, 2023, and has live coverage of launches, documentaries and original programs. According to NASA, it will be free of ads and subscription fees. It will be a part of the NASA app on iOS, Android, Amazon Fire TV, Roku and Apple TV as well as on the web on desktop and mobile devices.293294295
+
+Gallery
+NASA spacecraft observations of the Solar System
+Sun image by Solar Dynamics Observatory, 2010
+Sun image by Solar Dynamics Observatory, 2010
+Planet Mercury image by MESSENGER, 2008
+Planet Mercury image by MESSENGER, 2008
+Planet Venus image by Mariner 10, 1974
+Planet Venus image by Mariner 10, 1974
+Planet Earth image by Apollo 17 crew, 1972
+Planet Earth image by Apollo 17 crew, 1972
+Moon image by Apollo 8 crew, 1968
+Moon image by Apollo 8 crew, 1968
+Planet Mars image by Viking 1, 1976
+Planet Mars image by Viking 1, 1976
+Asteroid 433 Eros image by NEAR Shoemaker, 2000
+Asteroid 433 Eros image by NEAR Shoemaker, 2000
+Dwarf planet Ceres image by Dawn, 2015
+Dwarf planet Ceres image by Dawn, 2015
+Planet Jupiter image by Juno, 2019
+Planet Jupiter image by Juno, 2019
+Moon Io (Jupiter) image by Galileo, 1999
+Moon Io (Jupiter) image by Galileo, 1999
+Planet Saturn image by Cassini, 2016
+Planet Saturn image by Cassini, 2016
+Moon Mimas (Saturn) image by Cassini, 2010
+Moon Mimas (Saturn) image by Cassini, 2010
+Planet Uranus by Voyager 2, 1986
+Planet Uranus by Voyager 2, 1986
+Moon Miranda (Uranus) image by Voyager 2, 1986
+Moon Miranda (Uranus) image by Voyager 2, 1986
+Planet Neptune image by Voyager 2, 1989
+Planet Neptune image by Voyager 2, 1989
+Dwarf planet Pluto image by New Horizons, 2015
+Dwarf planet Pluto image by New Horizons, 2015
+Moon Charon (Pluto) image by New Horizons, 2015
+Moon Charon (Pluto) image by New Horizons, 2015
+NASA Great Observatory images
+Helix Nebula by Spitzer Space Telescope, 2007
+Helix Nebula by Spitzer Space Telescope, 2007
+1901 GK Persei supernova by Chandra Xray Observatory, 2015
+1901 GK Persei supernova by Chandra Xray Observatory, 2015
+Carina Nebula by Hubble Space Telescope, 2010
+Carina Nebula by Hubble Space Telescope, 2010
+Stephens quintet by James Webb Space Telescope, Jul 2022
+Stephens quintet by James Webb Space Telescope, Jul 2022
+NASA spacecraft
+Comparison of Apollo, Gemini, and Mercury systems
+Comparison of Apollo, Gemini, and Mercury systemsnote 3
+Surveyor 3, Pete Conrad, and Apollo 12 on the Moon, 1969
+Surveyor 3, Pete Conrad, and Apollo 12 on the Moon, 1969
+Space Shuttle Endeavor in orbit, 2008
+Space Shuttle Endeavor in orbit, 2008
+Hubble Space Telescope released in orbit after servicing, 2009.
+Hubble Space Telescope released in orbit after servicing, 2009.
+James Webb Space Telescope now in orbit, 2025.
+James Webb Space Telescope now in orbit, 2025.
+Opportunity rover on surface of Mars (rendering), 2003
+Opportunity rover on surface of Mars (rendering), 2003
+Curiosity rover selfportrait on Mars, 2021
+Curiosity rover selfportrait on Mars, 2021
+Perseverance rover during Mars skycrane landing, February 2021
+Perseverance rover during Mars skycrane landing, February 2021
+Voyager 2, now 24.9 billion kilometers from the Earth, June 2025
+Voyager 2, now 24.9 billion kilometers from the Earth, June 2025
+Orion spacecraft and European Service Module testing, 2020
+Orion spacecraft and European Service Module testing, 2020
+NASA space launch systems
+Saturn V and Apollo 11 at launch, Jul 1969
+Saturn V and Apollo 11 at launch, Jul 1969
+Titan IIICentaur launching Voyager 2 spacecraft, Jul 1977
+Titan IIICentaur launching Voyager 2 spacecraft, Jul 1977
+Delta II launching Spirit rover, Jun 2003
+Delta II launching Spirit rover, Jun 2003
+Space Shuttle (STS124) during launch, May 2008
+Space Shuttle (STS124) during launch, May 2008
+Space Launch System and Artemis I at launch, Nov 2022
+Space Launch System and Artemis I at launch, Nov 2022
+Concepts and plans
+Concept of space tug cargo transport to a Nuclear Shuttle, 1960s
+Concept of space tug cargo transport to a Nuclear Shuttle, 1960s
+Space Tug concept, 1970s
+Space Tug concept, 1970s
+NASA Interstellar probe concept, 2022
+NASA Interstellar probe concept, 2022
+Langleys Mars Ice Dome design for a Mars habitat, 2010s
+Langleys Mars Ice Dome design for a Mars habitat, 2010s
+Lunar Gateway space station, 2020
+Lunar Gateway space station, 2020
+NASA lunar outpost concept, 2006
+NASA lunar outpost concept, 2006
+NASA concept for crewed floating outpost on Venus, 2014
+NASA concept for crewed floating outpost on Venus, 2014
+NASA concept for 2069 Alpha Centauri solar sail mission
+NASA concept for 2069 Alpha Centauri solar sail mission
+See also
+flag	United States portal
+icon	Politics portal
+	Spaceflight portal
+	Rocketry portal
+List of crewed spacecraft
+List of NASA aircraft
+List of space disasters
+List of United States rockets
+Category NASA people
+NASA Advanced Space Transportation Program
+NASA Art Program
+NASA Clean Air Study 1989 study of plants removing air pollutants
+NASA Institute for Advanced Concepts NASA program
+NASA Research Park Research park near San Jose, California
+TechPort (NASA) Technology Portfolio System
+Explanatory notes
+ Orbital Sciences was awarded a CRS contract in 2008. In 2015, Orbital Sciences became Orbital ATK through a business merger. Orbital ATK was awarded a CRS2 contract in 2016. In 2018, Orbital ATK was acquired by Northrop Grumman.
+ NASA EDGE Cast and Crew Chris Giersch (Host) Blair Allen (Cohost and senior producer) Franklin Fitzgerald (News anchor and "everyman") Jaqueline Mirielle Cortez (Special cohost) Ron Beard (Director and "set therapist") and Don Morrison (Audiovideo engineer)285
+ From left to right Launch vehicle of Apollo (Saturn 5), Gemini (Titan 2) and Mercury (Atlas). Left, topdown Spacecraft of Apollo, Gemini and Mercury. The Saturn IB and MercuryRedstone launch vehicles are left out.
+References
+ US Centennial of Flight Commission, NACA. Archived February 20, 2014, at the Wayback Machine. centennialofflight.net. Retrieved on November 3, 2011.
+ Berger, Eric (July 10, 2025). "Heres why Trump appointed the secretary of transportation to lead NASA". Ars Technica. Retrieved July 16, 2025.
+ "Workforce Profile". NASA. Archived from the original on August 11, 2022. Retrieved August 11, 2022.
+ "NASAs FY 2023 Budget". The Planetary Society. Archived from the original on March 24, 2023. Retrieved July 27, 2023.
+ "Naca to Nasa to Now The frontiers of air and space in the American century" (PDF). Archived (PDF) from the original on May 5, 2023. Retrieved June 8, 2023.
+ Avilla, Aeryn (June 2, 2021). "Wild Blue Yonder USAFs Man In Space Soonest". SpaceflightHistories. Retrieved May 2, 2024.
+ Grimwood, James M. (February 13, 2006). "Project Mercury A Chronology" (PDF). NASA Office of Scientific and Technical Information 44, 45.
+ Gabriel, Angeli (May 4, 2023). "On this day in 1961 First American astronaut goes to space". Fox Weather. Retrieved May 2, 2024.
+ Richard, Witkin (February 21, 1962). "Glenn Orbits Earth 3 Times Safely". archive.nytimes.com. Retrieved May 2, 2024.
+ Elizabeth Howell (February 1, 2014). "Gordon Cooper RecordSetting Astronaut in Mercury Gemini Programs". Space.com. Retrieved May 2, 2024.
+ "North American X15 National Air and Space Museum". airandspace.si.edu. May 13, 2022. Retrieved May 2, 2024.
+ "James E. Webb". New Mexico Museum of Space History. Retrieved May 5, 2024.
+ Ketterer, Samantha. "JFKs moon speech at Rice Stadium was 60 years ago. Has the U.S. lived up to it". Houston Chronicle. Retrieved May 5, 2024.
+ Karl Tate (June 3, 2015). "How NASAs Gemini Spacecraft Worked (Infographic)". Space.com. Retrieved May 5, 2024.
+ Overbye, Dennis (December 21, 2018). "Apollo 8s Earthrise The Shot Seen Round the World Half a century ago today, a photograph from the moon helped humans rediscover Earth". The New York Times. Archived from the original on January 1, 2022. Retrieved December 24, 2018.
+ Boulton, Matthew Myer Heithaus, Joseph (December 24, 2018). "We Are All Riders on the Same Planet Seen from space 50 years ago, Earth appeared as a gift to preserve and cherish. What happened". The New York Times. Archived from the original on January 1, 2022. Retrieved December 25, 2018.
+ Widmer, Ted (December 24, 2018). "What Did Plato Think the Earth Looked Like For millenniums, humans have tried to imagine the world in space. Fifty years ago, we finally saw it". The New York Times. Archived from the original on January 1, 2022. Retrieved December 25, 2018.
+ "Mars Mariner Missions NASA Science". science.nasa.gov. April 16, 2024. Retrieved May 6, 2024.
+ "The Mariner program". i4is.org. Retrieved May 6, 2024.
+ Couch, Inez (December 14, 2022). "60 Years Since Mariner 2s Venus Flyby". Payload. Retrieved May 6, 2024.
+ "Mariner 5". Laboratory for Atmospheric and Space Physics. Retrieved May 6, 2024.
+ Atkinson, Stuart (July 4, 2023). "Sojourner NASAs first Mars rover Astronomy.com". Astronomy Magazine. Retrieved May 6, 2024.
+ Yuhas, Alan (May 1, 2015). "Crash course Nasa Messenger spacecraft completes fouryear mission to Mercury". The Guardian. ISSN 02613077. Retrieved May 6, 2024.
+ "The Voyager missions". The Planetary Society. Retrieved May 6, 2024.
+ Elizabeth Howell (May 26, 2017). "Spacecraft Galileo To Jupiter and Its Moons". Space.com. Retrieved May 6, 2024.
+ "The best places to find extraterrestrial life in our solar system, ranked". MIT Technology Review. Retrieved May 6, 2024.
+ "Reaching for the stars 50 years of space astronomy". news.wisc.edu. December 4, 2018. Retrieved May 6, 2024.
+ "Hubble overview". www.esa.int. Retrieved May 6, 2024.
+ "WMAP the NASA mission that mapped the cosmic microwave background". www.skyatnightmagazine.com. June 15, 2021. Retrieved May 6, 2024.
+ May, Andrew Specktor, Brandon Weisberger, Mindy (July 29, 2022). "James Webb Space Telescope Origins, design and mission objectives". livescience.com. Retrieved May 6, 2024.
+ "TIROS Meteorological Satellite National Air and Space Museum". airandspace.si.edu. Retrieved May 6, 2024.
+ "SPACE SHUTTLE PROGRAM HISTORY Spaceline". Retrieved May 6, 2024.
+ Corp, Pelmorex (April 12, 2021). "Remembering Columbias inaugural flight NASAs first space shuttle launch". The Weather Network. Retrieved May 6, 2024.
+ McKelvie, Elizabeth HowellContributions from Callum published, Vicky Stein (February 1, 2022). "Challenger Shuttle Disaster That Changed NASA". Space.com. Retrieved May 6, 2024.
+ "NASA and Russian space agency agree additional space shuttleMIR missions". COSPAR Information Bulletin. 1994 (129) 3738. April 1994. Bibcode1994CIBu..129S..37.. doi10.101600458732(94)900493. ISSN 00458732.
+ Wattles, Jackie (April 13, 2024). "How the Columbia disaster changed the future of spaceflight". CNN. Retrieved May 6, 2024.
+ Leary, Warren E. (June 8, 1993). "Fate of Space Station Is in Doubt As All Options Exceed Cost Goals". The New York Times. ISSN 03624331. Retrieved May 7, 2024.
+ "U.S. PROPOSES SPACE MERGER WITH RUSSIA". Washington Post. January 5, 2024. ISSN 01908286. Retrieved May 7, 2024.
+ "Bush sets new course for moon and beyond". NBC News. January 13, 2004. Retrieved May 7, 2024.
+ Bergin, Chris (January 4, 2006). "X33VentureStar What really happened". NASASpaceFlight.com. Retrieved May 7, 2024.
+ Mann, Adam Harvey, Ailsa (August 17, 2022). "NASAs Artemis program Everything you need to know". Space.com. Archived from the original on April 17, 2021. Retrieved June 8, 2023.
+ "NASA Artemis Accords". NASA. Archived from the original on May 16, 2020. Retrieved June 8, 2023.
+ "New Program Office Leads NASAs Path Forward for Moon, Mars NASA". Retrieved May 14, 2024.
+ Catchpole, John E. (June 17, 2008). The International Space Station Building for the Future. SpringerPraxis. pp. 12. ISBN 9780387781440.
+ "Human Spaceflight and Exploration European Participating States". European Space Agency (ESA). 2009. Archived from the original on July 30, 2012. Retrieved January 17, 2009.
+ Kitmacher, Gary (2006). Reference Guide to the International Space Station. Apogee Books Space Series. Canada Apogee Books. pp. 7180. ISBN 9781894959346. ISSN 14966921.
+ "ISS Intergovernmental Agreement". European Space Agency (ESA). April 19, 2009. Archived from the original on June 10, 2009. Retrieved April 19, 2009.
+ "Memorandum of Understanding Between the National Aeronautics and Space Administration of the United States of America and the Russian Space Agency Concerning Cooperation on the Civil International Space Station". NASA. January 29, 1998. Archived from the original on June 10, 2009. Retrieved April 19, 2009.
+ Zak, Anatoly (October 15, 2008). "Russian Segment Enterprise". RussianSpaceWeb. Archived from the original on September 20, 2012. Retrieved August 4, 2012.
+ "ISS Fact sheet FS201106009JSC" (PDF). NASA. 2011. Archived (PDF) from the original on May 10, 2013. Retrieved September 2, 2012.
+ "MCB Joint Statement Representing Common Views on the Future of the ISS" (PDF). International Space Station Multilateral Coordination Board. February 3, 2010. Archived (PDF) from the original on November 16, 2012. Retrieved August 16, 2012.
+ "Nations Around the World Mark 10th Anniversary of International Space Station". NASA. November 17, 2008. Archived from the original on February 13, 2009. Retrieved March 6, 2009.
+ Boyle, Rebecca (November 11, 2010). "The International Space Station Has Been Continuously Inhabited for Ten Years Today". Popular Science. Archived from the original on March 18, 2013. Retrieved September 1, 2012.
+ International Space Station Archived February 24, 2009, at the Wayback Machine, Retrieved October 20, 2011
+ de Selding, Peter B. (August 12, 2014). "After Maneuvers, Final ATV Docks with Station". Space News. Retrieved October 2, 2022.
+ Clark, Stephen (May 25, 2020). "HTV supply ship successfully berthed at space station". SpaceFlightNow.com. Archived from the original on October 1, 2022. Retrieved October 2, 2022.
+ Chow, Denise (November 17, 2011). "U.S. Human Spaceflight Program Still Strong, NASA Chief Says". Space.com. Archived from the original on June 25, 2012. Retrieved July 2, 2012.
+ Potter, Ned (July 17, 2009). "Space Shuttle, Station Dock 13 Astronauts Together". ABC News. Archived from the original on June 30, 2017. Retrieved September 7, 2012.
+ Nelson, Bill SenBillNelson (December 20, 2018). "Commercial Space Company Bill Announcement" (Tweet) via Twitter.
+ Foust, Jeff (August 20, 2022). "NASA asks industry for input on ISS deorbit capabilities". Space News. Retrieved October 2, 2022.
+ Jason Rhian (September 27, 2014). "NASA continues Commercial "push" with CRS extension". Spaceflight Insider. Archived from the original on October 20, 2016. Retrieved October 12, 2022.
+ "SpaceX, NASA Target Oct. 7 Launch For Resupply Mission To Space Station". NASA. September 20, 2012. Archived from the original on April 6, 2013. Retrieved September 26, 2012.
+ Malik, Tariq (January 20, 2014). "Orbitals Cygnus Delivers Gifts, Ants To Station in First Commercial Run". spacenews.com. Retrieved September 3, 2022.
+ Bergin, Chris. "NASA lines up four additional CRS missions for Dragon and Cygnus". NASASpaceFlight.com. Archived from the original on January 30, 2017. Retrieved April 19, 2015.
+ de Selding, Peter B. (February 24, 2016). "SpaceX wins 5 new space station cargo missions in NASA contract estimated at 700 million". SpaceNews. Archived from the original on February 24, 2016. Retrieved October 11, 2022.
+ Alamalhodaei, Aria (March 25, 2022). "SpaceX, Northrop Grumman to resupply the ISS through 2026". Tech Crunch. Archived from the original on October 12, 2022. Retrieved October 11, 2022.
+ Burghardt, Thomas (February 19, 2022). "Northrop Grumman Cygnus NG17 arrives at ISS". NASA Spaceflight. Archived from the original on December 28, 2022. Retrieved October 11, 2022.
+ Kanayama, Lee (July 14, 2022). "SpaceX and NASA launch CRS25 mission to the ISS". NASA Spaceflight. Archived from the original on July 17, 2022. Retrieved October 11, 2022.
+ Whitwam, Ryan (February 5, 2024). "Dream Chaser Space Plane Fully Assembled and Undergoing PreLaunch Testing". Extreme Tech.
+ Schierholz, Stephanie Martin, Stephanie (September 16, 2014). "NASA Chooses American Companies to Transport U.S. Astronauts to International Space Station" (Press release). NASA. 14256. Archived from the original on January 12, 2024. Retrieved October 2, 2022.
+ "NASAs Boeing Crew Flight Test Atlas V Fueling Underway NASAs Boeing Crew Flight Test". May 6, 2024. Archived from the original on May 7, 2024. Retrieved June 5, 2024.
+ "Atlas V Starliner CFT". Archived from the original on June 6, 2024. Retrieved June 5, 2024.
+ Costa, Jason (August 8, 2023). "NASA, Boeing Provide Update on Starliner Crew Flight Test". NASA Blogs. NASA. Archived from the original on August 13, 2023. Retrieved January 20, 2024.
+ Rabie, Passant (October 17, 2024). "NASA Freezes Starliner Missions After Boeing Leaves Astronauts Stranded". Gizmodo. Retrieved June 27, 2025.
+ Foust, Jeff (September 1, 2022). ""NASA and SpaceX finalize extension of commercial crew contract"". SpaceNews. Archived from the original on January 20, 2024. Retrieved October 1, 2022.
+ "Commercial Crew Program Overview Spaceline". Retrieved May 7, 2024.
+ Haskell, Matt (November 16, 2020). "SpaceX Successfully Launches First Operational Crewed Mission". spaceflightinsider.com. Archived from the original on October 2, 2022. Retrieved October 2, 2022.
+ Foust, Jeff (May 25, 2022). "Starliner concludes OFT2 test flight with landing in New Mexico". SpaceNews. Archived from the original on January 20, 2024. Retrieved October 2, 2022.
+ "NASA Moon to Mars". NASA. Archived from the original on August 5, 2019. Retrieved May 19, 2019.
+ "Hopeful for launch next year, NASA aims to resume SLS operations within weeks". May 1, 2020. Archived from the original on September 13, 2020. Retrieved September 2, 2020.
+ "Artemis II NASA". Retrieved April 29, 2025.
+ Foust, Jeff (January 9, 2024). "NASA delays Artemis 2 and 3 missions". SpaceNews. Retrieved January 16, 2024.
+ Bergin, Chris (February 23, 2012). "Acronyms to Ascent SLS managers create development milestone roadmap". NASA. Archived from the original on April 30, 2012. Retrieved April 29, 2012.
+ Foust, Jeff (November 18, 2021). "NASA selects Intuitive Machines for CLPS lunar landing mission". SpaceNews. Archived from the original on September 1, 2022. Retrieved March 17, 2022.
+ "As Artemis Moves Forward, NASA Picks SpaceX to Land Next Americans on Moon". NASA. April 16, 2021. Archived from the original on April 16, 2021. Retrieved November 16, 2021.
+ "Artemis II NASA". Retrieved May 3, 2024.
+ "Artemis III NASA". Retrieved May 3, 2024.
+ "Gateway Space Station NASA". June 12, 2023. Retrieved May 3, 2024.
+ Whitwam, Ryan. NASA Sets New Roadmap for Moon Base, Crewed Missions to Mars Archived November 27, 2018, at the Wayback Machine Extreme Tech, September 27, 2018. Accessed November 26, 2018.
+ "Artemis Programs NASA Should Document and Communicate Plans to Address Gateways Mass Risk". GAO. July 31, 2024. Retrieved July 31, 2024.
+ "US Government Issues NASA Demand, Get Humans to Mars By 2033". March 9, 2017. Archived from the original on February 17, 2018. Retrieved February 16, 2018.
+ "Trump Signs NASA Authorization act of 2017". Spaceflight Insider. March 21, 2017. Archived from the original on December 3, 2018. Retrieved December 2, 2018.
+ "NASA awards funding to three commercial space station concepts". spacenews.com. December 3, 2021. Archived from the original on September 1, 2022. Retrieved December 3, 2021.
+ "Launch History (Cumulative)" (PDF). NASA. Archived (PDF) from the original on October 19, 2011. Retrieved September 30, 2011.
+ "Advancing Scientific Discovery Assessing the Status of NASAs Science Mission Directorate" (PDF). Committee on Science, Space and Technology.
+ "The Explorers Program". nasa.gov. Archived from the original on September 2, 2016. Retrieved October 10, 2022.
+ "Discovery Program". nasa.gov. June 16, 2022. Archived from the original on October 12, 2020. Retrieved October 10, 2022.
+ Foust, Jeff (June 2, 2021). "NASA selects two Venus missions for Discovery program". Space News. Archived from the original on February 18, 2024. Retrieved October 11, 2022.
+ "New Frontiers Program". nasa.gov. October 4, 2021. Archived from the original on October 1, 2020. Retrieved October 10, 2022.
+ "NASA Moves New Frontiers 5 Mission Selection to No Earlier Than 2024". Sci Tech Daily. Archived from the original on October 14, 2022. Retrieved October 11, 2022.
+ Thomas, William (October 13, 2016). "NASAs Large Strategic Science Missions Under the Microscope". AIP. Retrieved May 7, 2024.
+ NASA Staff (November 26, 2011). "Mars Science Laboratory". NASA. Archived from the original on November 27, 2011. Retrieved November 26, 2011.
+ "NASA Launches SuperSize Rover to Mars Go, Go!". The New York Times. Associated Press. November 26, 2011. Archived from the original on May 9, 2015. Retrieved November 26, 2011.
+ Kenneth Chang (August 6, 2012). "Curiosity Rover Lands Safely on Mars". The New York Times. Archived from the original on August 6, 2012. Retrieved August 6, 2012.
+ Wilson, Jim (September 15, 2008). "NASA Selects MAVEN Mission to Study Mars Atmosphere". NASA. Archived from the original on June 19, 2009. Retrieved July 15, 2009.
+ "Success! NASAs Maven Probe Goes Into Orbit Around Mars". NBC News. September 21, 2014. Archived from the original on October 18, 2022. Retrieved October 17, 2022.
+ "Dragonfly Titan Rotorcraft Lander". The Johns Hopkins University Applied Physics Laboratory. 2017. Archived from the original on September 20, 2017. Retrieved September 20, 2017.
+ "NASA New Frontiers 5 Third Community Announcement". NASA Science Mission Directorate. May 12, 2021. Retrieved May 14, 2021 via SpaceRef.
+ Foust, Jeff (September 25, 2020). "NASA delays Dragonfly launch by a year". SpaceNews. Archived from the original on March 19, 2023. Retrieved October 4, 2022.
+ "NASA Astrophysics". nasa.gov. July 21, 2010. Archived from the original on October 8, 2022. Retrieved October 7, 2022.
+ "About The Hubble Story". nasa.gov. May 26, 2022. Archived from the original on October 10, 2022. Retrieved October 7, 2022.
+ "AboutHubble Servicing Missions". nasa.gov. May 26, 2022. Archived from the original on October 14, 2022. Retrieved October 7, 2022.
+ Howell, Elizabeth (June 15, 2018). "Chandra Space Telescope Revealing the Invisible Universe". space.com. Archived from the original on October 8, 2022. Retrieved October 7, 2022.
+ Adams, Mitzi (June 16, 2022). "IXPE Home Expanding the Xray View of the Universe". nasa.gov. Archived from the original on September 30, 2022. Retrieved October 7, 2022.
+ Smith, DeLee (October 7, 2022). "Small Explorers (SMEX) Missions in Development". nasa.gov. Archived from the original on October 8, 2022. Retrieved October 7, 2022.
+ Howell, Elizabeth (July 30, 2018). "Swift Observatory Scanning the Sky for Gammaray Bursts". space.com. Archived from the original on October 8, 2022. Retrieved October 7, 2022.
+ "Sci Fact Sheet" (PDF). nasa.gov. Archived (PDF) from the original on December 2, 2022. Retrieved October 7, 2022.
+ "FGST Fermi Gammaray Space Telescope". Stanford University. Archived from the original on December 7, 2022. Retrieved October 7, 2022.
+ "An AstroParticle Physics Partnership Exploring the High Energy Universe List of funders". SLAC. Archived from the original on May 22, 2020. Retrieved August 9, 2007.
+ Pinoi, Natasha Fiser, Alise Betz, Laura (December 27, 2021). "NASAs Webb Telescope Launches to See First Galaxies, Distant Worlds". NASA. Archived from the original on April 12, 2022. Retrieved March 20, 2022.
+ "About Webb Orbit". NASA. Archived from the original on May 20, 2021. Retrieved June 2, 2021.
+ Strickland, Ashley (January 24, 2022). "Telescope reaches its final destination a million miles from Earth". CNN. Archived from the original on October 8, 2022. Retrieved October 7, 2022.
+ Cooper, Keith (July 28, 2022). "James Webb Space Telescope beats its own record with potential most distant galaxies". space.com. Archived from the original on October 7, 2022. Retrieved October 7, 2022.
+ "Aqua satellite provides 20 years of weather and environmental observations". European Centre for MediumRange Weather Forecasts. May 4, 2022. Archived from the original on October 8, 2022. Retrieved October 8, 2022.
+ "Earth Online Aura". European Space Agency. Archived from the original on October 8, 2022. Retrieved October 8, 2022.
+ "Successful Launch the Orbiting Carbon Observatory (OCO2)". Committee on Earth Observation Satellites. Archived from the original on October 8, 2022. Retrieved October 8, 2022.
+ "GRACE FO Fact Sheet". nasa.gov. Archived from the original on October 8, 2022. Retrieved October 8, 2022.
+ Garner, Rob (May 21, 2019). "About ICESat2". nasa.gov. Archived from the original on October 14, 2022. Retrieved October 8, 2022.
+ "NASA Earth System Observatory, Addressing, Mitigating Climate Change". nasa.gov. June 3, 2021. Archived from the original on October 8, 2022. Retrieved October 8, 2022.
+ Foust, Jeff (March 1, 2022). "Atlas 5 launches GOEST weather satellite". Space News. Archived from the original on March 16, 2024. Retrieved October 8, 2022.
+ "Earth Science Data Systems (ESDS) Program". nasa.gov. May 25, 2021. Archived from the original on October 8, 2022. Retrieved October 8, 2022.
+ "What is the Deep Space Network". nasa.gov. March 30, 2020. Archived from the original on October 2, 2022. Retrieved October 7, 2022.
+ Dickinson, David (September 6, 2021). "NASAs Deep Space Network Upgraded". Sky and Telescope. Archived from the original on October 8, 2022. Retrieved October 7, 2022.
+ "What is the Near Space Network". nasa.gov. February 24, 2021. Archived from the original on October 3, 2022. Retrieved October 9, 2022.
+ "Where Are The NSN Complexes Located". nasa.gov. March 3, 2021. Archived from the original on October 12, 2022. Retrieved October 9, 2022.
+ "Near Earth Network Overview". nasa.gov. Archived from the original on October 10, 2022. Retrieved October 9, 2022.
+ "Sounding Rockets Program Office". nasa.gov. Archived from the original on January 12, 2023. Retrieved October 7, 2022.
+ "NASA Awards Sounding Rocket Operations Contract". nasa.gov. April 6, 2016. Archived from the original on October 13, 2022. Retrieved October 7, 2022.
+ Garrick, Matt (July 13, 2022). "NASAs inaugural Northern Territory mission is over, but hopes for a space industry boom remain". ABC News. Australian Broadcasting Corporation. Archived from the original on July 14, 2022. Retrieved July 14, 2022.
+ "LSP Overview". nasa.gov. April 10, 2018. Archived from the original on October 3, 2022. Retrieved September 9, 2022.
+ "Launch Services Program" (PDF). nasa.gov. Archived (PDF) from the original on October 4, 2022. Retrieved October 1, 2022.
+ "Space Operations Mission Directorate". nasa.gov. February 24, 2022. Archived from the original on September 26, 2022. Retrieved September 9, 2022.
+ Foust, Jeff (September 22, 2021). "NASA splits human spaceflight directorate into two organizations". Space News. Archived from the original on March 16, 2024. Retrieved September 11, 2022.
+ "About Us". Nasa.gov. NASA. Archived from the original on May 12, 2013. Retrieved June 17, 2016.
+ "NASA Armstrong Fact Sheet NASA X57 Maxwell". nasa.gov. September 13, 2018. Archived from the original on October 8, 2022. Retrieved October 7, 2022.
+ Young, Chris (May 3, 2022). "NASA takes a huge step closer to crewed flight tests for its allelectric X57 Maxwell". Interesting Engineer. Archived from the original on October 8, 2022. Retrieved October 7, 2022.
+ "X57 Whos on the team". nasa.gov. Archived from the original on October 8, 2022. Retrieved October 7, 2022.
+ "NextGen Annual Report Fiscal Year 2020" (PDF). faa.gov. Archived (PDF) from the original on August 6, 2022. Retrieved October 8, 2022.
+ "Next Generation Air Transportation System (NextGen)". faa.gov. July 20, 2022. Archived from the original on October 8, 2022. Retrieved October 8, 2022.
+ Colen, Jerry (August 3, 2017). "Areas of Ames Ingenuity Next Generation Air Transportation". nasa.gov. Archived from the original on October 8, 2022. Retrieved October 8, 2022.
+ "Radioisotope Power Systems for Space Exploration" (PDF). Jet Propulsion Laboratory. March 2011. Archived (PDF) from the original on March 4, 2016. Retrieved March 13, 2015.
+ "New Horizons II Final Report March 2005" (PDF). Archived (PDF) from the original on November 12, 2013. Retrieved November 14, 2016.
+ Burghardt, Thomas (July 13, 2021). "NASA Announces Nuclear Thermal Propulsion Reactor Concept Awards". nasa.gov. Archived from the original on September 6, 2022. Retrieved September 5, 2022.
+ "NASA, DARPA Will Test Nuclear Engine for Future Mars Missions". NASA.gov. January 24, 2023. Archived from the original on April 1, 2023. Retrieved August 10, 2023.
+ Hitchens, Theresa (July 26, 2023). "DARPA, NASA tap Lockheed Martin to design, build DRACO nuclear rocket for deep space missions". Breaking Defense. Archived from the original on March 16, 2024. Retrieved August 10, 2023.
+ Skores, Alexandra Wattles, Jackie (August 5, 2025). "NASA wants US to be the first nation to put nuclear reactor on the moon". CNN.
+ "SEDAC". earthdata.nasa.gov. July 24, 2024. Retrieved July 10, 2025.
+ "About Us". CIESIN. Columbia University. Retrieved July 10, 2025.
+ "sedac". earthdata. nasa.gov. Archived from the original on June 5, 2019. Retrieved July 10, 2025.
+ Nyirady, Annamarie (April 25, 2019). "NASA Awards PathFinder Digital Free Space Optics Contract". Via Satellite. Archived from the original on April 30, 2019. Retrieved April 30, 2019.
+ "Nasa moon mission asks US universities to develop technology". The Guardian. July 29, 2020. Archived from the original on August 3, 2020. Retrieved August 3, 2020.
+ RamirezSimon, Diana (April 3, 2024). "Moon Standard Time Nasa to create lunarcentric time reference system". The Guardian. ISSN 02613077. Retrieved April 4, 2024.
+ "NASA Human Research Program". Canadian Space Agency. December 8, 2017. Retrieved May 28, 2024.
+ "NASA 2023 Budget" (PDF). Archived (PDF) from the original on June 11, 2022. Retrieved August 16, 2022.
+ "Crew 4 ISS Microgravity Experiments". April 18, 2022. Archived from the original on August 16, 2022. Retrieved August 16, 2022.
+ Sarkar, Monica (January 13, 2016). "NASA Planetary Defense Office set up to save Earth". CNN. Archived from the original on December 25, 2021. Retrieved October 8, 2022.
+ "Planetary Defense Coordination Office". NASA. December 22, 2015. Archived from the original on July 28, 2022. Retrieved January 14, 2016. Public Domain This article incorporates text from this source, which is in the public domain.
+ "NASA on the Prowl for NearEarth Objects". NASAJPL. May 26, 2004. Archived from the original on October 1, 2021. Retrieved October 2, 2022.
+ "Twenty Years of Tracking NearEarth Objects". NASA Jet Propulsion Laboratory (JPL). Retrieved May 28, 2024.
+ Clark R. Chapman (May 21, 1998). "Statement on The Threat of Impact by NearEarth Asteroids before the Subcommittee on Space and Aeronautics of the Committee on Science of the U.S. House of Representatives at its hearings on "Asteroids Perils and Opportunities"". Southwest Research Institute. Archived from the original on June 23, 2018. Retrieved March 6, 2018.
+ "WISE Revises Numbers of Asteroids Near Earth". NASAJPL. September 29, 2011. Archived from the original on December 5, 2017. Retrieved November 9, 2017.
+ "Public Law 109155DEC.30, 2005" (PDF). Archived (PDF) from the original on December 1, 2017. Retrieved November 9, 2017.
+ Leah Crane (January 25, 2020). "Inside the mission to stop killer asteroids from smashing into Earth". New Scientist. Archived from the original on October 3, 2022. Retrieved October 3, 2022. See especially this figure Archived August 13, 2022, at the Wayback Machine.
+ Smtih, Marcia (January 19, 2020). "NASAs New NEO Mission Will Substantially Reduce Time to Find Hazardous Asteroids". SpacePolicyOnline.com. Archived from the original on November 29, 2020. Retrieved October 2, 2022.
+ Foust, Jeff (September 23, 2019). "NASA to develop mission to search for nearEarth asteroids". Space News. Archived from the original on March 19, 2023. Retrieved October 2, 2022.
+ Talbert, Tricia (June 11, 2021). "NASA Approves Asteroid Hunting Space Telescope to Continue Development". NASA. Archived from the original on September 30, 2022. Retrieved October 2, 2022. Public Domain This article incorporates text from this source, which is in the public domain.
+ "In Depth 433 Eros". NASA Solar System Exploration. November 18, 2017. Archived from the original on August 20, 2019. Retrieved October 7, 2019.
+ "NEAR Shoemaker". NASA. Archived from the original on May 17, 2021. Retrieved April 26, 2021.
+ "OSIRISREx". NASA. April 14, 2021. Archived from the original on July 15, 2022. Retrieved December 25, 2021.
+ "Planetary Defense The Bennu Experiment". nasa.gov. December 6, 2018. Archived from the original on October 9, 2022. Retrieved October 8, 2022.
+ "WISENEOWISE". nasa.gov. June 30, 2021. Archived from the original on October 9, 2022. Retrieved October 8, 2022.
+ David, Leonard (January 29, 2016). "NASAs New Planetary Defense Office Gets to Work Protecting Earth". space.com. Archived from the original on October 9, 2022. Retrieved October 8, 2022.
+ "Double Asteroid Redirection Test". nasa.gov. April 27, 2022. Archived from the original on November 24, 2021. Retrieved October 8, 2022.
+ Strickland, Ashley (November 24, 2021). "NASA launches mission to crash into a nearEarth asteroid to try to change its motion in space". CNN. Archived from the original on October 9, 2022. Retrieved October 8, 2022.
+ Bardan, Roxana (October 11, 2022). "NASA Confirms DART Mission Impact Changed Asteroids Motion in Space". NASA. Archived from the original on December 11, 2022. Retrieved December 12, 2022.
+ Strickland, Ashley (October 11, 2022). "The DART mission successfully changed the motion of an asteroid". CNN. Archived from the original on October 11, 2022. Retrieved December 12, 2022.
+ Finding Asteroids Before They Find Us Archived November 29, 2020, at the Wayback Machine NEOCam Home site at NASAs Jet Propulsion Laboratory Caltech
+ "NASA not shying away from reputational risk, launches study of UFOs". The Economic Times. Archived from the original on June 10, 2022. Retrieved June 10, 2022.
+ Davenport, Christian (June 9, 2022). "NASA joins the hunt for UFOs". The Washington Post. Archived from the original on June 30, 2022. Retrieved September 5, 2022.
+ "NASA Aerospace Safety Advisory Panel (ASAP)". oiir.hq.nasa.gov. Archived from the original on March 8, 2017. Retrieved April 13, 2017.
+ Mochinski, Ron (April 8, 2015). "About Us Background and Charter". NASA. Archived from the original on December 28, 2015. Retrieved April 13, 2017.
+ Hanson, Derek Peronto, James Hilderbrand, Douglas (2013). "NOAAs Eyes in the Sky After Five Decades of Weather Forecasting with Environmental Satellites, What Do Future Satellites Promise for Meteorologists and Society". World Meteorological Organization. Archived from the original on December 18, 2023. Retrieved November 5, 2022.
+ "NASA, NOAA Invite Media to Polar Orbiting Weather Satellite Launch". NASA. September 1, 2022. Archived from the original on November 5, 2022. Retrieved November 5, 2022.
+ Pedersen, Joe Mario (February 4, 2022). "NASA, NOAA to get new weather eyes in the sky with March launch from Cape Canaveral". Orlando Sentinel. Archived from the original on November 5, 2022. Retrieved November 5, 2022.
+ Erwin, Sandra (May 12, 2020). "Space Force troops preparing for possibility of having to rescue NASA astronauts". SpaceNews. Archived from the original on May 13, 2020. Retrieved February 3, 2021.
+ Smith, Marcia (May 5, 2020). "NASA and Space Force to Work Together on Planetary Defense". SpacePolicyOnline.com. Archived from the original on February 26, 2021. Retrieved February 2, 2021.
+ Erwin, Sandra (October 1, 2020). "Space Force members can go to the moon, if theyre picked by NASA". SpaceNews. Archived from the original on September 27, 2021. Retrieved February 3, 2021.
+ Erwin, Sandra (October 28, 2020). "NASAs Crew1 commander to be sworn into U.S. Space Force from the International Space Station". SpaceNews. Archived from the original on November 5, 2020. Retrieved February 3, 2021.
+ Kramer, Miriam (December 18, 2020). "Astronaut Mike Hopkins sworn into the Space Force from orbit". Axios. Archived from the original on January 20, 2021. Retrieved February 3, 2021.
+ "Memorandum of Understanding Between The National Aeronautics And Space Administration and The United States Space Force" (PDF). nasa.gov. NASA. Archived (PDF) from the original on November 25, 2020. Retrieved September 22, 2020.
+ "NASA, US Space Force Establish Foundation for Broad Collaboration". spaceforce.mil. USSF. September 22, 2020. Archived from the original on February 27, 2021. Retrieved September 22, 2020.
+ "What is the Landsat satellite program and why is it important". USGS. Archived from the original on October 6, 2022. Retrieved October 5, 2022.
+ Short, N.M. (1982). The LANDSAT Tutorial Workbook Basics of Satellite Remote Sensing. Washington DC NASA. hdl206019830002188. 1078. Public Domain This article incorporates text from this source, which is in the public domain.
+ Foust, Jeff (September 27, 2021). "Atlas 5 launches Landsat 9". Space News. Archived from the original on March 16, 2024. Retrieved October 5, 2022.
+ National Academies of Sciences, Engineering, and Medicine U.S.European Collaboration in Space Science (Report). National Academies Press. 1998. doi10.172265981. ISBN 9780309059848.
+ Strickland, Ashley (May 18, 2022). "Solar Orbiter reveals a neverbeforeseen look at our sun". CNN. Archived from the original on November 4, 2022. Retrieved November 5, 2022.
+ "MoU between NASA and the European Space Agency Concerning the James Webb Space Telescope" (PDF). US State Department. June 18, 2007. Archived (PDF) from the original on November 16, 2022. Retrieved November 5, 2022.
+ "NASA, European Space Agency Formalize Artemis Gateway Partnership". NASA.gov. October 27, 2020. Archived from the original on December 16, 2022. Retrieved November 5, 2022.
+ Foust, Jeff (September 26, 2022). "NASA and ESA sign lunar cooperation statement". Space News. Archived from the original on March 16, 2024. Retrieved November 5, 2022.
+ Hill, Michael (June 17, 2022). "NASA, ESA Sign Cooperation Agreements on Climate Change, Lunar Exploration". Potomac Officers Club. Archived from the original on November 5, 2022. Retrieved November 5, 2022.
+ "NISAR Quick Facts". NASAISRO SAR Mission (NISAR). Jet Propulsion Laboratory. Retrieved May 23, 2025.
+ "NASA partnership with the Indian Space Research Organisation (ISRO)". NASAISRO SAR Mission (NISAR). nasa.gov. Archived from the original on October 12, 2022. Retrieved October 11, 2022.
+ "NISAR payload integration completed, to arrive in India next year". Indian Express. June 2, 2022. Archived from the original on October 12, 2022. Retrieved October 11, 2022.
+ "NASA, Government of Japan Formalize Gateway Partnership for Artemis Program". NASA. January 12, 2021. Archived from the original on October 9, 2022. Retrieved October 5, 2022.
+ Patel, Neel (July 22, 2020). "Why Japan is emerging as NASAs most important space partner". MIT Technology Review. Archived from the original on October 6, 2022. Retrieved October 5, 2022.
+ "Innovative NASAJAXA Partnership Benefits Global Earth Science". NASA. April 12, 2010. Archived from the original on December 21, 2022. Retrieved October 5, 2022.
+ "NASAs Space Station Program Evolution and Current Status, Testimony Before the House Science Committee" (PDF). NASA. April 4, 2001. Archived (PDF) from the original on December 22, 2022. Retrieved November 11, 2022.
+ Roulette, Joey (July 15, 2022). "NASA, Russian space agency sign deal to share space station flights Roscosmos". Reuters. Archived from the original on December 17, 2022. Retrieved November 11, 2022.
+ Gruner, Jeremy (May 26, 2022). "The Future of WesternRussian CivilSpace Cooperation". Archived from the original on November 12, 2022. Retrieved November 12, 2022.
+ "Fact Sheet Artemis Accords Foster Peaceful Space Cooperation". US State Department. May 11, 2022. Archived from the original on October 9, 2022. Retrieved October 9, 2022.
+ "The Artemis Accords Principles for Cooperation in the Civil Exploration and Use of the Moon, Mars, Comets, and Asteroids for Peaceful Purposes" (PDF). NASA. Archived (PDF) from the original on July 10, 2022. Retrieved October 9, 2022.
+ "Kingdom of Saudi Arabia Signs the Artemis Accords". US State Department. July 16, 2022. Archived from the original on September 20, 2022. Retrieved October 9, 2022.
+ Foust, Jeff (September 21, 2022). "Artemis Accords signatories hold first meeting". Space News. Archived from the original on March 16, 2024. Retrieved October 9, 2022.
+ Foust, Jeff (June 3, 2019). "Defanging the Wolf Amendment". The Space Review. Archived from the original on October 31, 2021. Retrieved November 5, 2022.
+ Shouse, Mary (July 9, 2009). "Welcome to NASA Headquarters". Archived from the original on July 13, 2009. Retrieved July 15, 2009.
+ Information for Non U.S. Citizens Archived October 7, 2018, at the Wayback Machine, NASA (downloaded September 16, 2013)
+ National Aeronautics and Space Act (Title, Title II Sec. 202 (a)). 85th Congress of the United States. July 29, 1958. Archived from the original on September 17, 2020. Retrieved September 11, 2020.
+ Everett, Burgess Talcott, Shelby (May 31, 2025). "White House to pull NASA nominee Isaacman". Semafor. Retrieved July 18, 2025.
+ "NASA FY2022 Strategic Plan" (PDF). Archived (PDF) from the original on September 7, 2022. Retrieved September 2, 2022.
+ "Budget of the U.S. Government". us.gov. Archived from the original on September 5, 2022. Retrieved September 6, 2022.
+ "NASA FY2018 Budget Estimates" (PDF). Archived (PDF) from the original on December 24, 2018. Retrieved September 2, 2022.
+ "NASA FY2019 Budget Estimates" (PDF). Archived (PDF) from the original on December 24, 2018. Retrieved September 2, 2022.
+ "NASA Equal Employment Opportunity Strategic Plan FY 201819" (PDF). Archived (PDF) from the original on September 7, 2022. Retrieved September 2, 2022.
+ "NASA FY2020 Budget Estimates" (PDF). Archived (PDF) from the original on April 1, 2019. Retrieved September 2, 2022.
+ "NASA Model Equal Employment Opportunity Program Status Report FY2019" (PDF). Archived (PDF) from the original on September 7, 2022. Retrieved September 2, 2022.
+ "NASA FY2021 Budget Estimates" (PDF). Archived (PDF) from the original on July 27, 2020. Retrieved September 2, 2022.
+ "NASA Model Equal Employment Opportunity Program Status Report FY2020" (PDF). Archived (PDF) from the original on June 16, 2022. Retrieved September 2, 2022.
+ "NASA FY2022 Budget Estimates" (PDF). Archived (PDF) from the original on June 10, 2021. Retrieved September 2, 2022.
+ "NASA Model Equal Employment Opportunity Program Status Report FY2021" (PDF). Archived (PDF) from the original on August 20, 2022. Retrieved September 2, 2022.
+ Smith, Marcia (March 9, 2022). "NASA to get 24 billion for FY2022, more than last year but less than Biden Wanted". SpacePolicyOnline.com. Archived from the original on March 13, 2022. Retrieved September 6, 2022.
+ "Catherine Koerner NASA". NASA. Archived from the original on February 20, 2024. Retrieved February 20, 2024.
+ Smith, Marcia (September 21, 2021). "NASA Splits Human Spaceflight Directorate into Two". Space Policy Online. Archived from the original on September 7, 2022. Retrieved September 6, 2022.
+ "Kenneth Bowersox NASA". NASA. Archived from the original on February 20, 2024. Retrieved February 20, 2024.
+ Roulette, Joey (February 27, 2023). "NASA names solar physicist as agencys science chief". Reuters. Archived from the original on March 23, 2023. Retrieved April 7, 2023.
+ Doyle, Tiernan P. (July 16, 2024). "NASA Announces Leadership Changes". NASA. Retrieved December 24, 2024.
+ "NASA executive discusses his approach to leadership". Federal News Network. June 21, 2022. Archived from the original on September 8, 2022. Retrieved September 7, 2022.
+ Clemens, Jay (May 5, 2015). "Eugene Tu Named Director of NASA Ames Research Center Charles Bolden Comments". ExecutiveGov. Archived from the original on September 7, 2022. Retrieved September 6, 2022.
+ "NASA Announces Armstrong Flight Research Center Director to Retire". NASA.gov. May 23, 2022. Archived from the original on June 30, 2022. Retrieved September 6, 2022.
+ Suttle, Scott (May 22, 2022). "NASA names two interim leaders for Glenn Research Center". Crains Cleveland Business. Archived from the original on September 7, 2022. Retrieved September 6, 2022.
+ Bardan, Roxana (April 6, 2023). "NASA Administrator Names New Goddard Center Director". NASA (Press release). Archived from the original on April 6, 2023. Retrieved April 6, 2023.
+ "WPI president to step down to become director of JPL". ap news. January 29, 2022. Archived from the original on September 7, 2022. Retrieved September 6, 2022.
+ Hagerty, Michael (August 26, 2021). "Vanessa Wyche Takes The Helm At NASAs Johnson Space Center". Houston Public Media. Archived from the original on September 7, 2022. Retrieved September 6, 2022.
+ "First Woman to Lead NASAs Kennedy Space Center Is a BU Alum". Bostonia. July 16, 2021. Archived from the original on September 7, 2022. Retrieved September 6, 2022.
+ Bardan, Roxana (February 5, 2024). "NASA Administrator Announces New Marshall Space Flight Center Director". NASA. Retrieved December 24, 2024.
+ Donaldson, Abbey A. (April 29, 2024). "NASA Administrator Names New Stennis Space Center Director". NASA. Retrieved December 24, 2024.
+ "Rocket Soot Emissions and Climate Change". The Aerospace Corporation. July 31, 2013. Archived from the original on July 7, 2014. Retrieved January 7, 2014.
+ "ShortTerm Energy Outlook" (PDF). US Energy Information Administration. February 9, 2016. Archived (PDF) from the original on March 18, 2016. Retrieved February 24, 2016. U.S. Petroleum and Other Liquids
+ "Spaceflight Now Dragon Mission Report Mission Status Center". Archived from the original on September 24, 2015. Retrieved July 4, 2015.
+ "Space Shuttle Main Engines". NASA. July 16, 2009. Archived from the original on January 24, 2015. Retrieved January 20, 2015.
+ "Constellation Programmatic Environmental Impact Statement". NASA. August 1, 2011. Archived from the original on August 8, 2014. Retrieved June 19, 2014.
+ Shiga, David (September 28, 2007). "Nextgeneration ion engine sets new thrust record". New Scientist. Archived from the original on June 4, 2011. Retrieved February 2, 2011.
+ Goto, T Nakata Y Morita S (2003). "Will xenon be a stranger or a friend the cost, benefit, and future of xenon anesthesia". Anesthesiology. 98 (1) 12. doi10.10970000054220030100000002. ISSN 00033022. PMID 12502969.
+ "NASA NASAs New Building Awarded the U.S. Green Building Council LEED Gold Rating". nasa.gov. Archived from the original on October 7, 2018. Retrieved April 12, 2018.
+ Michael K. Ewert (2006). "Johnson Space Centers Role in a Sustainable Future" (PDF). NASA. Archived from the original (PDF) on May 27, 2008. Retrieved April 28, 2008.
+ SCS (August 23, 2018). "Sensor Coating Systems launches new national aerospace project with NATEP and some leading international players". Archived from the original on October 27, 2018. Retrieved October 12, 2018.
+ Cook, John Nuccitelli, Dana Green, Sarah A. Richardson, Mark Winkler, Brbel Painting, Rob Way, Robert Jacobs, Peter Skuce, Andrew (2013). "Global Climate Change". Environmental Research Letters. 8 (2) 024024. NASA. Bibcode2013ERL.....8b4024C. doi10.10881748932682024024. S2CID 155431241. Archived from the original on April 11, 2019. Retrieved March 2, 2019.
+ "2016 Climate Trends Continue to Break Records". NASA. July 19, 2016. Archived from the original on December 9, 2016. Retrieved December 14, 2016.
+ Jason Samenow (July 23, 2016). "Trump adviser proposes dismantling NASA climate research". The Washington Post. Archived from the original on November 24, 2016.
+ Kastrenakes, Jacob (May 20, 2020). "Here are all the winners of the 2020 Webby Awards". The Verge. Archived from the original on May 21, 2020. Retrieved May 22, 2020.
+ "ELaNa Educational Launch of Nanosatellites". NASA.gov. July 2022. Archived from the original on July 2, 2022. Retrieved September 5, 2022.
+ Burghardt, Thomas (July 1, 2022). "Virgin Orbit launches seven satellites for US Space Force and NASA". NASA Spaceflight.com. Archived from the original on July 2, 2022. Retrieved September 5, 2022.
+ "Cubes in Space". cubesinspace.com. Archived from the original on June 19, 2017. Retrieved July 1, 2017.
+ "A Teen Created the Worlds Lightest Satellite NASA Is Going to Launch It". Futurism. May 17, 2017. Archived from the original on May 18, 2019. Retrieved May 18, 2019.
+ Administrator, NASA (June 7, 2013). "International System of Units The Metric Measurement System". NASA. Archived from the original on November 8, 2020. Retrieved November 2, 2020.
+ Aberg, J. (October 1994). "NASA Technical Memorandum Metrication in a Global Environment" (PDF). NASA. Archived (PDF) from the original on August 30, 2021. Retrieved August 30, 2021.
+ Lloyd, Robin (September 30, 1999). "Metric mishap caused loss of NASA orbiter". CNN. Archived from the original on February 18, 2020. Retrieved February 13, 2020.
+ "Mars Climate Orbiter Failure Board Releases Report". Mars Polar Lander Official Website. November 10, 1999. Archived from the original on January 30, 2019. Retrieved February 13, 2020.
+ Barry, Patrick L. (January 8, 2007). Phillips, Tony (ed.). "Metric Moon". NASA. Archived from the original on March 16, 2010.
+ "NASA Finally Goes Metric". Space.com. January 8, 2007. Archived from the original on August 20, 2020. Retrieved September 4, 2020.
+ McAuliffe, Tom Patrick (September 2007). "The Video Horizon". Digital Content Producer. Archived from the original on October 15, 2008. Retrieved December 31, 2009.
+ Hollingham, Richard (December 21, 2018). "The Nasa mission that broadcast to a billion people". bbc.com. Archived from the original on October 8, 2022. Retrieved October 8, 2022.
+ "NASA Wins Emmy for Apollo 11 Moon Broadcast". Space.com. August 20, 2009. Archived from the original on September 26, 2009. Retrieved October 8, 2022.
+ Dunbar, Brian (September 8, 2020). "How to Stream NASA TV". nasa.gov. Archived from the original on September 14, 2022. Retrieved October 8, 2022.
+ "Blast off with these 7 spacecentric podcasts in honor of the 64th anniversary of NASA". Podsauce. July 26, 2022. Archived from the original on October 11, 2022. Retrieved October 10, 2022.
+ Atkinson, Joe (May 23, 2016). "After 10 Years, NASA EDGE Is Still Carving Its Own Path". NASA.gov. Archived from the original on October 1, 2016. Retrieved July 2, 2020.
+ Lineberry, Denise (February 11, 2010). "Going Where No NASA Show Has Gone Before". The Researcher News. Langley Research Center. Archived from the original on March 3, 2016. Retrieved September 23, 2021.
+ Allen, Bob (February 26, 2010). "NASA Lunar Electric Rover App for iPhone and iPod Touch". NASA.gov. Archived from the original on June 10, 2010. Retrieved June 9, 2010.
+ Allen, Bob (March 23, 2010). "NASA EDGE Widget". NASA.gov. Archived from the original on June 7, 2010. Retrieved June 9, 2010.
+ Nemiroff, Robert Jerry Bonnell (April 3, 2007). "APOD homepage". NASA. Archived from the original on December 29, 2010. Retrieved December 30, 2010.
+ Nemiroff, Robert Jerry Bonnell. "APOD Frequently Asked Questions". NASA. Retrieved December 30, 2010.
+ Nemiroff, R. Bonnell, J., eds. (June 16, 1995). "Neutron Star Earth". Astronomy Picture of the Day. NASA. Retrieved February 18, 2017.
+ Nemiroff, Robert Jerry Bonnell. "About APOD Image Permissions". NASA. Retrieved December 30, 2010.
+ Shakir, Umar (July 28, 2023). "NASA Plus is the latest streaming competitor". The Verge. Archived from the original on August 12, 2023. Retrieved August 12, 2023.
+ "NASA Plus Streaming Service Is Coming Soon". CNET. Archived from the original on August 12, 2023. Retrieved August 12, 2023.
+ "NASA Launches Beta Site OnDemand Streaming, App Update Coming Soon". Archived from the original on November 6, 2023. Retrieved November 6, 2023.
+Further reading
+Alexander, Joseph K. Science Advice to NASA Conflict, Consensus, Partnership, Leadership (2019) excerpt
+Bizony, Piers et al. The NASA Archives. 60 Years in Space (2019)
+Brady, Kevin M. "NASA Launches Houston into Orbit How Americas Space Program Contributed to Southeast Texass Economic Growth, Scientific Development, and Modernization during the Late Twentieth Century." Journal of the West (2018) 574 pp 1354.
+Bromberg, Joan Lisa. NASA and the Space Industry (Johns Hopkins UP, 1999).
+Clemons, Jack. Safely to Earth The Men and Women Who Brought the Astronauts Home (2018) excerpt
+Dick, Steven J., and Roger D. Launius, eds. Critical Issues in the History of Spaceflight (NASA, 2006)
+Launius, Roger D. "Eisenhower, Sputnik, and the Creation of NASA." PrologueQuarterly of the National Archives 28.2 (1996) 127143.
+Pyle, Rod. Space 2.0 How Private Spaceflight, a Resurgent NASA, and International Partners are Creating a New Space Age (2019), overview of space exploration excerpt
+Spencer, Brett. "The Book and the Rocket The Symbiotic Relationship between American Public Libraries and the Space Program, 19502015", Information Culture 51, no. 4 (2016) 550582.
+Weinzierl, Matthew. "Space, the final economic frontier." Journal of Economic Perspectives 32.2 (2018) 173192. online Archived December 31, 2021, at the Wayback Machine, review of economics literature
+External links
+
+Wikimedia Commons has media related to NASA.
+
+Wikiquote has quotations related to NASA.
+
+English Wikisource has original text related to this article
+National Aeronautics and Space Act
+
+English Wikisource has original works by or about
+PortalNASA
+
+Wikiversity has learning resources about NASA
+Library resources about
+NASA
+Resources in your library
+Resources in other libraries
+Official website Edit this at Wikidata
+NASA Watch, an agency watchdog site
+Works by or about NASA at the Internet Archive
+How NASA works on howstuffworks.com
+vte
+NASA
+vte
+NASA facilities
+Major NASA space missions and programs
+vte
+Federal research and development agencies of the United States (list)
+vte
+Publicsector space agencies
+vte
+Dwight D. Eisenhower
+Authority control databases Edit this at Wikidata
+Categories NASA1958 establishments in Washington, D.C.Collier Trophy recipientsGovernment agencies established in 1958Independent agencies of the United States governmentOrganizations based in Washington, D.C.Webby Award winners
+This page was last edited on 9 October 2025, at 0541 (UTC).
+Text is available under the Creative Commons AttributionShareAlike 4.0 License additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia is a registered trademark of the Wikimedia Foundation, Inc., a nonprofit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki
