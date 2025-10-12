@@ -1,0 +1,484 @@
+
+
+WikipediaThe Free Encyclopedia
+Search Wikipedia
+Search
+Donate
+Create account
+Log in
+
+Contents hide
+(Top)
+Design and development
+
+Description
+
+Mission profile
+
+Space Shuttle program
+
+See also
+Notes
+References
+External links
+Space Shuttle
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+Featured article
+From Wikipedia, the free encyclopedia
+(Redirected from Space shuttle)
+This article is about the complete Space Shuttle system (booster, external tank, orbiter) used by NASA. For space shuttles in general, see spacecraft and spaceplane. For the spaceplane component of the Space Shuttle, see Space Shuttle orbiter.
+Space Shuttle
+
+Discovery lifts off at the start of the STS-120 mission.
+Function	Crewed orbital launch and reentry
+Manufacturer	
+United Space Alliance
+Thiokol/Alliant Techsystems (SRBs)
+Lockheed Martin/Martin Marietta (ET)
+Boeing/Rockwell (orbiter)
+Country of origin	United States
+Project cost	US$211 billion (2012)
+Cost per launch	US$450 million (2011)[1]
+Size
+Height	56 m (184 ft) [2] (stacked vehicle height)
+Diameter	8.7 m (29 ft) (external tank diameter)
+Mass	2,030,000 kg (4,480,000 lb)
+Stages	1½[3]: 126, 140 
+Capacity
+Payload to LEO
+Altitude	204 km (127 mi)
+Mass	27,500 kg (60,600 lb)
+Payload to ISS
+Altitude	407 km (253 mi)
+Mass	16,050 kg (35,380 lb)
+Payload to GTO
+Mass	4,940 kg (10,890 lb) with Inertial Upper Stage[4]
+Payload to GEO
+Mass	2,270 kg (5,000 lb) with Inertial Upper Stage[4]
+Payload to Earth, returned
+Mass	14,400 kg (31,700 lb)[5]
+Launch history
+Status	Retired
+Launch sites	
+Kennedy, LC-39A & LC‑39B
+Vandenberg, SLC-6 (unused)
+Total launches	135
+Success(es)	133[a]
+Failure(s)	2
+Challenger (launch failure, 7 fatalities)
+Columbia (re-entry failure, 7 fatalities)
+First flight	April 12, 1981 (STS-1)
+Last flight	July 21, 2011 (STS-135)
+Boosters – Solid Rocket Boosters
+No. boosters	2
+Maximum thrust	13 MN (3,000,000 lbf)
+Total thrust	27 MN (6,000,000 lbf)
+Specific impulse	242 s (2.37 km/s)[6]
+Burn time	124 seconds
+Propellant	PBAN—APCP
+First stage – Orbiter + external tank
+Powered by	3 × RS-25 engines on Orbiter
+Maximum thrust	1,750 kN (390,000 lbf) at sea level[7]
+Specific impulse	455 s (4.46 km/s)
+Burn time	480 seconds
+Propellant	LH2 / LOX in external tank
+Carries passengers or cargo	
+Tracking and data relay satellites
+Spacelab
+Hubble Space Telescope
+Galileo
+Magellan
+Ulysses
+Compton Gamma Ray Observatory
+Mir Docking Module
+Chandra X-ray Observatory
+ISS components
+[edit on Wikidata]
+Part of a series on
+Spaceflight
+
+History
+Applications
+Spacecraft
+Space launch
+Spaceflight types
+List of space organizations
+ Spaceflight portal
+vte
+The Space Shuttle is a decommissioned, partially reusable low Earth orbital spacecraft system operated from 1981 to 2011 by the U.S. National Aeronautics and Space Administration (NASA) as part of the Space Shuttle program. Its official program name was the Space Transportation System (STS), taken from the 1969 plan led by U.S. vice president Spiro Agnew for a system of reusable spacecraft where it was the only item funded for development.[8]: 163–166 [9][10]
+
+The first (STS-1) of four orbital test flights occurred in 1981, leading to operational flights (STS-5) beginning in 1982. Five complete Space Shuttle orbiter vehicles were built and flown on a total of 135 missions from 1981 to 2011. They launched from the Kennedy Space Center (KSC) in Florida. Operational missions launched numerous satellites, interplanetary probes, and the Hubble Space Telescope (HST), conducted science experiments in orbit, participated in the Shuttle-Mir program with Russia, and participated in the construction and servicing of the International Space Station (ISS). The Space Shuttle fleet's total mission time was 1,323 days.[11]
+
+Space Shuttle components include the Orbiter Vehicle (OV) with three clustered Rocketdyne RS-25 main engines, a pair of recoverable solid rocket boosters (SRBs), and the expendable external tank (ET) containing liquid hydrogen and liquid oxygen. The Space Shuttle was launched vertically, like a conventional rocket, with the two SRBs operating in parallel with the orbiter's three main engines, which were fueled from the ET. The SRBs were jettisoned before the vehicle reached orbit, while the main engines continued to operate, and the ET was jettisoned after main engine cutoff and just before orbit insertion, which used the orbiter's two Orbital Maneuvering System (OMS) engines. At the conclusion of the mission, the orbiter fired its OMS to deorbit and reenter the atmosphere. The orbiter was protected during reentry by its thermal protection system tiles, and it glided as a spaceplane to a runway landing, usually to the Shuttle Landing Facility at KSC, Florida, or to Rogers Dry Lake in Edwards Air Force Base, California. If the landing occurred at Edwards, the orbiter was flown back to the KSC atop the Shuttle Carrier Aircraft (SCA), a specially modified Boeing 747 designed to carry the shuttle above it.
+
+The first orbiter, Enterprise, was built in 1976 and used in Approach and Landing Tests (ALT), but had no orbital capability. Four fully operational orbiters were initially built: Columbia, Challenger, Discovery, and Atlantis. Of these, two were lost in mission accidents: Challenger in 1986 and Columbia in 2003, with a total of 14 astronauts killed. A fifth operational (and sixth in total) orbiter, Endeavour, was built in 1991 to replace Challenger. The three surviving operational vehicles were retired from service following Atlantis's final flight on July 21, 2011. The U.S. relied on the Russian Soyuz spacecraft to transport astronauts to the ISS from the last Shuttle flight until the launch of the Crew Dragon Demo-2 mission in May 2020.[12]
+
+Design and development
+Historical background
+In the late 1930s, the German government launched the "Amerikabomber" (English: America bomber) project, and Eugen Sänger's idea, together with mathematician Irene Bredt, was a winged rocket called the Silbervogel (German for "silver bird").[13] During the 1950s, the United States Air Force proposed using a reusable piloted glider to perform military operations such as reconnaissance, satellite attack, and air-to-ground weapons employment. In the late 1950s, the Air Force began developing the partially reusable X-20 Dyna-Soar. The Air Force collaborated with NASA on the Dyna-Soar and began training six pilots in June 1961. The rising costs of development and the prioritization of Project Gemini led to the cancellation of the Dyna-Soar program in December 1963. In addition to the Dyna-Soar, the Air Force had conducted a study in 1957 to test the feasibility of reusable boosters. This became the basis for the aerospaceplane, a fully reusable spacecraft that was never developed beyond the initial design phase in 1962–1963.[8]: 162–163 
+
+Beginning in the early 1950s, NASA and the Air Force collaborated on developing lifting bodies to test aircraft that primarily generated lift from their fuselages instead of wings, and tested the NASA M2-F1, Northrop M2-F2, Northrop M2-F3, Northrop HL-10, Martin Marietta X-24A, and the Martin Marietta X-24B. The program tested aerodynamic characteristics that would later be incorporated in design of the Space Shuttle, including unpowered landing from a high altitude and speed.[14]: 142 [15]: 16–18 
+
+Design process
+Main article: Space Shuttle design process
+On September 24, 1966, as the Apollo space program neared its design completion, NASA and the Air Force released a joint study concluding that a new vehicle was required to satisfy their respective future demands and that a partially reusable system would be the most cost-effective solution.[8]: 164  The head of the NASA Office of Manned Space Flight, George Mueller, announced the plan for a reusable shuttle on August 10, 1968. NASA issued a request for proposal (RFP) for designs of the Integral Launch and Reentry Vehicle (ILRV) on October 30, 1968.[16] Rather than award a contract based upon initial proposals, NASA announced a phased approach for the Space Shuttle contracting and development; Phase A was a request for studies completed by competing aerospace companies, Phase B was a competition between two contractors for a specific contract, Phase C involved designing the details of the spacecraft components, and Phase D was the production of the spacecraft.[17][15]: 19–22 
+
+In December 1968, NASA created the Space Shuttle Task Group to determine the optimal design for a reusable spacecraft, and issued study contracts to General Dynamics, Lockheed, McDonnell Douglas, and North American Rockwell. In July 1969, the Space Shuttle Task Group issued a report that determined the Shuttle would support short-duration crewed missions and space station, as well as the capabilities to launch, service, and retrieve satellites. The report also created three classes of a future reusable shuttle: Class I would have a reusable orbiter mounted on expendable boosters, Class II would use multiple expendable rocket engines and a single propellant tank (stage-and-a-half), and Class III would have both a reusable orbiter and a reusable booster. In September 1969, the Space Task Group, under the leadership of U.S. vice president Spiro Agnew, issued a report calling for the development of a space shuttle to bring people and cargo to low Earth orbit (LEO), as well as a space tug for transfers between orbits and the Moon, and a reusable nuclear upper stage for deep space travel.[8]: 163–166 [9]
+
+After the release of the Space Shuttle Task Group report, many aerospace engineers favored the Class III, fully reusable design because of perceived savings in hardware costs. Max Faget, a NASA engineer who had worked to design the Mercury capsule, patented a design for a two-stage fully recoverable system with a straight-winged orbiter mounted on a larger straight-winged booster.[18][19] The Air Force Flight Dynamics Laboratory argued that a straight-wing design would not be able to withstand the high thermal and aerodynamic stresses during reentry, and would not provide the required cross-range capability. Additionally, the Air Force required a larger payload capacity than Faget's design allowed. In January 1971, NASA and Air Force leadership decided that a reusable delta-wing orbiter mounted on an expendable propellant tank would be the optimal design for the Space Shuttle.[8]: 166 
+
+After they established the need for a reusable, heavy-lift spacecraft, NASA and the Air Force determined the design requirements of their respective services. The Air Force expected to use the Space Shuttle to launch large satellites, and required it to be capable of lifting 29,000 kg (65,000 lb) to an eastward LEO or 18,000 kg (40,000 lb) into a polar orbit. The satellite designs also required that the Space Shuttle have a 4.6 by 18 m (15 by 60 ft) payload bay. NASA evaluated the F-1 and J-2 engines from the Saturn rockets, and determined that they were insufficient for the requirements of the Space Shuttle; in July 1971, it issued a contract to Rocketdyne to begin development on the RS-25 engine.[8]: 165–170 
+
+NASA reviewed 29 potential designs for the Space Shuttle and determined that a design with two side boosters should be used, and the boosters should be reusable to reduce costs.[8]: 167  NASA and the Air Force elected to use solid-propellant boosters because of the lower costs and the ease of refurbishing them for reuse after they landed in the ocean. In January 1972, President Richard Nixon approved the Shuttle, and NASA decided on its final design in March. The development of the Space Shuttle Main Engine (SSME) remained the responsibility of Rocketdyne, and the contract was issued in July 1971, and updated SSME specifications were submitted to Rocketdyne that April.[20] The following August, NASA awarded the contract to build the orbiter to North American Rockwell, which had by then constructed a full-scale mock-up, later named Inspiration.[21][22] In August 1973, NASA awarded the external tank contract to Martin Marietta, and in November the solid-rocket booster contract to Morton Thiokol.[8]: 170–173 
+
+Development
+The Space Shuttle Columbia under construction
+Columbia undergoing installation of its ceramic tiles
+On June 4, 1974, Rockwell began construction on the first orbiter, OV-101, dubbed Constitution, later to be renamed Enterprise. Enterprise was designed as a test vehicle, and did not include engines or heat shielding. Construction was completed on September 17, 1976, and Enterprise was moved to the Edwards Air Force Base to begin testing.[8]: 173 [23] Rockwell constructed the Main Propulsion Test Article (MPTA)-098, which was a structural truss mounted to the ET with three RS-25 engines attached. It was tested at the National Space Technology Laboratory (NSTL) to ensure that the engines could safely run through the launch profile.[24]: II-163  Rockwell conducted mechanical and thermal stress tests on Structural Test Article (STA)-099 to determine the effects of aerodynamic and thermal stresses during launch and reentry.[24]: I-415 
+
+The beginning of the development of the RS-25 Space Shuttle Main Engine was delayed for nine months while Pratt & Whitney challenged the contract that had been issued to Rocketdyne. The first engine was completed in March 1975, after issues with developing the first throttleable, reusable engine. During engine testing, the RS-25 experienced multiple nozzle failures, as well as broken turbine blades. Despite the problems during testing, NASA ordered the nine RS-25 engines needed for its three orbiters under construction in May 1978.[8]: 174–175 
+
+NASA experienced significant delays in the development of the Space Shuttle's thermal protection system. Previous NASA spacecraft had used ablative heat shields, but those could not be reused. NASA chose to use ceramic tiles for thermal protection, as the shuttle could then be constructed of lightweight aluminum, and the tiles could be individually replaced as needed. Construction began on Columbia on March 27, 1975, and it was delivered to the KSC on March 25, 1979.[8]: 175–177  At the time of its arrival at the KSC, Columbia still had 6,000 of its 30,000 tiles remaining to be installed. However, many of the tiles that had been originally installed had to be replaced, requiring two years of installation before Columbia could fly.[15]: 46–48 
+
+On January 5, 1979, NASA commissioned a second orbiter. Later that month, Rockwell began converting STA-099 to OV-099, later named Challenger. On January 29, 1979, NASA ordered two additional orbiters, OV-103 and OV-104, which were named Discovery and Atlantis. Construction of OV-105, later named Endeavour, began in February 1982, but NASA decided to limit the Space Shuttle fleet to four orbiters in 1983. After the loss of Challenger, NASA resumed production of Endeavour in September 1987.[15]: 52–53 
+
+Testing
+Enterprise being release from the Shuttle Carrier Aircraft for the Approach and Landing Tests
+Enterprise during the Approach and Landing Tests
+The Space Shuttle Columbia launching on the first Space Shuttle mission
+Columbia launching on STS-1[b]
+After it arrived at Edwards AFB, Enterprise underwent flight testing with the Shuttle Carrier Aircraft, a Boeing 747 that had been modified to carry the orbiter. In February 1977, Enterprise began the Approach and Landing Tests (ALT) and underwent captive flights, where it remained attached to the Shuttle Carrier Aircraft for the duration of the flight. On August 12, 1977, Enterprise conducted its first glide test, where it detached from the Shuttle Carrier Aircraft and landed at Edwards AFB.[8]: 173–174  After four additional flights, Enterprise was moved to the Marshall Space Flight Center (MSFC) on March 13, 1978. Enterprise underwent shake tests in the Mated Vertical Ground Vibration Test, where it was attached to an external tank and solid rocket boosters, and underwent vibrations to simulate the stresses of launch. In April 1979, Enterprise was taken to the KSC, where it was attached to an external tank and solid rocket boosters, and moved to LC-39. Once installed at the launch pad, the Space Shuttle was used to verify the proper positioning of the launch complex hardware. Enterprise was taken back to California in August 1979, and later served in the development of the SLC-6 at Vandenberg AFB in 1984.[15]: 40–41 
+
+On November 24, 1980, Columbia was mated with its external tank and solid-rocket boosters, and was moved to LC-39 on December 29.[24]: III-22  The first Space Shuttle mission, STS-1, would be the first time NASA performed a crewed first-flight of a spacecraft.[24]: III-24  On April 12, 1981, the Space Shuttle launched for the first time, and was piloted by John Young and Robert Crippen. During the two-day mission, Young and Crippen tested equipment on board the shuttle, and found several of the ceramic tiles had fallen off the top side of the Columbia.[25]: 277–278  NASA coordinated with the Air Force to use satellites to image the underside of Columbia, and determined there was no damage.[25]: 335–337  Columbia reentered the atmosphere and landed at Edwards AFB on April 14.[24]: III-24 
+
+NASA conducted three additional test flights with Columbia in 1981 and 1982. On July 4, 1982, STS-4, flown by Ken Mattingly and Henry Hartsfield, landed on a concrete runway at Edwards AFB. President Ronald Reagan and his wife Nancy met the crew, and delivered a speech. After STS-4, NASA declared its Space Transportation System (STS) operational.[8]: 178–179 [26]
+
+Description
+The Space Shuttle was the first operational orbital spacecraft designed for reuse. Each Space Shuttle orbiter was designed for a projected lifespan of 100 launches or ten years of operational life, although this was later extended.[27]: 11  At launch, it consisted of the orbiter, which contained the crew and payload, the external tank (ET), and the two solid rocket boosters (SRBs).[3]: 363 
+
+Responsibility for the Space Shuttle components was spread among multiple NASA field centers. The KSC was responsible for launch, landing, and turnaround operations for equatorial orbits (the only orbit profile actually used in the program). The U.S. Air Force at the Vandenberg Air Force Base was responsible for launch, landing, and turnaround operations for polar orbits (though this was never used). The Johnson Space Center (JSC) served as the central point for all Shuttle operations and the MSFC was responsible for the main engines, external tank, and solid rocket boosters. The John C. Stennis Space Center handled main engine testing, and the Goddard Space Flight Center managed the global tracking network.[28]
+
+Orbiter
+Main article: Space Shuttle orbiter
+The five Space Shuttle orbiters launching
+Shuttle launch profiles. From left: Columbia, Challenger, Discovery, Atlantis, and Endeavour
+The orbiter had design elements and capabilities of both a rocket and an aircraft to allow it to launch vertically and then land as a glider.[3]: 365  Its three-part fuselage provided support for the crew compartment, cargo bay, flight surfaces, and engines. The rear of the orbiter contained the Space Shuttle Main Engines (SSME), which provided thrust during launch, as well as the Orbital Maneuvering System (OMS), which allowed the orbiter to achieve, alter, and exit its orbit once in space. Its double-delta wings were 18 m (60 ft) long, and were swept 81° at the inner leading edge and 45° at the outer leading edge. Each wing had an inboard and outboard elevon to provide flight control during reentry, along with a flap located between the wings, below the engines to control pitch. The orbiter's vertical stabilizer was swept backwards at 45° and contained a rudder that could split to act as a speed brake.[3]: 382–389  The vertical stabilizer also contained a two-part drag parachute system to slow the orbiter after landing. The orbiter used retractable landing gear with a nose landing gear and two main landing gear, each containing two tires. The main landing gear contained two brake assemblies each, and the nose landing gear contained an electro-hydraulic steering mechanism.[3]: 408–411 
+
+Crew
+The Space Shuttle crew varied per mission. They underwent rigorous testing and training to meet the qualification requirements for their roles. The crew was divided into three categories: Pilots, Mission Specialists, and Payload Specialists. Pilots were further divided into two roles: the Space Shuttle Commander, who would seat in the forward left seat and the Space Shuttle Pilot who would seat in the forward right seat.[29] The test flights, STS-1 through STS-4 only had two members each, the commander and pilot. The commander and the pilot were both qualified to fly and land the orbiter. The on-orbit operations, such as experiments, payload deployment, and EVAs, were conducted primarily by the mission specialists who were specifically trained for their intended missions and systems. Early in the Space Shuttle program, NASA flew with payload specialists, who were typically systems specialists who worked for the company paying for the payload's deployment or operations. The final payload specialist, Gregory B. Jarvis, flew on STS-51-L, and future non-pilots were designated as mission specialists. An astronaut flew as a crewed spaceflight engineer on both STS-51-C and STS-51-J to serve as a military representative for a National Reconnaissance Office payload. A Space Shuttle crew typically had seven astronauts, with STS-61-A flying with eight.[24]: III-21 
+
+Crew compartment
+The crew compartment comprised three decks and was the pressurized, habitable area on all Space Shuttle missions. The flight deck consisted of two seats for the commander and pilot, as well as an additional two to four seats for crew members. The mid-deck was located below the flight deck and was where the galley and crew bunks were set up, as well as three or four crew member seats. The mid-deck contained the airlock, which could support two astronauts on an extravehicular activity (EVA), as well as access to pressurized research modules. An equipment bay was below the mid-deck, which stored environmental control and waste management systems.[15]: 60–62 [3]: 365–369 
+
+On the first four Shuttle missions, astronauts wore modified U.S. Air Force high-altitude full-pressure suits, which included a full-pressure helmet during ascent and descent. From the fifth flight, STS-5, until the loss of Challenger, the crew wore one-piece light blue nomex flight suits and partial-pressure helmets. After the Challenger disaster, the crew members wore the Launch Entry Suit (LES), a partial-pressure version of the high-altitude pressure suits with a helmet. In 1994, the LES was replaced by the full-pressure Advanced Crew Escape Suit (ACES), which improved the safety of the astronauts in an emergency situation. Columbia originally had modified SR-71 zero-zero ejection seats installed for the ALT and first four missions, but these were disabled after STS-4 and removed after STS-9.[3]: 370–371 
+
+The view from the Atlantis cockpit while in orbit
+Atlantis was the first Shuttle to fly with a glass cockpit, on STS-101.
+The flight deck was the top level of the crew compartment and contained the flight controls for the orbiter. The commander sat in the front left seat, and the pilot sat in the front right seat, with two to four additional seats set up for additional crew members. The instrument panels contained over 2,100 displays and controls, and the commander and pilot were both equipped with a heads-up display (HUD) and a Rotational Hand Controller (RHC) to gimbal the engines during powered flight and fly the orbiter during unpowered flight. Both seats also had rudder controls, to allow rudder movement in flight and nose-wheel steering on the ground.[3]: 369–372  The orbiter vehicles were originally installed with the Multifunction CRT Display System (MCDS) to display and control flight information. The MCDS displayed the flight information at the commander and pilot seats, as well as at the aft seating location, and also controlled the data on the HUD. In 1998, Atlantis was upgraded with the Multifunction Electronic Display System (MEDS), which was a glass cockpit upgrade to the flight instruments that replaced the eight MCDS display units with 11 multifunction colored digital screens. MEDS was flown for the first time in May 2000 on STS-101, and the other orbiter vehicles were upgraded to it. The aft section of the flight deck contained windows looking into the payload bay, as well as an RHC to control the Remote Manipulator System during cargo operations. Additionally, the aft flight deck had monitors for a closed-circuit television to view the cargo bay.[3]: 372–376 
+
+The mid-deck contained the crew equipment storage, sleeping area, galley, medical equipment, and hygiene stations for the crew. The crew used modular lockers to store equipment that could be scaled depending on their needs, as well as permanently installed floor compartments. The mid-deck contained a port-side hatch that the crew used for entry and exit while on Earth.[24]: II–26–33 
+
+Airlock
+The airlock is a structure installed to allow movement between two spaces with different gas components, conditions, or pressures. Continuing on the mid-deck structure, each orbiter was originally installed with an internal airlock in the mid-deck. The internal airlock was installed as an external airlock in the payload bay on Discovery, Atlantis, and Endeavour to improve docking with Mir and the ISS, along with the Orbiter Docking System.[24]: II–26–33  The airlock module can be fitted in the mid-bay, or connected to it but in the payload bay.[15]: 81  With an internal cylindrical volume of 1.60 metres (5 feet 3 inches) diameter and 2.11 metres (6 feet 11 inches) in length, it can hold two suited astronauts. It has two D-shaped hatchways 1.02 m (40 in) long (diameter), and 0.91 m (36 in) wide.[15]: 82 
+
+Flight systems
+The orbiter was equipped with an avionics system to provide information and control during atmospheric flight. Its avionics suite contained three microwave scanning beam landing systems, three gyroscopes, three TACANs, three accelerometers, two radar altimeters, two barometric altimeters, three attitude indicators, two Mach indicators, and two Mode C transponders. During reentry, the crew deployed two air data probes once they were traveling slower than Mach 5. The orbiter had three inertial measuring units (IMU) that it used for guidance and navigation during all phases of flight. The orbiter contains two star trackers to align the IMUs while in orbit. The star trackers are deployed while in orbit, and can automatically or manually align on a star. In 1991, NASA began upgrading the inertial measurement units with an inertial navigation system (INS), which provided more accurate location information. In 1993, NASA flew a GPS receiver for the first time aboard STS-51. In 1997, Honeywell began developing an integrated GPS/INS to replace the IMU, INS, and TACAN systems, which first flew on STS-118 in August 2007.[3]: 402–403 
+
+While in orbit, the crew primarily communicated using one of four S band radios, which provided both voice and data communications. Two of the S band radios were phase modulation transceivers, and could transmit and receive information. The other two S band radios were frequency modulation transmitters and were used to transmit data to NASA. As S band radios can operate only within their line of sight, NASA used the Tracking and Data Relay Satellite System and the Spacecraft Tracking and Data Acquisition Network ground stations to communicate with the orbiter throughout its orbit. Additionally, the orbiter deployed a high-bandwidth Ku band radio out of the cargo bay, which could also be utilized as a rendezvous radar. The orbiter was also equipped with two UHF radios for communications with air traffic control and astronauts conducting EVA.[3]: 403–404 
+
+The two computers used in the orbiter
+AP-101S (left) and AP-101B general purpose computers
+The Space Shuttle's fly-by-wire control system was entirely reliant on its main computer, the Data Processing System (DPS). The DPS controlled the flight controls and thrusters on the orbiter, as well as the ET and SRBs during launch. The DPS consisted of five general-purpose computers (GPC), two magnetic tape mass memory units (MMUs), and the associated sensors to monitor the Space Shuttle components.[3]: 232–233  The original GPC used was the IBM AP-101B, which used a separate central processing unit (CPU) and input/output processor (IOP), and non-volatile solid-state memory. From 1991 to 1993, the orbiter vehicles were upgraded to the AP-101S, which improved the memory and processing capabilities, and reduced the volume and weight of the computers by combining the CPU and IOP into a single unit. Four of the GPCs were loaded with the Primary Avionics Software System (PASS), which was Space Shuttle-specific software that provided control through all phases of flight. During ascent, maneuvering, reentry, and landing, the four PASS GPCs functioned identically to produce quadruple redundancy and would error check their results. In case of a software error that would cause erroneous reports from the four PASS GPCs, a fifth GPC ran the Backup Flight System, which used a different program and could control the Space Shuttle through ascent, orbit, and reentry, but could not support an entire mission. The five GPCs were separated in three separate bays within the mid-deck to provide redundancy in the event of a cooling fan failure. After achieving orbit, the crew would switch some of the GPCs functions from guidance, navigation, and control (GNC) to systems management (SM) and payload (PL) to support the operational mission.[3]: 405–408  The Space Shuttle was not launched if its flight would run from December to January, as its flight software would have required the orbiter vehicle's computers to be reset at the year change. In 2007, NASA engineers devised a solution so Space Shuttle flights could cross the year-end boundary.[30]
+
+Space Shuttle missions typically brought a portable general support computer (PGSC) that could integrate with the orbiter vehicle's computers and communication suite, as well as monitor scientific and payload data. Early missions brought the Grid Compass, one of the first laptop computers, as the PGSC, but later missions brought Apple and Intel laptops.[3]: 408 [31]
+
+Payload bay
+An astronaut conducting an EVA while the Hubble Space Telescope is in the payload bay
+Story Musgrave attached to the RMS servicing the Hubble Space Telescope during STS-61
+
+Atlantis in orbit in 2010. Image shows the payload bay and the extended Canadarm.
+The payload bay comprised most of the orbiter vehicle's fuselage, and provided the cargo-carrying space for the Space Shuttle's payloads. It was 18 m (60 ft) long and 4.6 m (15 ft) wide, and could accommodate cylindrical payloads up to 4.6 m (15 ft) in diameter. Two payload bay doors hinged on either side of the bay, and provided a relatively airtight seal to protect payloads from heating during launch and reentry. Payloads were secured in the payload bay to the attachment points on the longerons. The payload bay doors served an additional function as radiators for the orbiter vehicle's heat, and were opened upon reaching orbit for heat rejection.[15]: 62–64 
+
+The orbiter could be used in conjunction with a variety of add-on components depending on the mission. This included orbital laboratories,[24]: II-304, 319  boosters for launching payloads farther into space,[24]: II-326  the Remote Manipulator System (RMS),[24]: II-40  and optionally the EDO pallet to extend the mission duration.[24]: II-86  To limit the fuel consumption while the orbiter was docked at the ISS, the Station-to-Shuttle Power Transfer System (SSPTS) was developed to convert and transfer station power to the orbiter.[24]: II-87–88  The SSPTS was first used on STS-118, and was installed on Discovery and Endeavour.[24]: III-366–368 
+
+Remote Manipulator System
+Main article: Canadarm
+The Remote Manipulator System (RMS), also known as Canadarm, was a mechanical arm attached to the cargo bay. It could be used to grasp and manipulate payloads, as well as serve as a mobile platform for astronauts conducting an EVA. The RMS was built by the Canadian company Spar Aerospace and was controlled by an astronaut inside the orbiter's flight deck using their windows and closed-circuit television. The RMS allowed for six degrees of freedom and had six joints located at three points along the arm. The original RMS could deploy or retrieve payloads up to 29,000 kg (65,000 lb), which was later improved to 270,000 kg (586,000 lb).[3]: 384–385 
+
+Spacelab
+Main article: Spacelab
+Spacelab in the payload bay while in orbit
+Spacelab in orbit on STS-9
+The Spacelab module was a European-funded pressurized laboratory that was carried within the payload bay and allowed for scientific research while in orbit. The Spacelab module contained two 2.7 m (9 ft) segments that were mounted in the aft end of the payload bay to maintain the center of gravity during flight. Astronauts entered the Spacelab module through a 2.7 or 5.8 m (8.72 or 18.88 ft) tunnel that connected to the airlock. The Spacelab equipment was primarily stored in pallets, which provided storage for both experiments as well as computer and power equipment.[3]: 434–435  Spacelab hardware was flown on 28 missions through 1999 and studied subjects including astronomy, microgravity, radar, and life sciences. Spacelab hardware also supported missions such as Hubble Space Telescope (HST) servicing and space station resupply. The Spacelab module was tested on STS-2 and STS-3, and the first full mission was on STS-9.[32]
+
+RS-25 engines
+Main article: RS-25
+The two engine systems at the aft-section of the orbiter
+RS-25 engines with the two Orbital Maneuvering System (OMS) pods during STS-133
+Three RS-25 engines, also known as the Space Shuttle Main Engines (SSME), were mounted on the orbiter's aft fuselage in a triangular pattern. The engine nozzles could gimbal ±10.5° in pitch, and ±8.5° in yaw during ascent to change the direction of their thrust to steer the Shuttle. The titanium alloy reusable engines were independent of the orbiter vehicle and would be removed and replaced in between flights. The RS-25 is a staged-combustion cycle cryogenic engine that used liquid oxygen and hydrogen and had a higher chamber pressure than any previous liquid-fueled rocket. The original main combustion chamber operated at a maximum pressure of 226.5 bar (3,285 psi). The engine nozzle is 287 cm (113 in) tall and has an interior diameter of 229 cm (90.3 in). The nozzle is cooled by 1,080 interior lines carrying liquid hydrogen and is thermally protected by insulative and ablative material.[24]: II–177–183 
+
+The RS-25 engines had several improvements to enhance reliability and power. During the development program, Rocketdyne determined that the engine was capable of safe reliable operation at 104% of the originally specified thrust. To keep the engine thrust values consistent with previous documentation and software, NASA kept the originally specified thrust at 100%, but had the RS-25 operate at higher thrust. RS-25 upgrade versions were denoted as Block I and Block II. 109% thrust level was achieved with the Block II engines in 2001, which reduced the chamber pressure to 207.5 bars (3,010 psi), as it had a larger throat area. The normal maximum throttle was 104 percent, with 106% or 109% used for mission aborts.[15]: 106–107 
+
+Orbital Maneuvering System
+Main article: Space Shuttle Orbital Maneuvering System
+The Orbital Maneuvering System (OMS) consisted of two aft-mounted AJ10-190 engines and the associated propellant tanks. The AJ10 engines used monomethylhydrazine (MMH) oxidized by dinitrogen tetroxide (N2O4). The pods carried a maximum of 2,140 kg (4,718 lb) of MMH and 3,526 kg (7,773 lb) of N2O4. The OMS engines were used after main engine cut-off (MECO) for orbital insertion. Throughout the flight, they were used for orbit changes, as well as the deorbit burn prior to reentry. Each OMS engine produced 27,080 N (6,087 lbf) of thrust, and the entire system could provide 305 m/s (1,000 ft/s) of velocity change.[24]: II–80 
+
+Thermal protection system
+Main article: Space Shuttle thermal protection system
+The orbiter was protected from heat during reentry by the thermal protection system (TPS), a thermal soaking protective layer around the orbiter. In contrast with previous US spacecraft, which had used ablative heat shields, the reusability of the orbiter required a multi-use heat shield.[15]: 72–73  During reentry, the TPS experienced temperatures up to 1,600 °C (3,000 °F), but had to keep the orbiter vehicle's aluminum skin temperature below 180 °C (350 °F). The TPS primarily consisted of four types of tiles. The nose cone and leading edges of the wings experienced temperatures above 1,300 °C (2,300 °F), and were protected by reinforced carbon-carbon tiles (RCC). Thicker RCC tiles were developed and installed in 1998 to prevent damage from micrometeoroid and orbital debris, and were further improved after RCC damage caused in the Columbia disaster. Beginning with STS-114, the orbiter vehicles were equipped with the wing leading edge impact detection system to alert the crew to any potential damage.[24]: II–112–113  The entire underside of the orbiter vehicle, as well as the other hottest surfaces, were protected with tiles of high-temperature reusable surface insulation, made of borosilicate glass-coated silica fibers that trapped heat in air pockets and redirected it out. Areas on the upper parts of the orbiter vehicle were coated in tiles of white low-temperature reusable surface insulation with similar composition, which provided protection for temperatures below 650 °C (1,200 °F). The payload bay doors and parts of the upper wing surfaces were coated in reusable Nomex felt surface insulation or in beta cloth, as the temperature there remained below 370 °C (700 °F).[3]: 395 
+
+External tank
+Main article: Space Shuttle external tank
+
+The ET from STS-115 after separation from the orbiter. The scorch mark near the front end of the tank is from the SRB separation motors.
+The Space Shuttle external tank (ET) carried the propellant for the Space Shuttle Main Engines, and connected the orbiter vehicle with the solid rocket boosters. The ET was 47 m (153.8 ft) tall and 8.4 m (27.6 ft) in diameter, and contained separate tanks for liquid oxygen and liquid hydrogen. The liquid oxygen tank was housed in the nose of the ET, and was 15 m (49.3 ft) tall. The liquid hydrogen tank comprised the bulk of the ET, and was 29 m (96.7 ft) tall. The orbiter vehicle was attached to the ET at two umbilical plates, which contained five propellant and two electrical umbilicals, and forward and aft structural attachments. The exterior of the ET was covered in orange spray-on foam to allow it to survive the heat of ascent.[3]: 421–422 
+
+The ET provided propellant to the Space Shuttle Main Engines from liftoff until main engine cutoff. The ET separated from the orbiter vehicle 18 seconds after engine cutoff and could be triggered automatically or manually. At the time of separation, the orbiter vehicle retracted its umbilical plates, and the umbilical cords were sealed to prevent excess propellant from venting into the orbiter vehicle. After the bolts attached at the structural attachments were sheared, the ET separated from the orbiter vehicle. At the time of separation, gaseous oxygen was vented from the nose to cause the ET to tumble, ensuring that it would break up upon reentry. The ET was the only major component of the Space Shuttle system that was not reused, and it would travel along a ballistic trajectory into the Indian or Pacific Ocean.[3]: 422 
+
+For the first two missions, STS-1 and STS-2, the ET was covered in 270 kg (595 lb) of white fire-retardant latex paint to provide protection against damage from ultraviolet radiation. Further research determined that the orange foam itself was sufficiently protected, and the ET was no longer covered in latex paint beginning on STS-3.[24]: II-210  A light-weight tank (LWT) was first flown on STS-6, which reduced tank weight by 4,700 kg (10,300 lb). The LWT's weight was reduced by removing components from the hydrogen tank and reducing the thickness of some skin panels.[3]: 422  In 1998, a super light-weight ET (SLWT) first flew on STS-91. The SLWT used the 2195 aluminum-lithium alloy, which was 40% stronger and 10% less dense than its predecessor, 2219 aluminum-lithium alloy. The SLWT weighed 3,400 kg (7,500 lb) less than the LWT, which allowed the Space Shuttle to deliver heavy elements to ISS's high inclination orbit.[3]: 423–424 
+
+Solid Rocket Boosters
+Main article: Space Shuttle Solid Rocket Booster
+Two Solid Rocket Boosters that are not attached to an external tank or orbiter
+Two SRBs on the mobile launcher platform prior to mating with the ET and orbiter for STS-134
+The Solid Rocket Boosters (SRB) provided 71.4% of the Space Shuttle's thrust during liftoff and ascent, and were the largest solid-propellant motors ever flown.[6] Each SRB was 45 m (149.2 ft) tall and 3.7 m (12.2 ft) wide, weighed 68,000 kg (150,000 lb), and had a steel exterior approximately 13 mm (.5 in) thick. The SRB's subcomponents were the solid-propellant motor, nose cone, and rocket nozzle. The solid-propellant motor comprised the majority of the SRB's structure. Its casing consisted of 11 steel sections which made up its four main segments. The nose cone housed the forward separation motors and the parachute systems that were used during recovery. The rocket nozzles could gimbal up to 8° to allow for in-flight adjustments.[3]: 425–429 
+
+The rocket motors were each filled with a total 500,000 kg (1,106,640 lb) of solid rocket propellant (APCP+PBAN), and joined in the Vehicle Assembly Building (VAB) at KSC.[3]: 425–426  In addition to providing thrust during the first stage of launch, the SRBs provided structural support for the orbiter vehicle and ET, as they were the only system that was connected to the mobile launcher platform (MLP).[3]: 427  At the time of launch, the SRBs were armed at T−5 minutes, and could only be electrically ignited once the RS-25 engines had ignited and were without issue.[3]: 428  They each provided 12,500 kN (2,800,000 lbf) of thrust, which was later improved to 13,300 kN (3,000,000 lbf) beginning on STS-8.[3]: 425  After expending their fuel, the SRBs were jettisoned approximately two minutes after launch at an altitude of approximately 46 km (150,000 ft). Following separation, they deployed drogue and main parachutes, landed in the ocean, and were recovered by the crews aboard the ships MV Freedom Star and MV Liberty Star.[3]: 430  Once they were returned to Cape Canaveral, they were cleaned and disassembled. The rocket motor, igniter, and nozzle were then shipped to Thiokol to be refurbished and reused on subsequent flights.[15]: 124 
+
+The SRBs underwent several redesigns throughout the program's lifetime. STS-6 and STS-7 used SRBs 2,300 kg (5,000 lb) lighter due to walls that were 0.10 mm (.004 in) thinner, but were determined to be too thin to fly safely. Subsequent flights until STS-26 used cases that were 0.076 mm (.003 in) thinner than the standard-weight cases, which reduced 1,800 kg (4,000 lb). After the Challenger disaster as a result of an O-ring failing at low temperature, the SRBs were redesigned to provide a constant seal regardless of the ambient temperature.[3]: 425–426 
+
+Support vehicles
+A recovery boat with a recovered Solid Rocket Booster
+MV Freedom Star towing a spent SRB (STS-133) to Cape Canaveral Air Force Station
+The Space Shuttle's operations were supported by vehicles and infrastructure that facilitated its transportation, construction, and crew access. The crawler-transporters carried the MLP and the Space Shuttle from the VAB to the launch site.[33] The Shuttle Carrier Aircraft (SCA) were two modified Boeing 747s that could carry an orbiter on its back. The original SCA (N905NA) was first flown in 1975, and was used for the ALT and ferrying the orbiter from Edwards AFB to the KSC on all missions prior to 1991. A second SCA (N911NA) was acquired in 1988, and was first used to transport Endeavour from the factory to the KSC. Following the retirement of the Space Shuttle, N905NA was put on display at the JSC, and N911NA was put on display at the Joe Davies Heritage Airpark in Palmdale, California.[24]: I–377–391 [34] The Crew Transport Vehicle (CTV) was a modified airport jet bridge that was used to assist astronauts to egress from the orbiter after landing, where they would undergo their post-mission medical checkups.[35] The Astrovan transported astronauts from the crew quarters in the Operations and Checkout Building to the launch pad on launch day.[36] The NASA Railroad comprised three locomotives that transported SRB segments from the Florida East Coast Railway in Titusville to the KSC.[37]
+
+Mission profile
+Launch preparation
+See also: Launch commit criteria
+The Space Shuttle moving to the launch complex on a crawler-transporter
+The crawler-transporter with Atlantis on the ramp to LC-39A for STS-117
+The Space Shuttle was prepared for launch primarily in the VAB at the KSC. The SRBs were assembled and attached to the external tank on the MLP. The orbiter vehicle was prepared at the Orbiter Processing Facility (OPF) and transferred to the VAB, where a crane was used to rotate it to the vertical orientation and mate it to the external tank.[15]: 132–133  Once the entire stack was assembled, the MLP was carried for 5.6 km (3.5 mi) to Launch Complex 39 by one of the crawler-transporters.[15]: 137  After the Space Shuttle arrived at one of the two launchpads, it would connect to the Fixed and Rotation Service Structures, which provided servicing capabilities, payload insertion, and crew transportation.[15]: 139–141  The crew was transported to the launch pad at T−3 hours and entered the orbiter vehicle, which was closed at T−2 hours.[24]: III–8  Liquid oxygen and hydrogen were loaded into the external tank via umbilicals that attached to the orbiter vehicle, which began at T−5 hours 35 minutes. At T−3 hours 45 minutes, the hydrogen fast-fill was complete, followed 15 minutes later by the oxygen tank fill. Both tanks were slowly filled up until the launch as the oxygen and hydrogen evaporated.[24]: II–186 
+
+The launch commit criteria considered precipitation, temperatures, cloud cover, lightning forecast, wind, and humidity.[38] The Space Shuttle was not launched under conditions where it could have been struck by lightning, as its exhaust plume could have triggered lightning by providing a current path to ground after launch, which occurred on Apollo 12.[39]: 239  The NASA Anvil Rule for a Shuttle launch stated that an anvil cloud could not appear within a distance of 19 km (10 nmi).[40] The Shuttle Launch Weather Officer monitored conditions until the final decision to scrub a launch was announced. In addition to the weather at the launch site, conditions had to be acceptable at one of the Transatlantic Abort Landing sites and the SRB recovery area.[38][41]
+
+Launch
+
+Early ignition and lift-off view of main-engines and SRB (ground-camera view)
+The mission crew and the Launch Control Center (LCC) personnel completed systems checks throughout the countdown. Two built-in holds at T−20 minutes and T−9 minutes provided scheduled breaks to address any issues and additional preparation.[24]: III–8  After the built-in hold at T−9 minutes, the countdown was automatically controlled by the Ground Launch Sequencer (GLS) at the LCC, which stopped the countdown if it sensed a critical problem with any of the Space Shuttle's onboard systems.[41] At T−3 minutes 45 seconds, the engines began conducting gimbal tests, which were concluded at T−2 minutes 15 seconds. The ground Launch Processing System handed off the control to the orbiter vehicle's GPCs at T−31 seconds. At T−16 seconds, the GPCs armed the SRBs, the sound suppression system (SPS) began to drench the MLP and SRB trenches with 1,100,000 L (300,000 U.S. gal) of water to protect the orbiter vehicle from damage by acoustical energy and rocket exhaust reflected from the flame trench and MLP during lift-off.[42][43] At T−10 seconds, hydrogen igniters were activated under each engine bell to quell the stagnant gas inside the cones before ignition. Failure to burn these gases could trip the onboard sensors and create the possibility of an overpressure and explosion of the vehicle during the firing phase. The hydrogen tank's prevalves were opened at T−9.5 seconds in preparation for engine start.[24]: II–186 
+
+
+Shuttle lift-off via on-board camera view.
+Beginning at T−6.6 seconds, the main engines were ignited sequentially at 120-millisecond intervals. All three RS-25 engines were required to reach 90% rated thrust by T−3 seconds, otherwise the GPCs would initiate an RSLS abort. If all three engines indicated nominal performance by T−3 seconds, they were commanded to gimbal to liftoff configuration and the command would be issued to arm the SRBs for ignition at T−0.[44] Between T−6.6 seconds and T−3 seconds, while the RS-25 engines were firing but the SRBs were still bolted to the pad, the offset thrust would cause the Space Shuttle to pitch down 650 mm (25.5 in) measured at the tip of the external tank; the 3-second delay allowed the stack to return to nearly vertical before SRB ignition. This movement was nicknamed the "twang." At T−0, the eight frangible nuts holding the SRBs to the pad were detonated, the final umbilicals were disconnected, the SSMEs were commanded to 100% throttle, and the SRBs were ignited.[45][46] By T+0.23 seconds, the SRBs built up enough thrust for liftoff to commence, and reached maximum chamber pressure by T+0.6 seconds.[47][24]: II–186  At T−0, the JSC Mission Control Center assumed control of the flight from the LCC.[24]: III–9 
+
+
+On-board camera-view of SRB separation.
+At T+4 seconds, when the Space Shuttle reached an altitude of 22 meters (73 ft), the RS-25 engines were throttled up to 104.5%. At approximately T+7 seconds, the Space Shuttle rolled to a heads-down orientation at an altitude of 110 meters (350 ft), which reduced aerodynamic stress and provided an improved communication and navigation orientation. Approximately 20–30 seconds into ascent and an altitude of 2,700 meters (9,000 ft), the RS-25 engines were throttled down to 65–72% to reduce the maximum aerodynamic forces at Max Q.[24]: III–8–9  Additionally, the shape of the SRB propellant was designed to cause thrust to decrease at the time of Max Q.[3]: 427  The GPCs could dynamically control the throttle of the RS-25 engines based upon the performance of the SRBs.[24]: II–187 
+
+
+On-board camera-view of external-tank separation
+At approximately T+123 seconds and an altitude of 46,000 meters (150,000 ft), pyrotechnic fasteners released the SRBs, which reached an apogee of 67,000 meters (220,000 ft) before parachuting into the Atlantic Ocean. The Space Shuttle continued its ascent using only the RS-25 engines. On earlier missions, the Space Shuttle remained in the heads-down orientation to maintain communications with the tracking station in Bermuda, but later missions, beginning with STS-87, rolled to a heads-up orientation at T+6 minutes for communication with the tracking and data relay satellite constellation. The RS-25 engines were throttled at T+7 minutes 30 seconds to limit vehicle acceleration to 3 g. At 6 seconds prior to main engine cutoff (MECO), which occurred at T+8 minutes 30 seconds, the RS-25 engines were throttled down to 67%. The GPCs controlled ET separation and dumped the remaining liquid oxygen and hydrogen to prevent outgassing while in orbit. The ET continued on a ballistic trajectory and broke up during reentry, with some small pieces landing in the Indian or Pacific Ocean.[24]: III–9–10 
+
+Early missions used two firings of the OMS to achieve orbit; the first firing raised the apogee while the second circularized the orbit. Missions after STS-38 used the RS-25 engines to achieve the optimal apogee, and used the OMS engines to circularize the orbit. The orbital altitude and inclination were mission-dependent, and the Space Shuttle's orbits varied from 220 to 620 km (120 to 335 nmi).[24]: III–10 
+
+In orbit
+The Space Shuttle Endeavour docked with the International Space Station
+Endeavour docked at ISS during the STS-134 mission
+The type of mission the Space Shuttle was assigned dictated the type of orbit that it entered. The initial design of the reusable Space Shuttle envisioned an increasingly cheap launch platform to deploy commercial and government satellites. Early missions routinely ferried satellites, which determined the type of orbit that the orbiter vehicle would enter. Following the Challenger disaster, many commercial payloads were moved to expendable commercial rockets, such as the Delta II.[24]: III–108, 123  While later missions still launched commercial payloads, Space Shuttle assignments were routinely directed towards scientific payloads, such as the Hubble Space Telescope,[24]: III–148  Spacelab,[3]: 434–435  and the Galileo spacecraft.[24]: III–140  Beginning with STS-71, the orbiter vehicle conducted dockings with the Mir space station.[24]: III–224  In its final decade of operation, the Space Shuttle was used for the construction of the International Space Station.[24]: III–264  Most missions involved staying in orbit several days to two weeks, although longer missions were possible with the Extended Duration Orbiter pallet.[24]: III–86  The 17 day 15 hour STS-80 mission was the longest Space Shuttle mission duration.[24]: III–238 
+
+Re-entry and landing
+A view of the commander and pilot during reentry on STS-42
+Flight deck view of Discovery during STS-42 re-entry
+Approximately four hours prior to deorbit, the crew began preparing the orbiter vehicle for reentry by closing the payload doors, radiating excess heat, and retracting the Ku band antenna. The orbiter vehicle maneuvered to an upside-down, tail-first orientation and began a 2–4 minute OMS burn approximately 20 minutes before it reentered the atmosphere. The orbiter vehicle reoriented itself to a nose-forward position with a 40° angle-of-attack, and the forward reaction control system (RCS) jets were emptied of fuel and disabled prior to reentry. The orbiter vehicle's reentry was defined as starting at an altitude of 120 km (400,000 ft), when it was traveling at approximately Mach 25. The orbiter vehicle's reentry was controlled by the GPCs, which followed a preset angle-of-attack plan to prevent unsafe heating of the TPS. During reentry, the orbiter's speed was regulated by altering the amount of drag produced, which was controlled by means of angle of attack, as well as bank angle. The latter could be used to control drag without changing the angle of attack. A series of roll reversals[c] were performed to control azimuth while banking.[48] The orbiter vehicle's aft RCS jets were disabled as its ailerons, elevators, and rudder became effective in the lower atmosphere. At an altitude of 46 km (150,000 ft), the orbiter vehicle opened its speed brake on the vertical stabilizer. At 8 minutes 44 seconds prior to landing, the crew deployed the air data probes, and began lowering the angle-of-attack to 36°.[24]: III–12  The orbiter's maximum glide ratio/lift-to-drag ratio varied considerably with speed, ranging from 1.3 at hypersonic speeds to 4.9 at subsonic speeds.[24]: II–1  The orbiter vehicle flew to one of the two Heading Alignment Cones, located 48 km (30 mi) away from each end of the runway's centerline, where it made its final turns to dissipate excess energy prior to its approach and landing. Once the orbiter vehicle was traveling subsonically, the crew took over manual control of the flight.[24]: III–13 
+
+Discovery deployed a parachute to slow itself after landing
+Discovery deploying its brake parachute after landing on STS-124
+The approach and landing phase began when the orbiter vehicle was at an altitude of 3,000 m (10,000 ft) and traveling at 150 m/s (300 kn). The orbiter followed either a -20° or -18° glideslope and descended at approximately 51 m/s (167 ft/s). The speed brake was used to keep a continuous speed, and crew initiated a pre-flare maneuver to a -1.5° glideslope at an altitude of 610 m (2,000 ft). The landing gear was deployed 10 seconds prior to touchdown, when the orbiter was at an altitude of 91 m (300 ft) and traveling 150 m/s (288 kn). A final flare maneuver reduced the orbiter vehicle's descent rate to 0.9 m/s (3 ft/s), with touchdown occurring at 100–150 m/s (195–295 kn), depending on the weight of the orbiter vehicle. After the landing gear touched down, the crew deployed a drag chute out of the vertical stabilizer, and began wheel braking when the orbiter was traveling slower than 72 m/s (140 kn). After the orbiter's wheels stopped, the crew deactivated the flight components and prepared to exit.[24]: III–13 
+
+Landing sites
+See also: List of Space Shuttle landing sites
+The primary Space Shuttle landing site was the Shuttle Landing Facility at KSC, where 78 of the 133 successful landings occurred. In the event of unfavorable landing conditions, the Shuttle could delay its landing or land at an alternate location. The primary alternate was Edwards AFB, which was used for 54 landings.[24]: III–18–20  STS-3 landed at the White Sands Space Harbor in New Mexico and required extensive post-processing after exposure to the gypsum-rich sand, some of which was found in Columbia debris after STS-107.[24]: III–28  Landings at alternate airfields required the Shuttle Carrier Aircraft to transport the orbiter back to Cape Canaveral.[24]: III–13 
+
+In addition to the pre-planned landing airfields, there were 85 agreed-upon emergency landing sites to be used in different abort scenarios, with 58 located in other countries. The landing locations were chosen based upon political relationships, favorable weather, a runway at least 2,300 m (7,500 ft) long, and TACAN or DME equipment. Additionally, as the orbiter vehicle only had UHF radios, international sites with only VHF radios would have been unable to communicate directly with the crew. Facilities on the east coast of the US were planned for East Coast Abort Landings, while several sites in Europe and Africa were planned in the event of a Transoceanic Abort Landing. The facilities were prepared with equipment and personnel in the event of an emergency shuttle landing but were never used.[24]: III–19 
+
+Post-landing processing
+Main article: Orbiter Processing Facility
+The Space Shuttle Discovery on the runway as ground crews work to get the crew out of the orbiter
+Discovery being prepared after landing for crew disembarkment following STS-114
+After the landing, ground crews approached the orbiter to conduct safety checks. Teams wearing self-contained breathing gear tested for the presence of hydrogen, hydrazine, monomethylhydrazine, nitrogen tetroxide, and ammonia to ensure the landing area was safe.[49] Air conditioning and Freon lines were connected to cool the crew and equipment and dissipate excess heat from reentry.[24]: III-13  A flight surgeon boarded the orbiter and performed medical checks of the crew before they disembarked. Once the orbiter was secured, it was towed to the OPF to be inspected, repaired, and prepared for the next mission.[49] The processing included:
+
+removal and installation of mission-specific items and payloads
+draining of waste and leftover consumables, and refilling of new consumables
+inspection and (if necessary) repair of the thermal protection system
+checkout and servicing of main engines (done in the Main Engine Processing Facility to facilitate easier access, necessitating their removal from the orbiter)
+if necessary, removal of the Orbital Maneuvering System and Reaction Control System pods for maintenance at the Hypergol Maintenance Facility
+installation of any mid-life upgrades and modifications
+Space Shuttle program
+Main article: Space Shuttle program
+The Space Shuttle flew from April 12, 1981,[24]: III–24  until July 21, 2011.[24]: III–398  Throughout the program, the Space Shuttle had 135 missions,[24]: III–398  of which 133 returned safely.[24]: III–80, 304  Throughout its lifetime, the Space Shuttle was used to conduct scientific research,[24]: III–188  deploy commercial,[24]: III–66  military,[24]: III–68  and scientific payloads,[24]: III–148  and was involved in the construction and operation of Mir[24]: III–216  and the ISS.[24]: III–264  During its tenure, the Space Shuttle served as the only U.S. vehicle to launch astronauts, of which there was no replacement until the launch of Crew Dragon Demo-2 on May 30, 2020.[50]
+
+Budget
+The overall NASA budget of the Space Shuttle program has been estimated to be $221 billion (in 2012 dollars).[24]: III−488  The developers of the Space Shuttle advocated for reusability as a cost-saving measure, which resulted in higher development costs for presumed lower costs-per-launch. During the design of the Space Shuttle, the Phase B proposals were not as cheap as the initial Phase A estimates indicated; Space Shuttle program manager Robert Thompson acknowledged that reducing cost-per-pound was not the primary objective of the further design phases, as other technical requirements could not be met with the reduced costs.[24]: III−489−490  Development estimates made in 1972 projected a per-pound cost of payload as low as $1,109 (in 2012) per pound, but the actual payload costs, not to include the costs for the research and development of the Space Shuttle, were $37,207 (in 2012) per pound.[24]: III−491  Per-launch costs varied throughout the program and were dependent on the rate of flights as well as research, development, and investigation proceedings throughout the Space Shuttle program. In 1982, NASA published an estimate of $260 million (in 2012) per flight, which was based on the prediction of 24 flights per year for a decade. The per-launch cost from 1995 to 2002, when the orbiters and ISS were not being constructed and there was no recovery work following a loss of crew, was $806 million. NASA published a study in 1999 that concluded that costs were $576 million (in 2012) if there were seven launches per year. In 2009, NASA determined that the cost of adding a single launch per year was $252 million (in 2012), which indicated that much of the Space Shuttle program costs are for year-round personnel and operations that continued regardless of the launch rate. Accounting for the entire Space Shuttle program budget, the per-launch cost was $1.642 billion (in 2012).[24]: III−490 
+
+Disasters
+Main articles: Space Shuttle Challenger disaster and Space Shuttle Columbia disaster
+On January 28, 1986, STS-51-L disintegrated 73 seconds after launch, due to the failure of the right SRB, killing all seven astronauts on board Challenger. The disaster was caused by the low-temperature impairment of an O-ring, a mission-critical seal used between segments of the SRB casing. Failure of the O-ring allowed hot combustion gases to escape from between the booster sections and burn through the adjacent ET, leading to a sequence of catastrophic events which caused the orbiter to disintegrate.[51]: 71  Repeated warnings from design engineers voicing concerns about the lack of evidence of the O-rings' safety when the temperature was below 53 °F (12 °C) had been ignored by NASA managers.[51]: 148 
+
+On February 1, 2003, Columbia disintegrated during re-entry, killing all seven of the STS-107 crew, because of damage to the carbon-carbon leading edge of the wing caused during launch. Ground control engineers had made three separate requests for high-resolution images taken by the Department of Defense that would have provided an understanding of the extent of the damage, while NASA's chief TPS engineer requested that astronauts on board Columbia be allowed to leave the vehicle to inspect the damage. NASA managers intervened to stop the Department of Defense's imaging of the orbiter and refused the request for the spacewalk,[24]: III–323 [52] and thus the feasibility of scenarios for astronaut repair or rescue by Atlantis were not considered by NASA management at the time.[53]
+
+Criticism
+Main article: Criticism of the Space Shuttle program
+The partial reusability of the Space Shuttle was one of the primary design requirements during its initial development.[8]: 164  The technical decisions that dictated the orbiter's return and re-use reduced the per-launch payload capabilities. The original intention was to compensate for this lower payload by lowering the per-launch costs and a high launch frequency. However, the actual costs of a Space Shuttle launch were higher than initially predicted, and the Space Shuttle did not fly the intended 24 missions per year as initially predicted by NASA.[54][24]: III–489–490 
+
+The Space Shuttle was originally intended as a launch vehicle to deploy satellites, which it was primarily used for on the missions prior to the Challenger disaster. NASA's pricing, which was below cost, was lower than expendable launch vehicles; the intention was that the high volume of Space Shuttle missions would compensate for early financial losses. The improvement of expendable launch vehicles and the transition away from commercial payloads on the Space Shuttle resulted in expendable launch vehicles becoming the primary deployment option for satellites.[24]: III–109–112  A key customer for the Space Shuttle was the National Reconnaissance Office (NRO) responsible for spy satellites. The existence of NRO's connection was classified through 1993, and secret considerations of NRO payload requirements led to lack of transparency in the program. The proposed Shuttle-Centaur program, cancelled in the wake of the Challenger disaster, would have pushed the spacecraft beyond its operational capacity.[55]
+
+The fatal Challenger and Columbia disasters demonstrated the safety risks of the Space Shuttle that could result in the loss of the crew. The spaceplane design of the orbiter limited the abort options, as the abort scenarios required the controlled flight of the orbiter to a runway or to allow the crew to egress individually, rather than the abort escape options on the Apollo and Soyuz space capsules.[56] Early safety analyses advertised by NASA engineers and management predicted the chance of a catastrophic failure resulting in the death of the crew as ranging from 1 in 100 launches to as rare as 1 in 100,000.[57][58] Following the loss of two Space Shuttle missions, the risks for the initial missions were reevaluated, and the chance of a catastrophic loss of the vehicle and crew was found to be as high as 1 in 9.[59] NASA management was criticized afterwards for accepting increased risk to the crew in exchange for higher mission rates. Both the Challenger and Columbia reports explained that NASA culture had failed to keep the crew safe by not objectively evaluating the potential risks of the missions.[58][60]: 195–203 
+
+Retirement
+Main article: Space Shuttle retirement
+Atlantis being towed back with some workers in the front after its final landing
+Atlantis after its final landing, marking the end of the Space Shuttle Program
+The Space Shuttle retirement was announced in January 2004.[24]: III-347  President George W. Bush announced his Vision for Space Exploration, which called for the retirement of the Space Shuttle once it completed construction of the ISS.[61][62] To ensure the ISS was properly assembled, the contributing partners determined the need for 16 remaining assembly missions in March 2006.[24]: III-349  One additional Hubble Space Telescope servicing mission was approved in October 2006.[24]: III-352  Originally, STS-134 was to be the final Space Shuttle mission. However, the Columbia disaster resulted in additional orbiters being prepared for launch on need in the event of a rescue mission. As Atlantis was prepared for the final launch-on-need mission, the decision was made in September 2010 that it would fly as STS-135 with a four-person crew that could remain at the ISS in the event of an emergency.[24]: III-355  STS-135 launched on July 8, 2011, and landed at the KSC on July 21, 2011, at 5:57 a.m. EDT (09:57 UTC).[24]: III-398  From then until the launch of Crew Dragon Demo-2 on May 30, 2020, the US launched its astronauts aboard Russian Soyuz spacecraft.[63]
+
+Following each orbiter's final flight, it was processed to make it safe for display. The OMS and RCS systems used presented the primary dangers due to their toxic hypergolic propellant, and most of their components were permanently removed to prevent any dangerous outgassing.[24]: III-443  Atlantis is on display at the Kennedy Space Center Visitor Complex in Florida,[24]: III-456  Discovery is on display at the Steven F. Udvar-Hazy Center in Virginia,[24]: III-451  Endeavour is on display at the California Science Center in Los Angeles,[24]: III-457  and Enterprise is displayed at the Intrepid Museum in New York.[24]: III-464  Components from the orbiters were transferred to the US Air Force, ISS program, and Russian and Canadian governments. The engines were removed to be used on the Space Launch System, and spare RS-25 nozzles were attached for display purposes.[24]: III-445 
+
+For many Artemis program missions, the Space Launch System's two solid rocket boosters' engines and casings and four main engines and the Orion spacecraft's main engine will all be previously flown Space Shuttle main engines, solid rocket boosters, and Orbital Maneuvering System engines. They are refurbished legacy engines from the Space Shuttle program, some of which even date back to the early 1980s. For example, Artemis I had components that flew on 83 of the 135 Space Shuttle missions. From Artemis I to Artemis IV recycled Shuttle main engines will be used before manufacturing new engines. From Artemis I to Artemis III recycled Shuttle solid rocket boosters' engines and steel casings are to be used before building new ones. From Artemis I to Artemis VI the Orion main engine will use six previously flown Space Shuttle OMS engines.[64][65][66]
+
+See also
+	Rocketry portal
+	Spaceflight portal
+Aircraft in fiction § Space Shuttle orbiter
+List of crewed spacecraft
+List of Space Shuttle missions
+Studied Space Shuttle variations and derivatives
+Similar spacecraft
+
+Buran – Soviet reusable spaceplane
+Dream Chaser
+Space Rider
+Hermes (cancelled)
+Kliper (cancelled)
+Notes
+ In this case, the number of successes is determined by the number of successful Space Shuttle missions.
+ STS-1 and STS-2 were the only Space Shuttle missions that used a white fire-retardant coating on the external tank. Subsequent missions did not use the latex coating to reduce the mass, and the external tank appeared orange.[15]: 48 
+ A roll reversal is a maneuver where the bank angle is altered from one side to another. They are used to control the deviation of the azimuth from the prograde vector that results from using high bank angles to create drag.
+References
+ Bray, Nancy (August 3, 2017). "Kennedy Space Center FAQ". NASA. Archived from the original on November 2, 2019. Retrieved July 13, 2022.
+ "Space Shuttle Era Facts" (PDF). NASA. Retrieved June 24, 2025.
+ Jenkins, Dennis R. (2001). Space Shuttle: The History of the National Space Transportation System. Voyageur Press. ISBN 978-0-9633974-5-4.
+ "Inertial Upper Stage". Rocket and Space Technology. November 2017. Archived from the original on August 7, 2020. Retrieved June 21, 2020.
+ Woodcock, Gordon R. (1986). Space stations and platforms. Orbit Book co. ISBN 978-0-89464-001-8. Retrieved April 17, 2012. The present limit on Shuttle landing payload is 14,400 kg (31,700 lb). This value applies to payloads intended for landing.
+ Dunbar, Brian (March 5, 2006). "Solid Rocket Boosters". NASA. Archived from the original on April 6, 2013. Retrieved July 19, 2021.
+ Kyle, Ed. "STS Data Sheet". spacelaunchreport.com. Archived from the original on August 7, 2020. Retrieved May 4, 2018.
+ Williamson, Ray (1999). "Developing the Space Shuttle" (PDF). Exploring the Unknown: Selected Documents in the History of the U.S. Civil Space Program, Volume IV: Accessing Space. Washington, D.C.: NASA. Archived (PDF) from the original on May 31, 2020. Retrieved April 23, 2019.
+ Launius, Roger D. (1969). "Space Task Group Report, 1969". NASA. Archived from the original on January 14, 2016. Retrieved March 22, 2020.
+ "The Space Shuttle's First Flight: STS-1".
+ Malik, Tarik (July 21, 2011). "NASA's Space Shuttle By the Numbers: 30 Years of a Spaceflight Icon". Space.com. Archived from the original on October 16, 2015. Retrieved June 18, 2014.
+ Smith, Yvette (June 1, 2020). "Demo-2: Launching Into History". NASA. Archived from the original on February 21, 2021. Retrieved February 18, 2021.
+ Wall, Mike (June 28, 2011). "How the Space Shuttle Was Born". Space.com. Archived from the original on March 30, 2023. Retrieved March 30, 2023.
+ Reed, R. Dale (January 1, 1997). Wingless Flight: The Lifting Body Story (PDF). NASA. ISBN 9780160493904. Archived (PDF) from the original on December 18, 2014. Retrieved April 25, 2019.
+ Baker, David (April 2011). NASA Space Shuttle: Owners' Workshop Manual. Somerset, UK: Haynes Manual. ISBN 978-1-84425-866-6.
+ Guilmartin JF, Mauer JW (1988). A shuttle chronology 1964–1973: Abstract concepts to letter contracts (5 vols.). Houston, TX.: NASA Lyndon B. Johnson Space Center, Houston, TX.
+ Lindroos, Marcus (June 15, 2001). "Introduction to Future Launch Vehicle Plans [1963–2001]". Pmview.com. Archived from the original on July 17, 2019. Retrieved April 25, 2019.
+ Allen, Bob (August 7, 2017). "Maxime A. Faget". NASA. Archived from the original on December 19, 2019. Retrieved April 24, 2019.
+ United States 3,702,688, Maxime A. Faget, "Space Shuttle Vehicle and System", published November 14, 1972 Archived April 24, 2019, at the Wayback Machine
+ Lethbridge, Cliff. "SPACE SHUTTLE". Spaceline.org. Archived from the original on March 31, 2023. Retrieved March 31, 2023.
+ Campa, Andrew J. (October 17, 2024). "'This is where it all happened.' Downey's space shuttle prototype begins move to future home". Los Angeles Times. Retrieved January 19, 2025.
+ "Lost LA season 7, episode 1: Space Shuttle". PBS. January 7, 2025. Retrieved January 19, 2025.
+ Howell, Elizabeth (October 9, 2012). "Enterprise: The Test Shuttle". Space.com. Archived from the original on August 6, 2020. Retrieved April 24, 2019.
+ Jenkins, Dennis R. (2016). Space Shuttle: Developing an Icon – 1972–2013. Specialty Press. ISBN 978-1-58007-249-6.
+ White, Rowland (2016). Into the Black. New York: Touchstone. ISBN 978-1-5011-2362-7.
+ Dumoulin, Jim (August 31, 2000). "Space Transportation System". NASA. Archived from the original on February 5, 2021. Retrieved June 21, 2020.
+ Sivolella, David (2017). The Space Shuttle Program: Technologies and Accomplishments. Hemel Hempstead: Springer Praxis Books. doi:10.1007/978-3-319-54946-0. ISBN 978-3-319-54944-6. Archived from the original on April 17, 2021. Retrieved October 17, 2020.
+ Dumoulin, Jim (August 31, 2000). "NASA Centers And Responsibilities". NASA. Archived from the original on June 21, 2020. Retrieved March 22, 2020.
+ "Space Shuttle Astronaut Qualifications | Spaceline". Archived from the original on March 24, 2023. Retrieved April 1, 2023.
+ Bergin, Chris (February 19, 2007). "NASA solves YERO problem for Shuttle". NASASpaceflight.com. Archived from the original on April 18, 2008. Retrieved December 22, 2007.
+ The Computer History Museum (2006). "Pioneering the Laptop: Engineering the GRiD Compass". The Computer History Museum. Archived from the original on December 4, 2007. Retrieved October 25, 2007.
+ Dooling, Dave (March 15, 1999). "Spacelab joined diverse scientists and disciplines on 28 Shuttle missions". NASA. Archived from the original on December 24, 2018. Retrieved April 23, 2020.
+ "Crawler-Transporter". NASA. April 21, 2003. Archived from the original on June 1, 2020. Retrieved June 18, 2020.
+ "Joe Davies Heritage Airpark". City of Palmdale. Archived from the original on August 7, 2020. Retrieved June 18, 2020.
+ Chowdhury, Abul (October 10, 2018). "Crew Transport Vehicle". NASA. Archived from the original on August 7, 2020. Retrieved June 18, 2020.
+ Mansfield, Cheryl L. (July 15, 2008). "Catching a Ride to Destiny". NASA. Archived from the original on June 9, 2009. Retrieved June 18, 2020.
+ "The NASA Railroad" (PDF). NASA. 2007. Archived (PDF) from the original on August 7, 2020. Retrieved June 18, 2020.
+ Diller, George (May 20, 1999). "Space Shuttle weather launch commit criteria and KSC end of mission weather landing criteria". Kennedy Space Center (KSC). KSC Release No. 39-99. NASA. Archived from the original on August 7, 2020. Retrieved May 1, 2020.
+ Chaikin, Andrew (2007). A Man on the Moon: The Voyages of the Apollo Astronauts. Penguin Group. ISBN 978-0-14-311235-8. Archived from the original on April 17, 2021. Retrieved October 17, 2020.
+ Oblack, Rachelle (March 5, 2018). "The Anvil Rule: How NASA Keeps Its Shuttles Safe form Thunderstorms". Thoughtco.com. Archived from the original on June 8, 2020. Retrieved September 17, 2018.
+ "NASA's Launch Blog – Mission STS-121". NASA. July 1, 2006. Archived from the original on May 24, 2017. Retrieved May 1, 2020.
+ Ryba, Jeanne (November 23, 2007). "Sound Suppression System". NASA. Archived from the original on June 29, 2011. Retrieved March 22, 2020.
+ Grinter, Kay (August 28, 2000). "Sound Suppression Water System". NASA. Archived from the original on March 13, 2014. Retrieved April 9, 2020.
+ Ryba, Jeanne (September 17, 2009). "Countdown 101". NASA. Archived from the original on January 26, 2020. Retrieved March 22, 2020.
+ Roy, Steve (November 2008). "Space Shuttle Solid Rocket Booster" (PDF). NASA. Archived (PDF) from the original on November 13, 2018. Retrieved March 22, 2020.
+ Dumoulin, Jim (August 31, 2000). "Solid Rocket Boosters". NASA. Archived from the original on February 16, 2012. Retrieved March 22, 2020.
+ "Shuttle Crew Operations Manual" (PDF). NASA. Archived (PDF) from the original on December 16, 2017. Retrieved May 4, 2018.
+ Space Shuttle Reentry In-depth, July 25, 2020, archived from the original on January 18, 2023, retrieved October 24, 2022
+ "From Landing to Launch Orbiter Processing" (PDF). NASA. 2002. Archived from the original (PDF) on July 21, 2011. Retrieved June 30, 2011.
+ Finch, Josh; Schierholz, Stephanie; Herring, Kyle; Lewis, Marie; Huot, Dan; Dean, Brandi (May 31, 2020). "NASA Astronauts Launch from America in Historic Test Flight of SpaceX Crew Dragon". Release 20-057. NASA. Archived from the original on August 20, 2020. Retrieved June 10, 2020.
+ Rogers, William P.; Armstrong, Neil A.; Acheson, David C.; Covert, Eugene E.; Feynman, Richard P.; Hotz, Robert B.; Kutyna, Donald J.; Ride, Sally K; Rummel, Robert W.; Sutter, Joseph F.; Walker, Arthur B.C.; Wheelon, Albert D.; Yeager, Charles E. (June 6, 1986). "Report of the Presidential Commission on the Space Shuttle Challenger Accident" (PDF). NASA. Archived (PDF) from the original on July 13, 2021. Retrieved July 13, 2021.
+ "The Columbia Accident". Century of Flight. Archived from the original on September 26, 2007. Retrieved May 28, 2019.
+ "NASA Columbia Master Timeline". NASA. March 10, 2003. Archived from the original on December 25, 2017. Retrieved May 28, 2019.
+ Griffin, Michael D. (March 14, 2007). "Human Space Exploration: The Next 50 Years". Aviation Week. Archived from the original on August 7, 2020. Retrieved June 15, 2020.
+ Cook, Richard (2007). Challenger Revealed: An Insider's Account of How the Reagan Administration Caused the Greatest Tragedy of the Space Ag. Basic Books. ISBN 978-1560259800.
+ Klesius, Mike (March 31, 2010). "Spaceflight Safety: Shuttle vs. Soyuz vs. Falcon 9". Air & Space. Archived from the original on August 7, 2020. Retrieved June 15, 2020.
+ Bell, Trudy; Esch, Karl (January 28, 2016). "The Challenger Disaster: A Case of Subjective Engineering". IEEE Spectrum. IEEE. Archived from the original on May 29, 2019. Retrieved June 18, 2020.
+ Feynman, Richard (June 6, 1986). "Appendix F – Personal observations on the reliability of the Shuttle". Report of the Presidential Commission on the Space Shuttle Challenger Accident. NASA. Archived from the original on August 7, 2020. Retrieved June 18, 2020.
+ Flatow, Ira; Hamlin, Teri; Canga, Mike (March 4, 2011). "Earlier Space Shuttle Flights Riskier Than Estimated". Talk of the Nation. NPR. Archived from the original on August 8, 2020. Retrieved June 18, 2020.
+ "Columbia Accident Investigation Board" (PDF). NASA. August 2003. Archived from the original (PDF) on November 9, 2004. Retrieved June 18, 2020.
+ "The Vision for Space Exploration" (PDF). NASA. February 2004. Archived (PDF) from the original on January 11, 2012. Retrieved July 6, 2020.
+ Bush, George W. (January 14, 2004). "President Bush Announces New Vision for Space Exploration Program". NASA. Archived from the original on October 18, 2004. Retrieved July 6, 2020.
+ Chang, Kenneth (May 30, 2020). "SpaceX Lifts NASA Astronauts to Orbit, Launching New Era of Spaceflight". The New York Times. Archived from the original on August 10, 2020. Retrieved July 5, 2020.
+ "NASA's Artemis I mission to launch using space shuttle-used parts". CollectSpace.com. Archived from the original on August 31, 2022. Retrieved March 15, 2025.
+ Harbaugh, Jennifer A. (February 3, 2022). "Fired Up: Engines and Motors Put Artemis Mission in Motion". NASA. Retrieved March 15, 2025.
+ "SLS (Space Launch System) Solid Rocket Booster". NASA. July 25, 2024. Retrieved March 15, 2025.
+External links
+
+Wikimedia Commons has media related to:
+Space Shuttle (category)
+NSTS 1988 Reference manual
+How The Space Shuttle Works
+Orbiter Vehicles Archived February 9, 2021, at the Wayback Machine
+The Space Shuttle Era: 1981–2011; interactive multimedia on the Space Shuttle orbiters
+NASA Human Spaceflight – Shuttle
+High resolution spherical panoramas over, under, around and through Discovery, Atlantis and Endeavour
+Historic American Engineering Record (HAER) No. TX-116, "Space Transportation System, Lyndon B. Johnson Space Center, 2101 NASA Parkway, Houston, Harris County, TX", 6 measured drawings, 728 data pages
+"No Go-Around: You have only one chance to land the space shuttle" (simulator pilot report, detailed and illustrated), Barry Schiff, April 1999, AOPA Pilot, p. 85., at BarrySchiff.com
+When We Were Shuttle, explores the Space Shuttle program through the eyes of those who worked to make it fly (PBS)
+vte
+Space Shuttle program
+vte
+U.S. Space Shuttle missions
+vte
+Space Shuttle and Buran-class orbiters
+Links to related articles
+Authority control databases Edit this at Wikidata
+Categories: Space Shuttle programAircraft first flown in 1977American inventionsCrewed spacecraftHistoric American Engineering Record in TexasNASA space launch vehiclesPartially reusable space launch vehiclesReusable spaceflight technologyVehicles introduced in 1981
+This page was last edited on 11 October 2025, at 06:42 (UTC).
+Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+Privacy policyAbout WikipediaDisclaimersContact WikipediaCode of ConductDevelopersStatisticsCookie statementMobile view
+Wikimedia Foundation
+Powered by MediaWiki
