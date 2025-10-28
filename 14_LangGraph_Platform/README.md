@@ -39,7 +39,7 @@ Run the repository and complete the following:
 Compare the `agent` and `agent_helpful` assistants defined in `langgraph.json`. Where does the helpfulness evaluator fit in the graph, and under what condition should execution route back to the agent vs. terminate?
 
 ##### ✅ Answer:
-_(enter answer here)_
+The helpfulness evaluator runs after the agent responds. It routes back to agent if the response is marked unhelpful ('N'), or terminates if marked helpful ('Y') or after a loop limit (>10 messages). This ensures quality control before stopping.
 
 #### 🏗️ Activity #1 Debugging A Graph
 
@@ -50,8 +50,7 @@ Select the `agent_with_helpfulness` and set one or more interrupts (at least one
 What are your thoughts on when you would use a Before interrupt vs. an After interrupt?
 
 ##### ✅ Answer:
-_(enter answer here)_
-
+BEFORE interrupts let you modify inputs before execution. AFTER interrupts let you inspect outputs and decide whether to continue. Use BEFORE for debugging state, AFTER for validating results.
 
 
 <details>
