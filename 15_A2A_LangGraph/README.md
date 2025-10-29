@@ -101,7 +101,7 @@ What are the core components of an `AgentCard`?
 Why is A2A (and other such protocols) important in your own words?
 
 ##### ✅ Answer:
-- They allow agents to display their own "resumes" so that a client agent can figure out if its the server agent is the correct call
+- They allow agents to display their own "resumes" so that a client agent can figure out if its the server agent is the correct call. More generally, protocols allow clearer programmatic communication between server and client. 
 
 <br /><br />
 
