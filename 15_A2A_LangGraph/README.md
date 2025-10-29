@@ -87,6 +87,12 @@ Do this by creating a Simple Agent that can make API calls to the 🤖Agent Node
 What are the core components of an `AgentCard`?
 
 ##### ✅ Answer:
+- name: the name of the agent
+- desc: the high level description of the agens skills
+- url: where the agent can be found
+- default input and out types
+- capabilities: boolean descriptions on some things the agents can do like steam text, push notifications
+- skills: which tools the agent has access to
 
 <br />
 
@@ -95,6 +101,7 @@ What are the core components of an `AgentCard`?
 Why is A2A (and other such protocols) important in your own words?
 
 ##### ✅ Answer:
+- They allow agents to display their own "resumes" so that a client agent can figure out if its the server agent is the correct call
 
 <br /><br />
 
