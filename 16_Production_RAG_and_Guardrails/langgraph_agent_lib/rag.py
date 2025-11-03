@@ -123,7 +123,8 @@ Context:
         
         # Create chain with parallel execution
         self.chain = (
-            {"context": itemgetter("question") | self.retriever, "question": itemgetter("question")}
+            {"context": itemgetter("question") | self.retriever, 
+            "question": itemgetter("question")}
             | RunnablePassthrough.assign(context=itemgetter("context"))
             | self.chat_prompt 
             | self.llm
